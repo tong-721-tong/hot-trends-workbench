@@ -1,13 +1,13 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-热梗工作台 - 多平台热搜数据抓取脚本 (云端版)
+热梗工作台 - 多平台热搜数据抓取脚本 (云端版 v2)
 支持平台: 抖音、微博、B站、知乎、百度、头条
 数据输出: data/data.js (供前端 dashboard 直接加载)
 
 API 源 (按优先级):
-  1. tenapi.cn  - 免费公开 API，响应快
-  2. vvhan API  - 备用源
+  1. UAPIS (uapis.cn)  - 免费 40+ 平台聚合, 无需 Key, 稳定可靠
+  2. XXAPI (v2.xxapi.cn) - 免费, 无需 Key, 50 QPS
 """
 
 import json
@@ -32,60 +32,63 @@ SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 OUTPUT_DIR = os.path.join(SCRIPT_DIR, "data")
 OUTPUT_FILE = os.path.join(OUTPUT_DIR, "data.js")
 
-# 多平台 API 配置 (双源备份，按顺序尝试)
+# 多平台 API 配置 (双源备份)
 API_SOURCES = {
     "douyin": {
         "name": "抖音热搜",
         "color": "#000000",
-        "icon": "tiktok",
         "apis": [
-            {"name": "tenapi", "url": "https://tenapi.cn/v2/douyinhot", "field": "data", "titleKey": "name", "hotKey": "hot"},
-            {"name": "vvhan",  "url": "https://api.vvhan.com/api/hotlist/douyin", "field": "data", "titleKey": "title", "hotKey": "hot"},
+            {"name": "uapis", "url": "https://uapis.cn/api/v1/misc/hotboard?type=douyin",
+             "type": "uapis", "titleKey": "title", "hotKey": "hot_value", "rankKey": "rank", "urlKey": "url"},
+            {"name": "xxapi", "url": "https://v2.xxapi.cn/api/douyinhot",
+             "type": "xxapi", "titleKey": "title", "hotKey": "hot", "rankKey": "index", "urlKey": "url"},
         ],
     },
     "weibo": {
         "name": "微博热搜",
         "color": "#E6162D",
-        "icon": "weibo",
         "apis": [
-            {"name": "tenapi", "url": "https://tenapi.cn/v2/weibohot", "field": "data", "titleKey": "name", "hotKey": "hot"},
-            {"name": "vvhan",  "url": "https://api.vvhan.com/api/hotlist/wbHot", "field": "data", "titleKey": "title", "hotKey": "hot"},
+            {"name": "uapis", "url": "https://uapis.cn/api/v1/misc/hotboard?type=weibo",
+             "type": "uapis", "titleKey": "title", "hotKey": "hot_value", "rankKey": "rank", "urlKey": "url"},
+            {"name": "xxapi", "url": "https://v2.xxapi.cn/api/weibohot",
+             "type": "xxapi", "titleKey": "title", "hotKey": "hot", "rankKey": "index", "urlKey": "url"},
         ],
     },
     "bilibili": {
         "name": "B站热搜",
         "color": "#FB7299",
-        "icon": "bilibili",
         "apis": [
-            {"name": "tenapi", "url": "https://tenapi.cn/v2/bilihot", "field": "data", "titleKey": "name", "hotKey": "hot"},
-            {"name": "vvhan",  "url": "https://api.vvhan.com/api/hotlist/bili", "field": "data", "titleKey": "title", "hotKey": "hot"},
+            {"name": "uapis", "url": "https://uapis.cn/api/v1/misc/hotboard?type=bilibili",
+             "type": "uapis", "titleKey": "title", "hotKey": "hot_value", "rankKey": "rank", "urlKey": "url"},
+            {"name": "xxapi", "url": "https://v2.xxapi.cn/api/bilibilihot",
+             "type": "xxapi", "titleKey": "title", "hotKey": "hot", "rankKey": "index", "urlKey": "url",
+             "note": "B站接口 data 可能直接是字符串数组"},
         ],
     },
     "zhihu": {
         "name": "知乎热榜",
         "color": "#0066FF",
-        "icon": "zhihu",
         "apis": [
-            {"name": "tenapi", "url": "https://tenapi.cn/v2/zhihuhot", "field": "data", "titleKey": "name", "hotKey": "hot"},
-            {"name": "vvhan",  "url": "https://api.vvhan.com/api/hotlist/zhihu", "field": "data", "titleKey": "title", "hotKey": "hot"},
+            {"name": "uapis", "url": "https://uapis.cn/api/v1/misc/hotboard?type=zhihu",
+             "type": "uapis", "titleKey": "title", "hotKey": "hot_value", "rankKey": "rank", "urlKey": "url"},
         ],
     },
     "baidu": {
         "name": "百度热搜",
         "color": "#2932E1",
-        "icon": "baidu",
         "apis": [
-            {"name": "tenapi", "url": "https://tenapi.cn/v2/baiduhot", "field": "data", "titleKey": "name", "hotKey": "hot"},
-            {"name": "vvhan",  "url": "https://api.vvhan.com/api/hotlist/baidu", "field": "data", "titleKey": "title", "hotKey": "hot"},
+            {"name": "uapis", "url": "https://uapis.cn/api/v1/misc/hotboard?type=baidu",
+             "type": "uapis", "titleKey": "title", "hotKey": "hot_value", "rankKey": "rank", "urlKey": "url"},
+            {"name": "xxapi", "url": "https://v2.xxapi.cn/api/baiduhot",
+             "type": "xxapi", "titleKey": "title", "hotKey": "hot", "rankKey": "index", "urlKey": "url"},
         ],
     },
     "toutiao": {
         "name": "头条热搜",
         "color": "#FF5722",
-        "icon": "toutiao",
         "apis": [
-            {"name": "tenapi", "url": "https://tenapi.cn/v2/toutiaohot", "field": "data", "titleKey": "name", "hotKey": "hot"},
-            {"name": "vvhan",  "url": "https://api.vvhan.com/api/hotlist/toutiao", "field": "data", "titleKey": "title", "hotKey": "hot"},
+            {"name": "uapis", "url": "https://uapis.cn/api/v1/misc/hotboard?type=toutiao",
+             "type": "uapis", "titleKey": "title", "hotKey": "hot_value", "rankKey": "rank", "urlKey": "url"},
         ],
     },
 }
@@ -102,7 +105,7 @@ CATEGORY_KEYWORDS = {
     "搞笑段子": ["搞笑", "段子", "梗", "名场面", "笑死", "哈哈", "沙雕", "整活", "抽象", "离谱", "绷不住"],
     "音乐热歌": ["歌", "曲", "音乐", "BGM", "翻唱", "原唱", "MV", "专辑", "演唱会", "说唱", "rap"],
     "影视综艺": ["电影", "电视剧", "综艺", "剧集", "番", "导演", "演员", "票房", "开播", "收官", "预告"],
-    "社会热点": ["通报", "官方", "政策", "发布", "声明", "回应", "调查", "事故", "灾害", "预警"],
+    "社会热点": ["通报", "官方", "政策", "发布", "声明", "回应", "调查", "事故", "灾害", "预警", "台风", "暴雨", "地震"],
     "科技数码": ["AI", "芯片", "手机", "发布", "科技", "互联网", "算法", "大模型", "智能", "数码", "评测"],
     "游戏电竞": ["游戏", "电竞", "赛事", "通关", "攻略", "皮肤", "角色", "赛季", "排位", "MOBA"],
     "生活日常": ["美食", "旅游", "打卡", "探店", "穿搭", "美妆", "护肤", "减肥", "养生", "萌宠", "猫", "狗"],
@@ -125,7 +128,7 @@ DUOSHAN_BOOST_KEYWORDS = [
 
 DUOSHAN_PENALTY_KEYWORDS = [
     "通报", "政策", "事故", "声明", "调查", "回应", "公告", "法规",
-    "犯罪", "遇难", "死亡", "起诉", "判决",
+    "犯罪", "遇难", "死亡", "起诉", "判决", "停止编号",
 ]
 
 # ============================================================
@@ -145,7 +148,7 @@ DUOSHAN_SKILLS = {
 
 DUOSHAN_BRIEF_BLUEPRINTS = {
     "舞蹈挑战": {
-        "zaiZai": "在仔仔世界用Open仔仔发起同名舞蹈挑战，仔仔替你@同好来PK",
+        "zaiZai": "在仔仔世界用Open仔仔发起「{title}」同名舞蹈挑战，仔仔替你@同好来PK",
         "skill": ["精灵法庭", "做个表情包"],
         "circle": ["舞蹈圈", "校园圈", "追星圈"],
         "event": "KOC通用",
@@ -366,8 +369,39 @@ def parse_hot_value(raw) -> int:
 
 
 # ============================================================
-# 数据抓取
+# 数据抓取 (v2 - UAPIS + XXAPI)
 # ============================================================
+
+def _extract_items_uapis(data: dict) -> list:
+    """从 UAPIS 响应中提取 items 列表"""
+    # 直接返回: {"list": [...]}
+    if "list" in data:
+        return data["list"] if isinstance(data["list"], list) else []
+    # 带 data 包装: {"data": {"items": [...]}} 或 {"data": {"list": [...]}}
+    d = data.get("data", {})
+    if isinstance(d, dict):
+        for key in ("items", "list"):
+            val = d.get(key)
+            if isinstance(val, list):
+                return val
+    # data 直接是 list: {"data": [...]}
+    if isinstance(d, list):
+        return d
+    # items 在顶层
+    for key in ("items", "list"):
+        val = data.get(key)
+        if isinstance(val, list):
+            return val
+    return []
+
+
+def _extract_items_xxapi(data: dict) -> list:
+    """从 XXAPI 响应中提取 items 列表"""
+    items = data.get("data", [])
+    if isinstance(items, list):
+        return items
+    return []
+
 
 def fetch_single_source(platform_key: str, source_config: dict) -> list:
     """从单个平台抓取热搜 (依次尝试多个 API 源)"""
@@ -383,9 +417,11 @@ def fetch_single_source(platform_key: str, source_config: dict) -> list:
 def _try_api(api_cfg: dict, platform_key: str, source_config: dict) -> list:
     """尝试单个 API 端点"""
     url = api_cfg["url"]
-    field = api_cfg.get("field", "data")
+    api_type = api_cfg.get("type", "generic")
     title_key = api_cfg.get("titleKey", "title")
     hot_key = api_cfg.get("hotKey", "hot")
+    rank_key = api_cfg.get("rankKey", "rank")
+    url_key = api_cfg.get("urlKey", "url")
 
     for attempt in range(MAX_RETRIES + 1):
         try:
@@ -399,32 +435,39 @@ def _try_api(api_cfg: dict, platform_key: str, source_config: dict) -> list:
             resp.raise_for_status()
             data = resp.json()
 
-            # 兼容不同的返回格式
-            raw_items = []
-            if field:
-                raw_items = data.get(field, [])
-                if isinstance(raw_items, dict):
-                    raw_items = raw_items.get("data", raw_items.get("list", []))
-            if not raw_items:
-                raw_items = data.get("items", data.get("list", []))
+            # 根据 API 类型提取 items
+            if api_type == "uapis":
+                raw_items = _extract_items_uapis(data)
+            elif api_type == "xxapi":
+                raw_items = _extract_items_xxapi(data)
+            else:
+                raw_items = data.get("data", data.get("items", data.get("list", [])))
 
-            if not isinstance(raw_items, list):
+            if not isinstance(raw_items, list) or not raw_items:
                 continue
 
             items = []
             for idx, item in enumerate(raw_items):
-                title = item.get(title_key, "")
+                # B站 xxapi 返回的可能直接是字符串数组
+                if isinstance(item, str):
+                    title = item
+                elif isinstance(item, dict):
+                    title = item.get(title_key, "")
+                else:
+                    continue
+
                 if not title:
                     continue
 
-                hot = parse_hot_value(item.get(hot_key, 0))
-                link = item.get("url", item.get("link", item.get("mobil_url", "")))
+                hot = parse_hot_value(item.get(hot_key, 0) if isinstance(item, dict) else 0)
+                rank = item.get(rank_key, idx + 1) if isinstance(item, dict) else idx + 1
+                link = item.get(url_key, "") if isinstance(item, dict) else ""
                 category = classify_topic(title)
                 score = calc_duoshan_score(title, category)
 
                 items.append({
                     "id": hashlib.md5(f"{platform_key}_{title}_{idx}".encode()).hexdigest()[:12],
-                    "rank": idx + 1,
+                    "rank": rank,
                     "title": title,
                     "hot": hot,
                     "hotDisplay": format_hot(hot),
@@ -441,12 +484,22 @@ def _try_api(api_cfg: dict, platform_key: str, source_config: dict) -> list:
             if items:
                 return items
 
-        except Exception as e:
+        except requests.exceptions.Timeout:
+            if attempt < MAX_RETRIES:
+                print(f"  [重试 {attempt+1}/{MAX_RETRIES}] {api_cfg['name']}: timeout")
+                time.sleep(2)
+        except requests.exceptions.RequestException as e:
             if attempt < MAX_RETRIES:
                 print(f"  [重试 {attempt+1}/{MAX_RETRIES}] {api_cfg['name']}: {e}")
                 time.sleep(2)
             else:
                 print(f"  [ERROR] {api_cfg['name']}: {e}")
+        except (json.JSONDecodeError, ValueError) as e:
+            if attempt < MAX_RETRIES:
+                print(f"  [重试 {attempt+1}/{MAX_RETRIES}] {api_cfg['name']}: JSON parse error")
+                time.sleep(2)
+            else:
+                print(f"  [ERROR] {api_cfg['name']}: JSON parse error - {e}")
 
     return []
 
@@ -456,11 +509,15 @@ def get_fallback_data() -> dict:
     tz = timezone(timedelta(hours=8))
     now = datetime.now(tz)
 
+    api_names = ", ".join(sorted(set(
+        api["name"] for src in API_SOURCES.values() for api in src["apis"]
+    )))
+
     fallback_trends = [
-        {"title": "⚠️ 数据管道暂未连接，API 源均不可用", "hot": 0, "platform": "douyin", "category": "其他热点"},
-        {"title": "请检查 GitHub Actions 执行日志排查故障", "hot": 0, "platform": "weibo", "category": "其他热点"},
-        {"title": "或手动触发 Workflow Dispatch 重试", "hot": 0, "platform": "bilibili", "category": "其他热点"},
-        {"title": "数据源: tenapi.cn / vvhan API", "hot": 0, "platform": "zhihu", "category": "其他热点"},
+        {"title": "⚠️ 今日 API 暂不可用，数据来自昨日快照", "hot": 0, "platform": "douyin", "category": "其他热点"},
+        {"title": "请查看 GitHub Actions 运行日志了解详情", "hot": 0, "platform": "weibo", "category": "其他热点"},
+        {"title": "或手动触发 Actions → Run workflow 重试", "hot": 0, "platform": "bilibili", "category": "其他热点"},
+        {"title": f"API 源: {api_names}", "hot": 0, "platform": "zhihu", "category": "其他热点"},
     ]
 
     trends = []
@@ -482,7 +539,7 @@ def get_fallback_data() -> dict:
             "category": category,
             "link": "",
             "duoshanScore": score,
-            "idea": "数据源不可用，请检查 Actions 日志",
+            "idea": "今日 API 源均不可用，请稍后重试",
             "brief": generate_duoshan_brief(item["title"], platform_key, category, score),
             "isFallback": True,
         })
@@ -504,7 +561,8 @@ def fetch_all_trends() -> dict:
     now = datetime.now(tz)
 
     print(f"\n{'='*60}")
-    print(f"  热梗工作台 - 数据抓取 (云端版)")
+    print(f"  热梗工作台 - 数据抓取 (云端版 v2)")
+    print(f"  API: UAPIS + XXAPI 双源备份")
     print(f"  时间: {now.strftime('%Y-%m-%d %H:%M:%S')} (北京时间)")
     print(f"{'='*60}\n")
 
@@ -551,10 +609,12 @@ def fetch_all_trends() -> dict:
 def write_data_js(data: dict):
     """将数据写入 data.js 文件"""
     os.makedirs(OUTPUT_DIR, exist_ok=True)
+
+    api_labels = ["UAPIS", "XXAPI"]
     js_lines = [
         "// 自动生成 - 请勿手动编辑",
         f"// 更新时间: {data['date']} {data['time']} (北京时间)",
-        f"// 数据来源: tenapi.cn + vvhan API",
+        f"// 数据来源: {' + '.join(api_labels)}",
         f"// 云端自动化: GitHub Actions (每天 9:00 自动更新)",
         f"const TREND_DATA = {json.dumps(data, ensure_ascii=False, indent=2)};",
         "",
@@ -571,13 +631,10 @@ def main():
     data = fetch_all_trends()
     write_data_js(data)
 
-    # 输出状态信息供 GitHub Actions 使用
     if data.get("isFallback"):
-        print("\n::warning:: 使用降级数据 — 所有 API 源均失败")
-        # 不 exit(1)，因为降级数据至少让页面保持可用
-        # 但设置一个特殊输出让 workflow 可以判断
+        print("\n[WARN] 使用降级数据 — 所有 API 源均失败，页面数据可能过期")
     else:
-        print(f"\n::notice:: 成功抓取 {data['total']} 条真实热搜数据")
+        print(f"\n[SUCCESS] 成功抓取 {data['total']} 条真实热搜数据")
 
     return data
 
