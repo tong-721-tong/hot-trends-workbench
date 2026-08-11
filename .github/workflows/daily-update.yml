@@ -1,0 +1,85 @@
+name: Daily Hot Trends Update
+
+on:
+  schedule:
+    # UTC 1:00 = 北京时间 9:00 (UTC+8)
+    - cron: '0 1 * * *'
+  workflow_dispatch:
+    # 支持手动触发
+
+jobs:
+  update-trends:
+    name: Fetch & Update Hot Trends
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Fetch hot trends
+        id: fetch
+        run: python fetch_trends.py
+
+      - name: Check data status
+        id: check
+        run: |
+          if grep -q '"isFallback": true' data/data.js 2>/dev/null; then
+            echo "status=fallback" >> $GITHUB_OUTPUT
+            echo "⚠ All APIs failed, fallback data generated"
+          else
+            echo "status=success" >> $GITHUB_OUTPUT
+            echo "✅ Real trending data fetched"
+          fi
+
+      - name: Commit and push data
+        run: |
+          git config user.name "hot-trends-bot[bot]"
+          git config user.email "hot-trends-bot[bot]@users.noreply.github.com"
+          git add data/data.js
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+          git commit -m "📊 Update hot trends — $(TZ='Asia/Shanghai' date +'%Y-%m-%d')"
+          git push
+
+  # 部署到 GitHub Pages
+  deploy-pages:
+    name: Deploy to GitHub Pages
+    needs: update-trends
+    if: always() && needs.update-trends.result != 'failure'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: '.'
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

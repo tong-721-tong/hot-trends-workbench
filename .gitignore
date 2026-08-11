@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.pyo
+deploy/
+server.py
+start.sh
+.DS_Store
+*.log
