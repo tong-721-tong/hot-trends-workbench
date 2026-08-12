@@ -657,6 +657,9 @@ body::after {
       <button class="refresh-btn" onclick="refreshData()">
         <span class="btn-icon">↻</span> 刷新
       </button>
+      <a class="refresh-btn" href="https://github.com/tong-721-tong/hot-trends-workbench/actions/workflows/daily-update.yml" target="_blank" rel="noopener" style="text-decoration:none;">
+        <span class="btn-icon">⚡</span> 手动更新
+      </a>
     </div>
   </div>
 
@@ -1061,7 +1064,8 @@ function copyIdea(text) {
   });
 }
 
-const REFRESH_SERVER = 'http://localhost:8899';
+const ACTIONS_URL = 'https://github.com/tong-721-tong/hot-trends-workbench/actions/workflows/daily-update.yml';
+const TODAY_STR = new Date().toLocaleDateString('sv-SE', { timeZone: 'Asia/Shanghai' });
 
 function refreshData() {
   const btn = document.querySelector('.refresh-btn');
@@ -1069,29 +1073,9 @@ function refreshData() {
   btn.classList.add('loading');
   icon.textContent = '⟳';
 
-  showToast('⏳ 正在抓取最新热搜...');
+  showToast('⏳ 正在重新加载云端数据...');
 
-  fetch(`${REFRESH_SERVER}/refresh`, { method: 'POST' })
-    .then(res => res.json())
-    .then(data => {
-      if (data.cached) {
-        showToast('⏳ ' + data.message);
-      } else if (data.success) {
-        reloadDataFromFile();
-        showToast('✓ 热搜数据已更新');
-      } else {
-        reloadDataFromFile();
-        showToast('⚠ 部分平台抓取失败，已加载可用数据');
-      }
-    })
-    .catch(() => {
-      reloadDataFromFile();
-      showToast('⚠ 刷新服务未启动，已重新加载本地数据');
-    })
-    .finally(() => {
-      btn.classList.remove('loading');
-      icon.textContent = '↻';
-    });
+  reloadDataFromFile();
 }
 
 function reloadDataFromFile() {
@@ -1099,20 +1083,43 @@ function reloadDataFromFile() {
   const newScript = document.createElement('script');
   newScript.src = 'data/data.js?t=' + Date.now();
   newScript.onload = () => {
+    const btn = document.querySelector('.refresh-btn');
+    if (btn) {
+      btn.classList.remove('loading');
+      const icon = btn.querySelector('.btn-icon');
+      if (icon) icon.textContent = '↻';
+    }
+
     allTrends = (typeof TREND_DATA !== 'undefined' && TREND_DATA.trends) || [];
     allTrends.forEach(t => { t._dsScore = getDuoshanScore(t); });
     document.getElementById('updateDate').textContent =
       (typeof TREND_DATA !== 'undefined' && TREND_DATA.date) || '----';
     document.getElementById('updateTime').textContent =
       typeof TREND_DATA !== 'undefined'
-        ? `同步时间: ${TREND_DATA.time || '--:--:--'}`
-        : '同步时间: --:--:--';
+        ? `SYNC: ${TREND_DATA.time || '--:--:--'}`
+        : 'SYNC: --:--:--';
     renderStats();
     renderTrends();
     renderSidebar();
+
+    // Check if data is fresh
+    const dataDate = typeof TREND_DATA !== 'undefined' ? TREND_DATA.date : '';
+    if (dataDate === TODAY_STR) {
+      showToast(`✓ 数据已是今日最新 (${dataDate})`);
+    } else if (dataDate) {
+      showToast(`⚠ 数据为 ${dataDate} 更新，每日 9:00 自动刷新。如需立即更新请访问 GitHub Actions`);
+    } else {
+      showToast('⚠ 未能获取数据日期');
+    }
   };
   newScript.onerror = () => {
-    showToast('✕ 数据加载失败');
+    const btn = document.querySelector('.refresh-btn');
+    if (btn) {
+      btn.classList.remove('loading');
+      const icon = btn.querySelector('.btn-icon');
+      if (icon) icon.textContent = '↻';
+    }
+    showToast('✕ 数据加载失败，请检查网络');
   };
   if (oldScript) {
     oldScript.parentNode.replaceChild(newScript, oldScript);
