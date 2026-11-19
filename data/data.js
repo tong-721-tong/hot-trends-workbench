@@ -1,464 +1,441 @@
 // 自动生成 - 请勿手动编辑
-// 更新时间: 2026-11-19 16:03:53 (北京时间)
+// 更新时间: 2026-11-19 17:14:02 (北京时间)
 // 数据来源: UAPIS + XXAPI
 // 云端自动化: GitHub Actions (每天 9:00 自动更新)
 const TREND_DATA = {
   "date": "2026-11-19",
-  "time": "16:03:53",
-  "timestamp": 1795075433,
+  "time": "17:14:02",
+  "timestamp": 1795079642,
   "platforms": {
-    "douyin": 49,
+    "douyin": 48,
     "weibo": 20,
     "bilibili": 100,
     "zhihu": 20,
     "baidu": 51,
     "toutiao": 20
   },
-  "total": 260,
+  "total": 259,
   "trends": [
     {
-      "id": "91be8614af30",
+      "id": "09d06b940b4e",
       "rank": 1,
-      "title": "普京到访深圳高校发表演讲",
-      "hot": 12012309,
-      "hotDisplay": "1201.2万",
+      "title": "普京特朗普欢迎晚宴互动握手",
+      "hot": 11446846,
+      "hotDisplay": "1144.7万",
       "platform": "douyin",
       "platformName": "抖音热搜",
       "platformColor": "#000000",
       "category": "其他热点",
-      "link": "https://www.douyin.com/search/%E6%99%AE%E4%BA%AC%E5%88%B0%E8%AE%BF%E6%B7%B1%E5%9C%B3%E9%AB%98%E6%A0%A1%E5%8F%91%E8%A1%A8%E6%BC%94%E8%AE%B2?type=general",
+      "link": "https://www.douyin.com/search/%E6%99%AE%E4%BA%AC%E7%89%B9%E6%9C%97%E6%99%AE%E6%AC%A2%E8%BF%8E%E6%99%9A%E5%AE%B4%E4%BA%92%E5%8A%A8%E6%8F%A1%E6%89%8B?type=general",
       "duoshanScore": 25,
-      "idea": "仔仔世界搭场景讨论普京到访深圳高校发表演讲，让仔仔们各抒己见",
+      "idea": "用Open仔仔替你发起普京特朗普欢迎晚宴互动握手相关话题，精准匹配同好交流",
       "brief": {
-        "zaiZaiPlay": "在仔仔世界发起「普京到访深圳高校发表演讲」话题活动，仔仔替你找到同好",
+        "zaiZaiPlay": "在仔仔世界发起「普京特朗普欢迎晚宴互动握手」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "TA啥意思：把普京到访深圳高校发表演讲相关迷惑发言发给小火人解读",
+        "script": "仔仔世界搭场景讨论普京特朗普欢迎晚宴互动握手，让仔仔们各抒己见",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
       "globalRank": 1
     },
     {
-      "id": "c332a794ad0d",
+      "id": "6608fb9be441",
       "rank": 2,
-      "title": "深圳科创吸引世界目光",
-      "hot": 11086663,
-      "hotDisplay": "1108.7万",
+      "title": "为何都说APEC需要中国",
+      "hot": 11427914,
+      "hotDisplay": "1142.8万",
       "platform": "douyin",
       "platformName": "抖音热搜",
       "platformColor": "#000000",
       "category": "其他热点",
-      "link": "https://www.douyin.com/search/%E6%B7%B1%E5%9C%B3%E7%A7%91%E5%88%9B%E5%90%B8%E5%BC%95%E4%B8%96%E7%95%8C%E7%9B%AE%E5%85%89?type=general",
+      "link": "https://www.douyin.com/search/%E4%B8%BA%E4%BD%95%E9%83%BD%E8%AF%B4APEC%E9%9C%80%E8%A6%81%E4%B8%AD%E5%9B%BD?type=general",
       "duoshanScore": 25,
-      "idea": "仔仔世界搭场景讨论深圳科创吸引世界目光，让仔仔们各抒己见",
+      "idea": "TA啥意思：把为何都说APEC需要中国相关迷惑发言发给小火人解读",
       "brief": {
-        "zaiZaiPlay": "在仔仔世界发起「深圳科创吸引世界目光」话题活动，仔仔替你找到同好",
+        "zaiZaiPlay": "在仔仔世界发起「为何都说APEC需要中国」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "仔仔世界搭场景讨论深圳科创吸引世界目光，让仔仔们各抒己见",
+        "script": "用Open仔仔替你发起为何都说APEC需要中国相关话题，精准匹配同好交流",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
       "globalRank": 2
     },
     {
-      "id": "76233e3b0198",
+      "id": "e03ae3dbd5f0",
       "rank": 3,
-      "title": "特朗普出席深圳APEC欢迎宴会",
-      "hot": 11084624,
-      "hotDisplay": "1108.5万",
+      "title": "白宫发布特朗普访华视频",
+      "hot": 11353923,
+      "hotDisplay": "1135.4万",
       "platform": "douyin",
       "platformName": "抖音热搜",
       "platformColor": "#000000",
-      "category": "其他热点",
-      "link": "https://www.douyin.com/search/%E7%89%B9%E6%9C%97%E6%99%AE%E5%87%BA%E5%B8%AD%E6%B7%B1%E5%9C%B3APEC%E6%AC%A2%E8%BF%8E%E5%AE%B4%E4%BC%9A?type=general",
-      "duoshanScore": 25,
-      "idea": "TA啥意思：把特朗普出席深圳APEC欢迎宴会相关迷惑发言发给小火人解读",
+      "category": "社会热点",
+      "link": "https://www.douyin.com/search/%E7%99%BD%E5%AE%AB%E5%8F%91%E5%B8%83%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E8%A7%86%E9%A2%91?type=general",
+      "duoshanScore": 30,
+      "idea": "Open仔仔替你发表对白宫发布特朗普访华视频的看法，吸引同观点的好友来交流",
       "brief": {
-        "zaiZaiPlay": "在仔仔世界发起「特朗普出席深圳APEC欢迎宴会」话题活动，仔仔替你找到同好",
-        "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
-        "circle": "圈层：综合圈",
+        "zaiZaiPlay": "在仔仔世界发起「白宫发布特朗普访华视频」话题讨论，仔仔替你表达观点",
+        "skillBind": "技能：TA啥意思（【文字】小火人做阅读理解）",
+        "circle": "圈层：生活圈、校园圈",
         "event": "KOC通用",
-        "script": "TA啥意思：把特朗普出席深圳APEC欢迎宴会相关迷惑发言发给小火人解读",
+        "script": "用仔仔世界搭讨论场景，仔仔们围绕「白宫发布特朗普访华视频」展开辩论",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
       "globalRank": 3
     },
     {
-      "id": "d7f264f02907",
+      "id": "fc78b3946d11",
       "rank": 4,
-      "title": "普京在APEC峰会点赞深圳",
-      "hot": 10512779,
-      "hotDisplay": "1051.3万",
+      "title": "APEC美食硬控各国来宾",
+      "hot": 10539193,
+      "hotDisplay": "1053.9万",
       "platform": "douyin",
       "platformName": "抖音热搜",
       "platformColor": "#000000",
-      "category": "其他热点",
-      "link": "https://www.douyin.com/search/%E6%99%AE%E4%BA%AC%E5%9C%A8APEC%E5%B3%B0%E4%BC%9A%E7%82%B9%E8%B5%9E%E6%B7%B1%E5%9C%B3?type=general",
-      "duoshanScore": 25,
-      "idea": "用Open仔仔替你发起普京在APEC峰会点赞深圳相关话题，精准匹配同好交流",
+      "category": "生活日常",
+      "link": "https://www.douyin.com/search/APEC%E7%BE%8E%E9%A3%9F%E7%A1%AC%E6%8E%A7%E5%90%84%E5%9B%BD%E6%9D%A5%E5%AE%BE?type=general",
+      "duoshanScore": 70,
+      "idea": "用仔仔还原APEC美食硬控各国来宾日常场景，仔仔陪你打卡生活仪式感",
       "brief": {
-        "zaiZaiPlay": "在仔仔世界发起「普京在APEC峰会点赞深圳」话题活动，仔仔替你找到同好",
-        "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
-        "circle": "圈层：综合圈",
-        "event": "KOC通用",
-        "script": "用Open仔仔替你发起普京在APEC峰会点赞深圳相关话题，精准匹配同好交流",
-        "tags": "#多闪仔仔 #有多闪不孤单"
+        "zaiZaiPlay": "在仔仔世界复刻「APEC美食硬控各国来宾」生活场景，仔仔替你记录日常",
+        "skillBind": "技能：今日塔罗（【文字+生图】小火人抽塔） + 做个表情包（【生图】小火人识别图片+）",
+        "circle": "圈层：生活圈、校园圈",
+        "event": "七夕/精灵学院/KOC通用",
+        "script": "用做个表情包把APEC美食硬控各国来宾相关日常做成仔仔版表情包发动态",
+        "tags": "#多闪仔仔 #有多闪不孤单 #多闪二次元相亲角 #在多闪遇到正缘了"
       },
       "globalRank": 4
     },
     {
-      "id": "26ccc902b459",
+      "id": "f93c46d8197e",
       "rank": 5,
-      "title": "泰国总理阿努廷飙粤语称很开心",
-      "hot": 10511185,
-      "hotDisplay": "1051.1万",
+      "title": "澳大利亚总理发布逛深圳超市照片",
+      "hot": 10367139,
+      "hotDisplay": "1036.7万",
       "platform": "douyin",
       "platformName": "抖音热搜",
       "platformColor": "#000000",
-      "category": "其他热点",
-      "link": "https://www.douyin.com/search/%E6%B3%B0%E5%9B%BD%E6%80%BB%E7%90%86%E9%98%BF%E5%8A%AA%E5%BB%B7%E9%A3%99%E7%B2%A4%E8%AF%AD%E7%A7%B0%E5%BE%88%E5%BC%80%E5%BF%83?type=general",
-      "duoshanScore": 25,
-      "idea": "用Open仔仔替你发起泰国总理阿努廷飙粤语称很开心相关话题，精准匹配同好交流",
+      "category": "社会热点",
+      "link": "https://www.douyin.com/search/%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%E6%80%BB%E7%90%86%E5%8F%91%E5%B8%83%E9%80%9B%E6%B7%B1%E5%9C%B3%E8%B6%85%E5%B8%82%E7%85%A7%E7%89%87?type=general",
+      "duoshanScore": 30,
+      "idea": "用仔仔世界搭讨论场景，仔仔们围绕「澳大利亚总理发布逛深圳超市照片」展开辩论",
       "brief": {
-        "zaiZaiPlay": "在仔仔世界发起「泰国总理阿努廷飙粤语称很开心」话题活动，仔仔替你找到同好",
-        "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
-        "circle": "圈层：综合圈",
+        "zaiZaiPlay": "在仔仔世界发起「澳大利亚总理发布逛深圳超市照片」话题讨论，仔仔替你表达观点",
+        "skillBind": "技能：TA啥意思（【文字】小火人做阅读理解）",
+        "circle": "圈层：生活圈、校园圈",
         "event": "KOC通用",
-        "script": "TA啥意思：把泰国总理阿努廷飙粤语称很开心相关迷惑发言发给小火人解读",
+        "script": "用仔仔世界搭讨论场景，仔仔们围绕「澳大利亚总理发布逛深圳超市照片」展开辩论",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
       "globalRank": 5
     },
     {
-      "id": "003edf4926bd",
+      "id": "636e9e74c596",
       "rank": 6,
-      "title": "一条视频读懂APEC",
-      "hot": 9092148,
-      "hotDisplay": "909.2万",
+      "title": "美联储沃勒称12月或加息50基点",
+      "hot": 9215863,
+      "hotDisplay": "921.6万",
       "platform": "douyin",
       "platformName": "抖音热搜",
       "platformColor": "#000000",
       "category": "其他热点",
-      "link": "https://www.douyin.com/search/%E4%B8%80%E6%9D%A1%E8%A7%86%E9%A2%91%E8%AF%BB%E6%87%82APEC?type=general",
+      "link": "https://www.douyin.com/search/%E7%BE%8E%E8%81%94%E5%82%A8%E6%B2%83%E5%8B%92%E7%A7%B012%E6%9C%88%E6%88%96%E5%8A%A0%E6%81%AF50%E5%9F%BA%E7%82%B9?type=general",
       "duoshanScore": 25,
-      "idea": "用Open仔仔替你发起一条视频读懂APEC相关话题，精准匹配同好交流",
+      "idea": "用Open仔仔替你发起美联储沃勒称12月或加息50基点相关话题，精准匹配同好交流",
       "brief": {
-        "zaiZaiPlay": "在仔仔世界发起「一条视频读懂APEC」话题活动，仔仔替你找到同好",
+        "zaiZaiPlay": "在仔仔世界发起「美联储沃勒称12月或加息50基点」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "TA啥意思：把一条视频读懂APEC相关迷惑发言发给小火人解读",
+        "script": "仔仔世界搭场景讨论美联储沃勒称12月或加息50基点，让仔仔们各抒己见",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
       "globalRank": 6
     },
     {
-      "id": "bd7c08ac6b22",
+      "id": "19ef08bbd2dc",
       "rank": 7,
-      "title": "高盛预测金价或重返5600美元",
-      "hot": 9083646,
-      "hotDisplay": "908.4万",
+      "title": "191式自动步枪首次全记录式开箱",
+      "hot": 9213430,
+      "hotDisplay": "921.3万",
       "platform": "douyin",
       "platformName": "抖音热搜",
       "platformColor": "#000000",
       "category": "其他热点",
-      "link": "https://www.douyin.com/search/%E9%AB%98%E7%9B%9B%E9%A2%84%E6%B5%8B%E9%87%91%E4%BB%B7%E6%88%96%E9%87%8D%E8%BF%945600%E7%BE%8E%E5%85%83?type=general",
+      "link": "https://www.douyin.com/search/191%E5%BC%8F%E8%87%AA%E5%8A%A8%E6%AD%A5%E6%9E%AA%E9%A6%96%E6%AC%A1%E5%85%A8%E8%AE%B0%E5%BD%95%E5%BC%8F%E5%BC%80%E7%AE%B1?type=general",
       "duoshanScore": 25,
-      "idea": "仔仔世界搭场景讨论高盛预测金价或重返5600美元，让仔仔们各抒己见",
+      "idea": "仔仔世界搭场景讨论191式自动步枪首次全记录式开箱，让仔仔们各抒己见",
       "brief": {
-        "zaiZaiPlay": "在仔仔世界发起「高盛预测金价或重返5600美元」话题活动，仔仔替你找到同好",
+        "zaiZaiPlay": "在仔仔世界发起「191式自动步枪首次全记录式开箱」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "仔仔世界搭场景讨论高盛预测金价或重返5600美元，让仔仔们各抒己见",
+        "script": "用Open仔仔替你发起191式自动步枪首次全记录式开箱相关话题，精准匹配同好交流",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
       "globalRank": 7
     },
     {
-      "id": "36288bea3491",
+      "id": "30afdca784eb",
       "rank": 8,
-      "title": "相约APEC一起看到更多可能",
-      "hot": 8960993,
-      "hotDisplay": "896.1万",
+      "title": "世界看深圳 深圳看未来",
+      "hot": 9129898,
+      "hotDisplay": "913.0万",
       "platform": "douyin",
       "platformName": "抖音热搜",
       "platformColor": "#000000",
       "category": "其他热点",
-      "link": "https://www.douyin.com/search/%E7%9B%B8%E7%BA%A6APEC%E4%B8%80%E8%B5%B7%E7%9C%8B%E5%88%B0%E6%9B%B4%E5%A4%9A%E5%8F%AF%E8%83%BD?type=general",
+      "link": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E7%9C%8B%E6%B7%B1%E5%9C%B3%20%E6%B7%B1%E5%9C%B3%E7%9C%8B%E6%9C%AA%E6%9D%A5?type=general",
       "duoshanScore": 25,
-      "idea": "用Open仔仔替你发起相约APEC一起看到更多可能相关话题，精准匹配同好交流",
+      "idea": "TA啥意思：把世界看深圳 深圳看未来相关迷惑发言发给小火人解读",
       "brief": {
-        "zaiZaiPlay": "在仔仔世界发起「相约APEC一起看到更多可能」话题活动，仔仔替你找到同好",
+        "zaiZaiPlay": "在仔仔世界发起「世界看深圳 深圳看未来」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "仔仔世界搭场景讨论相约APEC一起看到更多可能，让仔仔们各抒己见",
+        "script": "仔仔世界搭场景讨论世界看深圳 深圳看未来，让仔仔们各抒己见",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
       "globalRank": 8
     },
     {
-      "id": "8a78e23c5a64",
+      "id": "fb4aeb31b602",
       "rank": 9,
-      "title": "特朗普深圳之行有哪些看点",
-      "hot": 8915474,
-      "hotDisplay": "891.5万",
+      "title": "中方回应高市早苗接机仪式",
+      "hot": 9097290,
+      "hotDisplay": "909.7万",
       "platform": "douyin",
       "platformName": "抖音热搜",
       "platformColor": "#000000",
-      "category": "其他热点",
-      "link": "https://www.douyin.com/search/%E7%89%B9%E6%9C%97%E6%99%AE%E6%B7%B1%E5%9C%B3%E4%B9%8B%E8%A1%8C%E6%9C%89%E5%93%AA%E4%BA%9B%E7%9C%8B%E7%82%B9?type=general",
-      "duoshanScore": 25,
-      "idea": "用Open仔仔替你发起特朗普深圳之行有哪些看点相关话题，精准匹配同好交流",
+      "category": "社会热点",
+      "link": "https://www.douyin.com/search/%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E6%8E%A5%E6%9C%BA%E4%BB%AA%E5%BC%8F?type=general",
+      "duoshanScore": 15,
+      "idea": "精灵法庭：围绕中方回应高市早苗接机仪式中的争议人物/事件发起审判",
       "brief": {
-        "zaiZaiPlay": "在仔仔世界发起「特朗普深圳之行有哪些看点」话题活动，仔仔替你找到同好",
-        "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
-        "circle": "圈层：综合圈",
+        "zaiZaiPlay": "在仔仔世界发起「中方回应高市早苗接机仪式」话题讨论，仔仔替你表达观点",
+        "skillBind": "技能：TA啥意思（【文字】小火人做阅读理解）",
+        "circle": "圈层：生活圈、校园圈",
         "event": "KOC通用",
-        "script": "TA啥意思：把特朗普深圳之行有哪些看点相关迷惑发言发给小火人解读",
+        "script": "用仔仔世界搭讨论场景，仔仔们围绕「中方回应高市早苗接机仪式」展开辩论",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
       "globalRank": 9
     },
     {
-      "id": "a1b380084a03",
+      "id": "04f4c97bb609",
       "rank": 10,
-      "title": "泰国总理阿努廷抵达深圳",
-      "hot": 8173820,
-      "hotDisplay": "817.4万",
+      "title": "俄美专机在深圳机场同框",
+      "hot": 8770702,
+      "hotDisplay": "877.1万",
       "platform": "douyin",
       "platformName": "抖音热搜",
       "platformColor": "#000000",
       "category": "其他热点",
-      "link": "https://www.douyin.com/search/%E6%B3%B0%E5%9B%BD%E6%80%BB%E7%90%86%E9%98%BF%E5%8A%AA%E5%BB%B7%E6%8A%B5%E8%BE%BE%E6%B7%B1%E5%9C%B3?type=general",
+      "link": "https://www.douyin.com/search/%E4%BF%84%E7%BE%8E%E4%B8%93%E6%9C%BA%E5%9C%A8%E6%B7%B1%E5%9C%B3%E6%9C%BA%E5%9C%BA%E5%90%8C%E6%A1%86?type=general",
       "duoshanScore": 25,
-      "idea": "用Open仔仔替你发起泰国总理阿努廷抵达深圳相关话题，精准匹配同好交流",
+      "idea": "仔仔世界搭场景讨论俄美专机在深圳机场同框，让仔仔们各抒己见",
       "brief": {
-        "zaiZaiPlay": "在仔仔世界发起「泰国总理阿努廷抵达深圳」话题活动，仔仔替你找到同好",
+        "zaiZaiPlay": "在仔仔世界发起「俄美专机在深圳机场同框」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "用Open仔仔替你发起泰国总理阿努廷抵达深圳相关话题，精准匹配同好交流",
+        "script": "用Open仔仔替你发起俄美专机在深圳机场同框相关话题，精准匹配同好交流",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
       "globalRank": 10
     },
     {
-      "id": "1df6f41c453d",
+      "id": "37dae4cf190f",
       "rank": 11,
-      "title": "坎宁安隔扣文班亚马",
-      "hot": 7913036,
-      "hotDisplay": "791.3万",
+      "title": "APEC带给年轻人哪些新机遇",
+      "hot": 8750778,
+      "hotDisplay": "875.1万",
       "platform": "douyin",
       "platformName": "抖音热搜",
       "platformColor": "#000000",
       "category": "其他热点",
-      "link": "https://www.douyin.com/search/%E5%9D%8E%E5%AE%81%E5%AE%89%E9%9A%94%E6%89%A3%E6%96%87%E7%8F%AD%E4%BA%9A%E9%A9%AC?type=general",
+      "link": "https://www.douyin.com/search/APEC%E5%B8%A6%E7%BB%99%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%93%AA%E4%BA%9B%E6%96%B0%E6%9C%BA%E9%81%87?type=general",
       "duoshanScore": 25,
-      "idea": "TA啥意思：把坎宁安隔扣文班亚马相关迷惑发言发给小火人解读",
+      "idea": "用Open仔仔替你发起APEC带给年轻人哪些新机遇相关话题，精准匹配同好交流",
       "brief": {
-        "zaiZaiPlay": "在仔仔世界发起「坎宁安隔扣文班亚马」话题活动，仔仔替你找到同好",
+        "zaiZaiPlay": "在仔仔世界发起「APEC带给年轻人哪些新机遇」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "用Open仔仔替你发起坎宁安隔扣文班亚马相关话题，精准匹配同好交流",
+        "script": "仔仔世界搭场景讨论APEC带给年轻人哪些新机遇，让仔仔们各抒己见",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
       "globalRank": 11
     },
     {
-      "id": "1fa3b833c4fe",
-      "rank": 1,
-      "title": "在大湾区看如何促进亚太共同繁荣",
-      "hot": 7904778,
-      "hotDisplay": "790.5万",
-      "platform": "baidu",
-      "platformName": "百度热搜",
-      "platformColor": "#2932E1",
-      "category": "其他热点",
-      "link": "https://www.baidu.com/s?wd=%E5%9C%A8%E5%A4%A7%E6%B9%BE%E5%8C%BA%E7%9C%8B%E5%A6%82%E4%BD%95%E4%BF%83%E8%BF%9B%E4%BA%9A%E5%A4%AA%E5%85%B1%E5%90%8C%E7%B9%81%E8%8D%A3&sa=fyb_news&rsv_dl=fyb_news",
-      "duoshanScore": 25,
-      "idea": "仔仔世界搭场景讨论在大湾区看如何促进亚太共同繁荣，让仔仔们各抒己见",
+      "id": "788e889e4a26",
+      "rank": 12,
+      "title": "小番茄的逆袭洗白之路",
+      "hot": 8448484,
+      "hotDisplay": "844.8万",
+      "platform": "douyin",
+      "platformName": "抖音热搜",
+      "platformColor": "#000000",
+      "category": "影视综艺",
+      "link": "https://www.douyin.com/search/%E5%B0%8F%E7%95%AA%E8%8C%84%E7%9A%84%E9%80%86%E8%A2%AD%E6%B4%97%E7%99%BD%E4%B9%8B%E8%B7%AF?type=general",
+      "duoshanScore": 60,
+      "idea": "用仔仔还原「小番茄的逆袭洗白之路」经典场景，制作成CP向二创小剧场",
       "brief": {
-        "zaiZaiPlay": "在仔仔世界发起「在大湾区看如何促进亚太共同繁荣」话题活动，仔仔替你找到同好",
-        "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
-        "circle": "圈层：综合圈",
-        "event": "KOC通用",
-        "script": "用Open仔仔替你发起在大湾区看如何促进亚太共同繁荣相关话题，精准匹配同好交流",
-        "tags": "#多闪仔仔 #有多闪不孤单"
+        "zaiZaiPlay": "用仔仔世界复刻「小番茄的逆袭洗白之路」影视名场面，仔仔平替角色演绎",
+        "skillBind": "技能：TA啥意思（【文字】小火人做阅读理解） + 恋爱军师（【文字+表情包】小火人分）",
+        "circle": "圈层：影视圈、追星圈",
+        "event": "七夕/KOC通用",
+        "script": "用仔仔还原「小番茄的逆袭洗白之路」经典场景，制作成CP向二创小剧场",
+        "tags": "#多闪仔仔 #仔仔世界代餐文学 #在多闪跨次元相遇 #多闪二次元相亲角"
       },
       "globalRank": 12
     },
     {
-      "id": "341d87ebd82a",
-      "rank": 12,
-      "title": "养老保险缴15年就能领养老金吗",
-      "hot": 7826873,
-      "hotDisplay": "782.7万",
+      "id": "e3615cce85ac",
+      "rank": 13,
+      "title": "橘子海剪影宿命感拉满",
+      "hot": 8305568,
+      "hotDisplay": "830.6万",
       "platform": "douyin",
       "platformName": "抖音热搜",
       "platformColor": "#000000",
       "category": "其他热点",
-      "link": "https://www.douyin.com/search/%E5%85%BB%E8%80%81%E4%BF%9D%E9%99%A9%E7%BC%B415%E5%B9%B4%E5%B0%B1%E8%83%BD%E9%A2%86%E5%85%BB%E8%80%81%E9%87%91%E5%90%97?type=general",
+      "link": "https://www.douyin.com/search/%E6%A9%98%E5%AD%90%E6%B5%B7%E5%89%AA%E5%BD%B1%E5%AE%BF%E5%91%BD%E6%84%9F%E6%8B%89%E6%BB%A1?type=general",
       "duoshanScore": 25,
-      "idea": "用Open仔仔替你发起养老保险缴15年就能领养老金吗相关话题，精准匹配同好交流",
+      "idea": "TA啥意思：把橘子海剪影宿命感拉满相关迷惑发言发给小火人解读",
       "brief": {
-        "zaiZaiPlay": "在仔仔世界发起「养老保险缴15年就能领养老金吗」话题活动，仔仔替你找到同好",
+        "zaiZaiPlay": "在仔仔世界发起「橘子海剪影宿命感拉满」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "TA啥意思：把养老保险缴15年就能领养老金吗相关迷惑发言发给小火人解读",
+        "script": "仔仔世界搭场景讨论橘子海剪影宿命感拉满，让仔仔们各抒己见",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
       "globalRank": 13
     },
     {
-      "id": "424592f0e8e7",
-      "rank": 13,
-      "title": "慌啥子嘛为什么动人",
-      "hot": 7822700,
-      "hotDisplay": "782.3万",
+      "id": "b3bd71415baf",
+      "rank": 14,
+      "title": "严苛的训练几乎要了我的命",
+      "hot": 8063194,
+      "hotDisplay": "806.3万",
       "platform": "douyin",
       "platformName": "抖音热搜",
       "platformColor": "#000000",
       "category": "其他热点",
-      "link": "https://www.douyin.com/search/%E6%85%8C%E5%95%A5%E5%AD%90%E5%98%9B%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8A%A8%E4%BA%BA?type=general",
+      "link": "https://www.douyin.com/search/%E4%B8%A5%E8%8B%9B%E7%9A%84%E8%AE%AD%E7%BB%83%E5%87%A0%E4%B9%8E%E8%A6%81%E4%BA%86%E6%88%91%E7%9A%84%E5%91%BD?type=general",
       "duoshanScore": 25,
-      "idea": "仔仔世界搭场景讨论慌啥子嘛为什么动人，让仔仔们各抒己见",
+      "idea": "TA啥意思：把严苛的训练几乎要了我的命相关迷惑发言发给小火人解读",
       "brief": {
-        "zaiZaiPlay": "在仔仔世界发起「慌啥子嘛为什么动人」话题活动，仔仔替你找到同好",
+        "zaiZaiPlay": "在仔仔世界发起「严苛的训练几乎要了我的命」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "用Open仔仔替你发起慌啥子嘛为什么动人相关话题，精准匹配同好交流",
+        "script": "仔仔世界搭场景讨论严苛的训练几乎要了我的命，让仔仔们各抒己见",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
       "globalRank": 14
     },
     {
-      "id": "41fb78ce129d",
-      "rank": 2,
-      "title": "中俄美元首同框",
-      "hot": 7808918,
-      "hotDisplay": "780.9万",
-      "platform": "baidu",
-      "platformName": "百度热搜",
-      "platformColor": "#2932E1",
+      "id": "ce9499b78870",
+      "rank": 15,
+      "title": "旅行者1号正式抵达1光日",
+      "hot": 7958555,
+      "hotDisplay": "795.9万",
+      "platform": "douyin",
+      "platformName": "抖音热搜",
+      "platformColor": "#000000",
       "category": "其他热点",
-      "link": "https://www.baidu.com/s?wd=%E4%B8%AD%E4%BF%84%E7%BE%8E%E5%85%83%E9%A6%96%E5%90%8C%E6%A1%86&sa=fyb_news&rsv_dl=fyb_news",
+      "link": "https://www.douyin.com/search/%E6%97%85%E8%A1%8C%E8%80%851%E5%8F%B7%E6%AD%A3%E5%BC%8F%E6%8A%B5%E8%BE%BE1%E5%85%89%E6%97%A5?type=general",
       "duoshanScore": 25,
-      "idea": "仔仔世界搭场景讨论中俄美元首同框，让仔仔们各抒己见",
+      "idea": "用Open仔仔替你发起旅行者1号正式抵达1光日相关话题，精准匹配同好交流",
       "brief": {
-        "zaiZaiPlay": "在仔仔世界发起「中俄美元首同框」话题活动，仔仔替你找到同好",
+        "zaiZaiPlay": "在仔仔世界发起「旅行者1号正式抵达1光日」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "用Open仔仔替你发起中俄美元首同框相关话题，精准匹配同好交流",
+        "script": "用Open仔仔替你发起旅行者1号正式抵达1光日相关话题，精准匹配同好交流",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
       "globalRank": 15
     },
     {
-      "id": "49f772b055d7",
-      "rank": 14,
-      "title": "粤企组团亮相APEC工商峰会",
-      "hot": 7797354,
-      "hotDisplay": "779.7万",
+      "id": "67bb9eeb6f22",
+      "rank": 16,
+      "title": "我国成功发射实践二十四号卫星",
+      "hot": 7948385,
+      "hotDisplay": "794.8万",
       "platform": "douyin",
       "platformName": "抖音热搜",
       "platformColor": "#000000",
       "category": "其他热点",
-      "link": "https://www.douyin.com/search/%E7%B2%A4%E4%BC%81%E7%BB%84%E5%9B%A2%E4%BA%AE%E7%9B%B8APEC%E5%B7%A5%E5%95%86%E5%B3%B0%E4%BC%9A?type=general",
+      "link": "https://www.douyin.com/search/%E6%88%91%E5%9B%BD%E6%88%90%E5%8A%9F%E5%8F%91%E5%B0%84%E5%AE%9E%E8%B7%B5%E4%BA%8C%E5%8D%81%E5%9B%9B%E5%8F%B7%E5%8D%AB%E6%98%9F?type=general",
       "duoshanScore": 25,
-      "idea": "TA啥意思：把粤企组团亮相APEC工商峰会相关迷惑发言发给小火人解读",
+      "idea": "TA啥意思：把我国成功发射实践二十四号卫星相关迷惑发言发给小火人解读",
       "brief": {
-        "zaiZaiPlay": "在仔仔世界发起「粤企组团亮相APEC工商峰会」话题活动，仔仔替你找到同好",
+        "zaiZaiPlay": "在仔仔世界发起「我国成功发射实践二十四号卫星」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "TA啥意思：把粤企组团亮相APEC工商峰会相关迷惑发言发给小火人解读",
+        "script": "TA啥意思：把我国成功发射实践二十四号卫星相关迷惑发言发给小火人解读",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
       "globalRank": 16
     },
     {
-      "id": "eadcdef1d4e1",
-      "rank": 15,
-      "title": "国台办评罗大佑批判民进党言论",
-      "hot": 7786743,
-      "hotDisplay": "778.7万",
-      "platform": "douyin",
-      "platformName": "抖音热搜",
-      "platformColor": "#000000",
+      "id": "491ae18a9121",
+      "rank": 1,
+      "title": "习近平对老龄工作作出重要指示",
+      "hot": 7904022,
+      "hotDisplay": "790.4万",
+      "platform": "baidu",
+      "platformName": "百度热搜",
+      "platformColor": "#2932E1",
       "category": "其他热点",
-      "link": "https://www.douyin.com/search/%E5%9B%BD%E5%8F%B0%E5%8A%9E%E8%AF%84%E7%BD%97%E5%A4%A7%E4%BD%91%E6%89%B9%E5%88%A4%E6%B0%91%E8%BF%9B%E5%85%9A%E8%A8%80%E8%AE%BA?type=general",
+      "link": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%AF%B9%E8%80%81%E9%BE%84%E5%B7%A5%E4%BD%9C%E4%BD%9C%E5%87%BA%E9%87%8D%E8%A6%81%E6%8C%87%E7%A4%BA&sa=fyb_news&rsv_dl=fyb_news",
       "duoshanScore": 25,
-      "idea": "仔仔世界搭场景讨论国台办评罗大佑批判民进党言论，让仔仔们各抒己见",
+      "idea": "仔仔世界搭场景讨论习近平对老龄工作作出重要指示，让仔仔们各抒己见",
       "brief": {
-        "zaiZaiPlay": "在仔仔世界发起「国台办评罗大佑批判民进党言论」话题活动，仔仔替你找到同好",
+        "zaiZaiPlay": "在仔仔世界发起「习近平对老龄工作作出重要指示」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "TA啥意思：把国台办评罗大佑批判民进党言论相关迷惑发言发给小火人解读",
+        "script": "仔仔世界搭场景讨论习近平对老龄工作作出重要指示，让仔仔们各抒己见",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
       "globalRank": 17
     },
     {
-      "id": "e1040412e829",
-      "rank": 16,
-      "title": "GTA6游戏测评",
-      "hot": 7759179,
-      "hotDisplay": "775.9万",
-      "platform": "douyin",
-      "platformName": "抖音热搜",
-      "platformColor": "#000000",
-      "category": "游戏电竞",
-      "link": "https://www.douyin.com/search/GTA6%E6%B8%B8%E6%88%8F%E6%B5%8B%E8%AF%84?type=general",
-      "duoshanScore": 55,
-      "idea": "用做个表情包把GTA6游戏测评游戏梗图做成仔仔表情包",
+      "id": "209dfdedf56f",
+      "rank": 2,
+      "title": "习近平主持中俄美元首会晤",
+      "hot": 7808559,
+      "hotDisplay": "780.9万",
+      "platform": "baidu",
+      "platformName": "百度热搜",
+      "platformColor": "#2932E1",
+      "category": "其他热点",
+      "link": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%BB%E6%8C%81%E4%B8%AD%E4%BF%84%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4&sa=fyb_news&rsv_dl=fyb_news",
+      "duoshanScore": 25,
+      "idea": "TA啥意思：把习近平主持中俄美元首会晤相关迷惑发言发给小火人解读",
       "brief": {
-        "zaiZaiPlay": "在仔仔世界搭游戏场景，仔仔还原「GTA6游戏测评」游戏高光",
+        "zaiZaiPlay": "在仔仔世界发起「习近平主持中俄美元首会晤」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
-        "circle": "圈层：游戏圈、二次元",
-        "event": "七夕/KOC通用",
-        "script": "畅聊晚自习发起游戏圈争议话题，让小火人加入抬杠",
-        "tags": "#多闪仔仔 #全员多闪qq人 #在多闪跨次元相遇 #多闪二次元相亲角"
+        "circle": "圈层：综合圈",
+        "event": "KOC通用",
+        "script": "TA啥意思：把习近平主持中俄美元首会晤相关迷惑发言发给小火人解读",
+        "tags": "#多闪仔仔 #有多闪不孤单"
       },
       "globalRank": 18
     },
     {
-      "id": "8d2c5c5b0f73",
+      "id": "9f38a2bbb6c8",
       "rank": 17,
-      "title": "EDG官宣郑永康ZmjjKK离队",
-      "hot": 7757176,
-      "hotDisplay": "775.7万",
-      "platform": "douyin",
-      "platformName": "抖音热搜",
-      "platformColor": "#000000",
-      "category": "其他热点",
-      "link": "https://www.douyin.com/search/EDG%E5%AE%98%E5%AE%A3%E9%83%91%E6%B0%B8%E5%BA%B7ZmjjKK%E7%A6%BB%E9%98%9F?type=general",
-      "duoshanScore": 25,
-      "idea": "TA啥意思：把EDG官宣郑永康ZmjjKK离队相关迷惑发言发给小火人解读",
-      "brief": {
-        "zaiZaiPlay": "在仔仔世界发起「EDG官宣郑永康ZmjjKK离队」话题活动，仔仔替你找到同好",
-        "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
-        "circle": "圈层：综合圈",
-        "event": "KOC通用",
-        "script": "仔仔世界搭场景讨论EDG官宣郑永康ZmjjKK离队，让仔仔们各抒己见",
-        "tags": "#多闪仔仔 #有多闪不孤单"
-      },
-      "globalRank": 19
-    },
-    {
-      "id": "64b66db2b6ac",
-      "rank": 18,
       "title": "慌啥子嘛要好好吃饭呀",
-      "hot": 7756573,
-      "hotDisplay": "775.7万",
+      "hot": 7807594,
+      "hotDisplay": "780.8万",
       "platform": "douyin",
       "platformName": "抖音热搜",
       "platformColor": "#000000",
@@ -471,431 +448,362 @@ const TREND_DATA = {
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "用Open仔仔替你发起慌啥子嘛要好好吃饭呀相关话题，精准匹配同好交流",
+        "script": "仔仔世界搭场景讨论慌啥子嘛要好好吃饭呀，让仔仔们各抒己见",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
-      "globalRank": 20
+      "globalRank": 19
     },
     {
-      "id": "1792037b3ea1",
-      "rank": 19,
-      "title": "摆摊规矩立住了才能不烧心",
-      "hot": 7749317,
-      "hotDisplay": "774.9万",
-      "platform": "douyin",
-      "platformName": "抖音热搜",
-      "platformColor": "#000000",
-      "category": "其他热点",
-      "link": "https://www.douyin.com/search/%E6%91%86%E6%91%8A%E8%A7%84%E7%9F%A9%E7%AB%8B%E4%BD%8F%E4%BA%86%E6%89%8D%E8%83%BD%E4%B8%8D%E7%83%A7%E5%BF%83?type=general",
-      "duoshanScore": 25,
-      "idea": "TA啥意思：把摆摊规矩立住了才能不烧心相关迷惑发言发给小火人解读",
-      "brief": {
-        "zaiZaiPlay": "在仔仔世界发起「摆摊规矩立住了才能不烧心」话题活动，仔仔替你找到同好",
-        "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
-        "circle": "圈层：综合圈",
-        "event": "KOC通用",
-        "script": "TA啥意思：把摆摊规矩立住了才能不烧心相关迷惑发言发给小火人解读",
-        "tags": "#多闪仔仔 #有多闪不孤单"
-      },
-      "globalRank": 21
-    },
-    {
-      "id": "dcb506d48aea",
-      "rank": 20,
-      "title": "忘情牛肉面舞蹈大赛",
-      "hot": 7742011,
-      "hotDisplay": "774.2万",
-      "platform": "douyin",
-      "platformName": "抖音热搜",
-      "platformColor": "#000000",
-      "category": "舞蹈挑战",
-      "link": "https://www.douyin.com/search/%E5%BF%98%E6%83%85%E7%89%9B%E8%82%89%E9%9D%A2%E8%88%9E%E8%B9%88%E5%A4%A7%E8%B5%9B?type=general",
-      "duoshanScore": 95,
-      "idea": "发起精灵法庭审判:「谁的忘情牛肉面舞蹈大赛跳得最烂」，判罚仔仔世界罚站3分钟",
-      "brief": {
-        "zaiZaiPlay": "在仔仔世界用Open仔仔发起「忘情牛肉面舞蹈大赛」同名舞蹈挑战，仔仔替你@同好来PK",
-        "skillBind": "技能：精灵法庭（【文字+生图】小火人审判） + 做个表情包（【生图】小火人识别图片+）",
-        "circle": "圈层：舞蹈圈、校园圈",
-        "event": "七夕/KOC通用",
-        "script": "用仔仔还原「忘情牛肉面舞蹈大赛」经典动作，在仔仔世界搭舞台场景，和好友仔仔牵手跳舞",
-        "tags": "#多闪仔仔 #有多闪不孤单 #仔仔世界代餐文学 #多闪二次元相亲角"
-      },
-      "globalRank": 22
-    },
-    {
-      "id": "cf7bd848de45",
-      "rank": 21,
+      "id": "18186495b47a",
+      "rank": 18,
       "title": "成毅新剧叛逆儿子",
-      "hot": 7740524,
-      "hotDisplay": "774.1万",
+      "hot": 7792928,
+      "hotDisplay": "779.3万",
       "platform": "douyin",
       "platformName": "抖音热搜",
       "platformColor": "#000000",
       "category": "其他热点",
       "link": "https://www.douyin.com/search/%E6%88%90%E6%AF%85%E6%96%B0%E5%89%A7%E5%8F%9B%E9%80%86%E5%84%BF%E5%AD%90?type=general",
       "duoshanScore": 25,
-      "idea": "用Open仔仔替你发起成毅新剧叛逆儿子相关话题，精准匹配同好交流",
+      "idea": "仔仔世界搭场景讨论成毅新剧叛逆儿子，让仔仔们各抒己见",
       "brief": {
         "zaiZaiPlay": "在仔仔世界发起「成毅新剧叛逆儿子」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "TA啥意思：把成毅新剧叛逆儿子相关迷惑发言发给小火人解读",
+        "script": "仔仔世界搭场景讨论成毅新剧叛逆儿子，让仔仔们各抒己见",
+        "tags": "#多闪仔仔 #有多闪不孤单"
+      },
+      "globalRank": 20
+    },
+    {
+      "id": "517b0691f172",
+      "rank": 19,
+      "title": "苹果糖有自己的高原小甜心",
+      "hot": 7771378,
+      "hotDisplay": "777.1万",
+      "platform": "douyin",
+      "platformName": "抖音热搜",
+      "platformColor": "#000000",
+      "category": "其他热点",
+      "link": "https://www.douyin.com/search/%E8%8B%B9%E6%9E%9C%E7%B3%96%E6%9C%89%E8%87%AA%E5%B7%B1%E7%9A%84%E9%AB%98%E5%8E%9F%E5%B0%8F%E7%94%9C%E5%BF%83?type=general",
+      "duoshanScore": 25,
+      "idea": "TA啥意思：把苹果糖有自己的高原小甜心相关迷惑发言发给小火人解读",
+      "brief": {
+        "zaiZaiPlay": "在仔仔世界发起「苹果糖有自己的高原小甜心」话题活动，仔仔替你找到同好",
+        "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
+        "circle": "圈层：综合圈",
+        "event": "KOC通用",
+        "script": "用Open仔仔替你发起苹果糖有自己的高原小甜心相关话题，精准匹配同好交流",
+        "tags": "#多闪仔仔 #有多闪不孤单"
+      },
+      "globalRank": 21
+    },
+    {
+      "id": "338678855b65",
+      "rank": 20,
+      "title": "当甲亢哥第一次玩GTA6",
+      "hot": 7763787,
+      "hotDisplay": "776.4万",
+      "platform": "douyin",
+      "platformName": "抖音热搜",
+      "platformColor": "#000000",
+      "category": "其他热点",
+      "link": "https://www.douyin.com/search/%E5%BD%93%E7%94%B2%E4%BA%A2%E5%93%A5%E7%AC%AC%E4%B8%80%E6%AC%A1%E7%8E%A9GTA6?type=general",
+      "duoshanScore": 25,
+      "idea": "仔仔世界搭场景讨论当甲亢哥第一次玩GTA6，让仔仔们各抒己见",
+      "brief": {
+        "zaiZaiPlay": "在仔仔世界发起「当甲亢哥第一次玩GTA6」话题活动，仔仔替你找到同好",
+        "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
+        "circle": "圈层：综合圈",
+        "event": "KOC通用",
+        "script": "TA啥意思：把当甲亢哥第一次玩GTA6相关迷惑发言发给小火人解读",
+        "tags": "#多闪仔仔 #有多闪不孤单"
+      },
+      "globalRank": 22
+    },
+    {
+      "id": "29aff8d0dd89",
+      "rank": 21,
+      "title": "两京十五日白龙挂画面封神",
+      "hot": 7759016,
+      "hotDisplay": "775.9万",
+      "platform": "douyin",
+      "platformName": "抖音热搜",
+      "platformColor": "#000000",
+      "category": "其他热点",
+      "link": "https://www.douyin.com/search/%E4%B8%A4%E4%BA%AC%E5%8D%81%E4%BA%94%E6%97%A5%E7%99%BD%E9%BE%99%E6%8C%82%E7%94%BB%E9%9D%A2%E5%B0%81%E7%A5%9E?type=general",
+      "duoshanScore": 25,
+      "idea": "用Open仔仔替你发起两京十五日白龙挂画面封神相关话题，精准匹配同好交流",
+      "brief": {
+        "zaiZaiPlay": "在仔仔世界发起「两京十五日白龙挂画面封神」话题活动，仔仔替你找到同好",
+        "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
+        "circle": "圈层：综合圈",
+        "event": "KOC通用",
+        "script": "仔仔世界搭场景讨论两京十五日白龙挂画面封神，让仔仔们各抒己见",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
       "globalRank": 23
     },
     {
-      "id": "2811abc1ad0c",
+      "id": "5467674c282c",
       "rank": 22,
-      "title": "GTA6正式上线",
-      "hot": 7740238,
-      "hotDisplay": "774.0万",
+      "title": "Donk瓦场悟道",
+      "hot": 7746414,
+      "hotDisplay": "774.6万",
       "platform": "douyin",
       "platformName": "抖音热搜",
       "platformColor": "#000000",
       "category": "其他热点",
-      "link": "https://www.douyin.com/search/GTA6%E6%AD%A3%E5%BC%8F%E4%B8%8A%E7%BA%BF?type=general",
+      "link": "https://www.douyin.com/search/Donk%E7%93%A6%E5%9C%BA%E6%82%9F%E9%81%93?type=general",
       "duoshanScore": 25,
-      "idea": "用Open仔仔替你发起GTA6正式上线相关话题，精准匹配同好交流",
+      "idea": "用Open仔仔替你发起Donk瓦场悟道相关话题，精准匹配同好交流",
       "brief": {
-        "zaiZaiPlay": "在仔仔世界发起「GTA6正式上线」话题活动，仔仔替你找到同好",
+        "zaiZaiPlay": "在仔仔世界发起「Donk瓦场悟道」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "TA啥意思：把GTA6正式上线相关迷惑发言发给小火人解读",
+        "script": "用Open仔仔替你发起Donk瓦场悟道相关话题，精准匹配同好交流",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
       "globalRank": 24
     },
     {
-      "id": "771807c09dfe",
+      "id": "90e8f5fa9b40",
       "rank": 23,
-      "title": "会唱歌的大嘴鱼玩具我是真想要",
-      "hot": 7734333,
-      "hotDisplay": "773.4万",
-      "platform": "douyin",
-      "platformName": "抖音热搜",
-      "platformColor": "#000000",
-      "category": "音乐热歌",
-      "link": "https://www.douyin.com/search/%E4%BC%9A%E5%94%B1%E6%AD%8C%E7%9A%84%E5%A4%A7%E5%98%B4%E9%B1%BC%E7%8E%A9%E5%85%B7%E6%88%91%E6%98%AF%E7%9C%9F%E6%83%B3%E8%A6%81?type=general",
-      "duoshanScore": 80,
-      "idea": "用仔仔搭音乐会场景，仔仔翻唱会唱歌的大嘴鱼玩具我是真想要并@好友仔仔来听",
-      "brief": {
-        "zaiZaiPlay": "在仔仔世界搭舞台场景，仔仔翻唱「会唱歌的大嘴鱼玩具我是真想要」，邀请同好仔仔合唱",
-        "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争） + 取名大师（【文字】小火人玩文字梗，）",
-        "circle": "圈层：音乐圈、追星圈",
-        "event": "七夕/KOC通用",
-        "script": "畅聊晚自习发起「会唱歌的大嘴鱼玩具我是真想要 vs XX 哪首更上头」话题，让小火人抬杠",
-        "tags": "#多闪仔仔 #有多闪不孤单 #在多闪跨次元相遇 #多闪二次元相亲角"
-      },
-      "globalRank": 25
-    },
-    {
-      "id": "b91a4e98d408",
-      "rank": 24,
-      "title": "马斯克随特朗普车队抵达深圳",
-      "hot": 7729344,
-      "hotDisplay": "772.9万",
+      "title": "累了就出去玩",
+      "hot": 7740912,
+      "hotDisplay": "774.1万",
       "platform": "douyin",
       "platformName": "抖音热搜",
       "platformColor": "#000000",
       "category": "其他热点",
-      "link": "https://www.douyin.com/search/%E9%A9%AC%E6%96%AF%E5%85%8B%E9%9A%8F%E7%89%B9%E6%9C%97%E6%99%AE%E8%BD%A6%E9%98%9F%E6%8A%B5%E8%BE%BE%E6%B7%B1%E5%9C%B3?type=general",
+      "link": "https://www.douyin.com/search/%E7%B4%AF%E4%BA%86%E5%B0%B1%E5%87%BA%E5%8E%BB%E7%8E%A9?type=general",
       "duoshanScore": 25,
-      "idea": "用Open仔仔替你发起马斯克随特朗普车队抵达深圳相关话题，精准匹配同好交流",
+      "idea": "仔仔世界搭场景讨论累了就出去玩，让仔仔们各抒己见",
       "brief": {
-        "zaiZaiPlay": "在仔仔世界发起「马斯克随特朗普车队抵达深圳」话题活动，仔仔替你找到同好",
+        "zaiZaiPlay": "在仔仔世界发起「累了就出去玩」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "TA啥意思：把马斯克随特朗普车队抵达深圳相关迷惑发言发给小火人解读",
+        "script": "TA啥意思：把累了就出去玩相关迷惑发言发给小火人解读",
+        "tags": "#多闪仔仔 #有多闪不孤单"
+      },
+      "globalRank": 25
+    },
+    {
+      "id": "891ddca81487",
+      "rank": 24,
+      "title": "青稚的神图真有了",
+      "hot": 7733628,
+      "hotDisplay": "773.4万",
+      "platform": "douyin",
+      "platformName": "抖音热搜",
+      "platformColor": "#000000",
+      "category": "其他热点",
+      "link": "https://www.douyin.com/search/%E9%9D%92%E7%A8%9A%E7%9A%84%E7%A5%9E%E5%9B%BE%E7%9C%9F%E6%9C%89%E4%BA%86?type=general",
+      "duoshanScore": 25,
+      "idea": "TA啥意思：把青稚的神图真有了相关迷惑发言发给小火人解读",
+      "brief": {
+        "zaiZaiPlay": "在仔仔世界发起「青稚的神图真有了」话题活动，仔仔替你找到同好",
+        "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
+        "circle": "圈层：综合圈",
+        "event": "KOC通用",
+        "script": "仔仔世界搭场景讨论青稚的神图真有了，让仔仔们各抒己见",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
       "globalRank": 26
     },
     {
-      "id": "2be5f886fb9d",
+      "id": "191c08684f93",
       "rank": 25,
-      "title": "专访BLG冠军成员Xun父亲",
-      "hot": 7714216,
-      "hotDisplay": "771.4万",
+      "title": "萌叔问你真的不嫁给我吗",
+      "hot": 7727112,
+      "hotDisplay": "772.7万",
       "platform": "douyin",
       "platformName": "抖音热搜",
       "platformColor": "#000000",
       "category": "其他热点",
-      "link": "https://www.douyin.com/search/%E4%B8%93%E8%AE%BFBLG%E5%86%A0%E5%86%9B%E6%88%90%E5%91%98Xun%E7%88%B6%E4%BA%B2?type=general",
+      "link": "https://www.douyin.com/search/%E8%90%8C%E5%8F%94%E9%97%AE%E4%BD%A0%E7%9C%9F%E7%9A%84%E4%B8%8D%E5%AB%81%E7%BB%99%E6%88%91%E5%90%97?type=general",
       "duoshanScore": 25,
-      "idea": "仔仔世界搭场景讨论专访BLG冠军成员Xun父亲，让仔仔们各抒己见",
+      "idea": "TA啥意思：把萌叔问你真的不嫁给我吗相关迷惑发言发给小火人解读",
       "brief": {
-        "zaiZaiPlay": "在仔仔世界发起「专访BLG冠军成员Xun父亲」话题活动，仔仔替你找到同好",
+        "zaiZaiPlay": "在仔仔世界发起「萌叔问你真的不嫁给我吗」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "TA啥意思：把专访BLG冠军成员Xun父亲相关迷惑发言发给小火人解读",
+        "script": "用Open仔仔替你发起萌叔问你真的不嫁给我吗相关话题，精准匹配同好交流",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
       "globalRank": 27
     },
     {
-      "id": "f1886ed0e73d",
-      "rank": 3,
-      "title": "习近平彭丽媛欢迎与会嘉宾并集体合影",
-      "hot": 7712563,
-      "hotDisplay": "771.3万",
-      "platform": "baidu",
-      "platformName": "百度热搜",
-      "platformColor": "#2932E1",
-      "category": "其他热点",
-      "link": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%BD%AD%E4%B8%BD%E5%AA%9B%E6%AC%A2%E8%BF%8E%E4%B8%8E%E4%BC%9A%E5%98%89%E5%AE%BE%E5%B9%B6%E9%9B%86%E4%BD%93%E5%90%88%E5%BD%B1&sa=fyb_news&rsv_dl=fyb_news",
-      "duoshanScore": 25,
-      "idea": "用Open仔仔替你发起习近平彭丽媛欢迎与会嘉宾并集体合影相关话题，精准匹配同好交流",
+      "id": "5acde9823242",
+      "rank": 26,
+      "title": "小猫律动舞我能看一天",
+      "hot": 7725497,
+      "hotDisplay": "772.5万",
+      "platform": "douyin",
+      "platformName": "抖音热搜",
+      "platformColor": "#000000",
+      "category": "舞蹈挑战",
+      "link": "https://www.douyin.com/search/%E5%B0%8F%E7%8C%AB%E5%BE%8B%E5%8A%A8%E8%88%9E%E6%88%91%E8%83%BD%E7%9C%8B%E4%B8%80%E5%A4%A9?type=general",
+      "duoshanScore": 95,
+      "idea": "用「做个表情包」技能把小猫律动舞我能看一天名场面做成仔仔表情包，聊天时甩出来",
       "brief": {
-        "zaiZaiPlay": "在仔仔世界发起「习近平彭丽媛欢迎与会嘉宾并集体合影」话题活动，仔仔替你找到同好",
-        "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
-        "circle": "圈层：综合圈",
-        "event": "KOC通用",
-        "script": "仔仔世界搭场景讨论习近平彭丽媛欢迎与会嘉宾并集体合影，让仔仔们各抒己见",
-        "tags": "#多闪仔仔 #有多闪不孤单"
+        "zaiZaiPlay": "在仔仔世界用Open仔仔发起「小猫律动舞我能看一天」同名舞蹈挑战，仔仔替你@同好来PK",
+        "skillBind": "技能：精灵法庭（【文字+生图】小火人审判） + 做个表情包（【生图】小火人识别图片+）",
+        "circle": "圈层：舞蹈圈、校园圈",
+        "event": "七夕/KOC通用",
+        "script": "用「做个表情包」技能把小猫律动舞我能看一天名场面做成仔仔表情包，聊天时甩出来",
+        "tags": "#多闪仔仔 #有多闪不孤单 #仔仔世界代餐文学 #多闪二次元相亲角"
       },
       "globalRank": 28
     },
     {
-      "id": "a7102f24b138",
-      "rank": 26,
-      "title": "超级棒棒糖给我神奇的力量",
-      "hot": 7712458,
+      "id": "701164f1a28b",
+      "rank": 27,
+      "title": "王子璇称无法接受文吉儿背刺",
+      "hot": 7715214,
+      "hotDisplay": "771.5万",
+      "platform": "douyin",
+      "platformName": "抖音热搜",
+      "platformColor": "#000000",
+      "category": "其他热点",
+      "link": "https://www.douyin.com/search/%E7%8E%8B%E5%AD%90%E7%92%87%E7%A7%B0%E6%97%A0%E6%B3%95%E6%8E%A5%E5%8F%97%E6%96%87%E5%90%89%E5%84%BF%E8%83%8C%E5%88%BA?type=general",
+      "duoshanScore": 25,
+      "idea": "用Open仔仔替你发起王子璇称无法接受文吉儿背刺相关话题，精准匹配同好交流",
+      "brief": {
+        "zaiZaiPlay": "在仔仔世界发起「王子璇称无法接受文吉儿背刺」话题活动，仔仔替你找到同好",
+        "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
+        "circle": "圈层：综合圈",
+        "event": "KOC通用",
+        "script": "仔仔世界搭场景讨论王子璇称无法接受文吉儿背刺，让仔仔们各抒己见",
+        "tags": "#多闪仔仔 #有多闪不孤单"
+      },
+      "globalRank": 29
+    },
+    {
+      "id": "632a85165410",
+      "rank": 3,
+      "title": "习近平会见美国总统特朗普",
+      "hot": 7712009,
       "hotDisplay": "771.2万",
+      "platform": "baidu",
+      "platformName": "百度热搜",
+      "platformColor": "#2932E1",
+      "category": "其他热点",
+      "link": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%BC%9A%E8%A7%81%E7%BE%8E%E5%9B%BD%E6%80%BB%E7%BB%9F%E7%89%B9%E6%9C%97%E6%99%AE&sa=fyb_news&rsv_dl=fyb_news",
+      "duoshanScore": 25,
+      "idea": "TA啥意思：把习近平会见美国总统特朗普相关迷惑发言发给小火人解读",
+      "brief": {
+        "zaiZaiPlay": "在仔仔世界发起「习近平会见美国总统特朗普」话题活动，仔仔替你找到同好",
+        "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
+        "circle": "圈层：综合圈",
+        "event": "KOC通用",
+        "script": "用Open仔仔替你发起习近平会见美国总统特朗普相关话题，精准匹配同好交流",
+        "tags": "#多闪仔仔 #有多闪不孤单"
+      },
+      "globalRank": 30
+    },
+    {
+      "id": "ed4b917d054b",
+      "rank": 28,
+      "title": "伊能静能不能常驻后会友期",
+      "hot": 7703629,
+      "hotDisplay": "770.4万",
+      "platform": "douyin",
+      "platformName": "抖音热搜",
+      "platformColor": "#000000",
+      "category": "其他热点",
+      "link": "https://www.douyin.com/search/%E4%BC%8A%E8%83%BD%E9%9D%99%E8%83%BD%E4%B8%8D%E8%83%BD%E5%B8%B8%E9%A9%BB%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F?type=general",
+      "duoshanScore": 25,
+      "idea": "TA啥意思：把伊能静能不能常驻后会友期相关迷惑发言发给小火人解读",
+      "brief": {
+        "zaiZaiPlay": "在仔仔世界发起「伊能静能不能常驻后会友期」话题活动，仔仔替你找到同好",
+        "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
+        "circle": "圈层：综合圈",
+        "event": "KOC通用",
+        "script": "仔仔世界搭场景讨论伊能静能不能常驻后会友期，让仔仔们各抒己见",
+        "tags": "#多闪仔仔 #有多闪不孤单"
+      },
+      "globalRank": 31
+    },
+    {
+      "id": "78d4f587d711",
+      "rank": 29,
+      "title": "超级棒棒糖给我神奇的力量",
+      "hot": 7701312,
+      "hotDisplay": "770.1万",
       "platform": "douyin",
       "platformName": "抖音热搜",
       "platformColor": "#000000",
       "category": "其他热点",
       "link": "https://www.douyin.com/search/%E8%B6%85%E7%BA%A7%E6%A3%92%E6%A3%92%E7%B3%96%E7%BB%99%E6%88%91%E7%A5%9E%E5%A5%87%E7%9A%84%E5%8A%9B%E9%87%8F?type=general",
       "duoshanScore": 25,
-      "idea": "TA啥意思：把超级棒棒糖给我神奇的力量相关迷惑发言发给小火人解读",
+      "idea": "仔仔世界搭场景讨论超级棒棒糖给我神奇的力量，让仔仔们各抒己见",
       "brief": {
         "zaiZaiPlay": "在仔仔世界发起「超级棒棒糖给我神奇的力量」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "仔仔世界搭场景讨论超级棒棒糖给我神奇的力量，让仔仔们各抒己见",
+        "script": "用Open仔仔替你发起超级棒棒糖给我神奇的力量相关话题，精准匹配同好交流",
         "tags": "#多闪仔仔 #有多闪不孤单"
-      },
-      "globalRank": 29
-    },
-    {
-      "id": "1e3906ca0fc3",
-      "rank": 27,
-      "title": "两京十五日定档11月20日",
-      "hot": 7711302,
-      "hotDisplay": "771.1万",
-      "platform": "douyin",
-      "platformName": "抖音热搜",
-      "platformColor": "#000000",
-      "category": "其他热点",
-      "link": "https://www.douyin.com/search/%E4%B8%A4%E4%BA%AC%E5%8D%81%E4%BA%94%E6%97%A5%E5%AE%9A%E6%A1%A311%E6%9C%8820%E6%97%A5?type=general",
-      "duoshanScore": 25,
-      "idea": "仔仔世界搭场景讨论两京十五日定档11月20日，让仔仔们各抒己见",
-      "brief": {
-        "zaiZaiPlay": "在仔仔世界发起「两京十五日定档11月20日」话题活动，仔仔替你找到同好",
-        "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
-        "circle": "圈层：综合圈",
-        "event": "KOC通用",
-        "script": "用Open仔仔替你发起两京十五日定档11月20日相关话题，精准匹配同好交流",
-        "tags": "#多闪仔仔 #有多闪不孤单"
-      },
-      "globalRank": 30
-    },
-    {
-      "id": "29aa4dbb912b",
-      "rank": 28,
-      "title": "鸣潮新联邦角色首曝",
-      "hot": 7705052,
-      "hotDisplay": "770.5万",
-      "platform": "douyin",
-      "platformName": "抖音热搜",
-      "platformColor": "#000000",
-      "category": "游戏电竞",
-      "link": "https://www.douyin.com/search/%E9%B8%A3%E6%BD%AE%E6%96%B0%E8%81%94%E9%82%A6%E8%A7%92%E8%89%B2%E9%A6%96%E6%9B%9D?type=general",
-      "duoshanScore": 55,
-      "idea": "用做个表情包把鸣潮新联邦角色首曝游戏梗图做成仔仔表情包",
-      "brief": {
-        "zaiZaiPlay": "在仔仔世界搭游戏场景，仔仔还原「鸣潮新联邦角色首曝」游戏高光",
-        "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
-        "circle": "圈层：游戏圈、二次元",
-        "event": "七夕/KOC通用",
-        "script": "畅聊晚自习发起游戏圈争议话题，让小火人加入抬杠",
-        "tags": "#多闪仔仔 #全员多闪qq人 #在多闪跨次元相遇 #多闪二次元相亲角"
-      },
-      "globalRank": 31
-    },
-    {
-      "id": "9e23232f9485",
-      "rank": 29,
-      "title": "慌啥子嘛舞蹈教学",
-      "hot": 7701889,
-      "hotDisplay": "770.2万",
-      "platform": "douyin",
-      "platformName": "抖音热搜",
-      "platformColor": "#000000",
-      "category": "舞蹈挑战",
-      "link": "https://www.douyin.com/search/%E6%85%8C%E5%95%A5%E5%AD%90%E5%98%9B%E8%88%9E%E8%B9%88%E6%95%99%E5%AD%A6?type=general",
-      "duoshanScore": 95,
-      "idea": "用仔仔还原「慌啥子嘛舞蹈教学」经典动作，在仔仔世界搭舞台场景，和好友仔仔牵手跳舞",
-      "brief": {
-        "zaiZaiPlay": "在仔仔世界用Open仔仔发起「慌啥子嘛舞蹈教学」同名舞蹈挑战，仔仔替你@同好来PK",
-        "skillBind": "技能：精灵法庭（【文字+生图】小火人审判） + 做个表情包（【生图】小火人识别图片+）",
-        "circle": "圈层：舞蹈圈、校园圈",
-        "event": "七夕/KOC通用",
-        "script": "用仔仔还原「慌啥子嘛舞蹈教学」经典动作，在仔仔世界搭舞台场景，和好友仔仔牵手跳舞",
-        "tags": "#多闪仔仔 #有多闪不孤单 #仔仔世界代餐文学 #多闪二次元相亲角"
       },
       "globalRank": 32
     },
     {
-      "id": "27b2dc8c84c5",
+      "id": "6d434b1badf6",
       "rank": 30,
-      "title": "杨毅谈科比铁血时代含金量",
-      "hot": 7695789,
-      "hotDisplay": "769.6万",
-      "platform": "douyin",
-      "platformName": "抖音热搜",
-      "platformColor": "#000000",
-      "category": "其他热点",
-      "link": "https://www.douyin.com/search/%E6%9D%A8%E6%AF%85%E8%B0%88%E7%A7%91%E6%AF%94%E9%93%81%E8%A1%80%E6%97%B6%E4%BB%A3%E5%90%AB%E9%87%91%E9%87%8F?type=general",
-      "duoshanScore": 25,
-      "idea": "TA啥意思：把杨毅谈科比铁血时代含金量相关迷惑发言发给小火人解读",
-      "brief": {
-        "zaiZaiPlay": "在仔仔世界发起「杨毅谈科比铁血时代含金量」话题活动，仔仔替你找到同好",
-        "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
-        "circle": "圈层：综合圈",
-        "event": "KOC通用",
-        "script": "仔仔世界搭场景讨论杨毅谈科比铁血时代含金量，让仔仔们各抒己见",
-        "tags": "#多闪仔仔 #有多闪不孤单"
-      },
-      "globalRank": 33
-    },
-    {
-      "id": "252438892001",
-      "rank": 31,
-      "title": "我在APEC第一现场",
-      "hot": 7695588,
-      "hotDisplay": "769.6万",
-      "platform": "douyin",
-      "platformName": "抖音热搜",
-      "platformColor": "#000000",
-      "category": "其他热点",
-      "link": "https://www.douyin.com/search/%E6%88%91%E5%9C%A8APEC%E7%AC%AC%E4%B8%80%E7%8E%B0%E5%9C%BA?type=general",
-      "duoshanScore": 25,
-      "idea": "用Open仔仔替你发起我在APEC第一现场相关话题，精准匹配同好交流",
-      "brief": {
-        "zaiZaiPlay": "在仔仔世界发起「我在APEC第一现场」话题活动，仔仔替你找到同好",
-        "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
-        "circle": "圈层：综合圈",
-        "event": "KOC通用",
-        "script": "用Open仔仔替你发起我在APEC第一现场相关话题，精准匹配同好交流",
-        "tags": "#多闪仔仔 #有多闪不孤单"
-      },
-      "globalRank": 34
-    },
-    {
-      "id": "71e702c5e7c0",
-      "rank": 32,
-      "title": "侯明昊want系列震撼美味",
-      "hot": 7689410,
-      "hotDisplay": "768.9万",
-      "platform": "douyin",
-      "platformName": "抖音热搜",
-      "platformColor": "#000000",
-      "category": "其他热点",
-      "link": "https://www.douyin.com/search/%E4%BE%AF%E6%98%8E%E6%98%8Awant%E7%B3%BB%E5%88%97%E9%9C%87%E6%92%BC%E7%BE%8E%E5%91%B3?type=general",
-      "duoshanScore": 25,
-      "idea": "用Open仔仔替你发起侯明昊want系列震撼美味相关话题，精准匹配同好交流",
-      "brief": {
-        "zaiZaiPlay": "在仔仔世界发起「侯明昊want系列震撼美味」话题活动，仔仔替你找到同好",
-        "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
-        "circle": "圈层：综合圈",
-        "event": "KOC通用",
-        "script": "TA啥意思：把侯明昊want系列震撼美味相关迷惑发言发给小火人解读",
-        "tags": "#多闪仔仔 #有多闪不孤单"
-      },
-      "globalRank": 35
-    },
-    {
-      "id": "84b8efdfebb8",
-      "rank": 33,
-      "title": "许飞潦草小狗VLOG",
-      "hot": 7681206,
-      "hotDisplay": "768.1万",
-      "platform": "douyin",
-      "platformName": "抖音热搜",
-      "platformColor": "#000000",
-      "category": "生活日常",
-      "link": "https://www.douyin.com/search/%E8%AE%B8%E9%A3%9E%E6%BD%A6%E8%8D%89%E5%B0%8F%E7%8B%97VLOG?type=general",
-      "duoshanScore": 75,
-      "idea": "用做个表情包把许飞潦草小狗VLOG相关日常做成仔仔版表情包发动态",
-      "brief": {
-        "zaiZaiPlay": "在仔仔世界复刻「许飞潦草小狗VLOG」生活场景，仔仔替你记录日常",
-        "skillBind": "技能：今日塔罗（【文字+生图】小火人抽塔） + 做个表情包（【生图】小火人识别图片+）",
-        "circle": "圈层：生活圈、校园圈",
-        "event": "七夕/KOC通用",
-        "script": "用仔仔还原许飞潦草小狗VLOG日常场景，仔仔陪你打卡生活仪式感",
-        "tags": "#多闪仔仔 #有多闪不孤单 #多闪二次元相亲角 #在多闪遇到正缘了"
-      },
-      "globalRank": 36
-    },
-    {
-      "id": "4396bc77303e",
-      "rank": 34,
       "title": "慌啥子嘛弹唱版",
-      "hot": 7677754,
-      "hotDisplay": "767.8万",
+      "hot": 7698298,
+      "hotDisplay": "769.8万",
       "platform": "douyin",
       "platformName": "抖音热搜",
       "platformColor": "#000000",
       "category": "其他热点",
       "link": "https://www.douyin.com/search/%E6%85%8C%E5%95%A5%E5%AD%90%E5%98%9B%E5%BC%B9%E5%94%B1%E7%89%88?type=general",
       "duoshanScore": 25,
-      "idea": "仔仔世界搭场景讨论慌啥子嘛弹唱版，让仔仔们各抒己见",
+      "idea": "TA啥意思：把慌啥子嘛弹唱版相关迷惑发言发给小火人解读",
       "brief": {
         "zaiZaiPlay": "在仔仔世界发起「慌啥子嘛弹唱版」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "用Open仔仔替你发起慌啥子嘛弹唱版相关话题，精准匹配同好交流",
+        "script": "TA啥意思：把慌啥子嘛弹唱版相关迷惑发言发给小火人解读",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
-      "globalRank": 37
+      "globalRank": 33
     },
     {
-      "id": "ed1a0ba596dd",
-      "rank": 35,
+      "id": "535860743dcb",
+      "rank": 31,
       "title": "天冷拍甜甜手势舞",
-      "hot": 7672203,
-      "hotDisplay": "767.2万",
+      "hot": 7697291,
+      "hotDisplay": "769.7万",
       "platform": "douyin",
       "platformName": "抖音热搜",
       "platformColor": "#000000",
       "category": "舞蹈挑战",
       "link": "https://www.douyin.com/search/%E5%A4%A9%E5%86%B7%E6%8B%8D%E7%94%9C%E7%94%9C%E6%89%8B%E5%8A%BF%E8%88%9E?type=general",
       "duoshanScore": 100,
-      "idea": "发起精灵法庭审判:「谁的天冷拍甜甜手势舞跳得最烂」，判罚仔仔世界罚站3分钟",
+      "idea": "用仔仔还原「天冷拍甜甜手势舞」经典动作，在仔仔世界搭舞台场景，和好友仔仔牵手跳舞",
       "brief": {
         "zaiZaiPlay": "在仔仔世界用Open仔仔发起「天冷拍甜甜手势舞」同名舞蹈挑战，仔仔替你@同好来PK",
         "skillBind": "技能：精灵法庭（【文字+生图】小火人审判） + 做个表情包（【生图】小火人识别图片+）",
         "circle": "圈层：舞蹈圈、校园圈",
         "event": "七夕/KOC通用",
-        "script": "发起精灵法庭审判:「谁的天冷拍甜甜手势舞跳得最烂」，判罚仔仔世界罚站3分钟",
+        "script": "用「做个表情包」技能把天冷拍甜甜手势舞名场面做成仔仔表情包，聊天时甩出来",
         "tags": "#多闪仔仔 #有多闪不孤单 #仔仔世界代餐文学 #多闪二次元相亲角"
       },
-      "globalRank": 38
+      "globalRank": 34
     },
     {
-      "id": "70c97afc58e2",
-      "rank": 36,
+      "id": "36aa975befb8",
+      "rank": 32,
       "title": "我的明星同款脸藏不住了",
-      "hot": 7672066,
-      "hotDisplay": "767.2万",
+      "hot": 7695508,
+      "hotDisplay": "769.6万",
       "platform": "douyin",
       "platformName": "抖音热搜",
       "platformColor": "#000000",
@@ -908,99 +816,191 @@ const TREND_DATA = {
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "用Open仔仔替你发起我的明星同款脸藏不住了相关话题，精准匹配同好交流",
+        "script": "TA啥意思：把我的明星同款脸藏不住了相关迷惑发言发给小火人解读",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
-      "globalRank": 39
+      "globalRank": 35
     },
     {
-      "id": "f27267f249a2",
-      "rank": 37,
+      "id": "879cbb47b5f0",
+      "rank": 33,
       "title": "全女综艺峨眉山开录了",
-      "hot": 7671708,
-      "hotDisplay": "767.2万",
+      "hot": 7694981,
+      "hotDisplay": "769.5万",
       "platform": "douyin",
       "platformName": "抖音热搜",
       "platformColor": "#000000",
       "category": "影视综艺",
       "link": "https://www.douyin.com/search/%E5%85%A8%E5%A5%B3%E7%BB%BC%E8%89%BA%E5%B3%A8%E7%9C%89%E5%B1%B1%E5%BC%80%E5%BD%95%E4%BA%86?type=general",
       "duoshanScore": 60,
-      "idea": "恋爱军师分析全女综艺峨眉山开录了中CP的聊天记录，教你怎么和crush聊出同款氛围",
+      "idea": "TA啥意思：把全女综艺峨眉山开录了角色台词发给小火人做阅读理解",
       "brief": {
         "zaiZaiPlay": "用仔仔世界复刻「全女综艺峨眉山开录了」影视名场面，仔仔平替角色演绎",
         "skillBind": "技能：TA啥意思（【文字】小火人做阅读理解） + 恋爱军师（【文字+表情包】小火人分）",
         "circle": "圈层：影视圈、追星圈",
         "event": "七夕/KOC通用",
-        "script": "恋爱军师分析全女综艺峨眉山开录了中CP的聊天记录，教你怎么和crush聊出同款氛围",
+        "script": "TA啥意思：把全女综艺峨眉山开录了角色台词发给小火人做阅读理解",
         "tags": "#多闪仔仔 #仔仔世界代餐文学 #在多闪跨次元相遇 #多闪二次元相亲角"
+      },
+      "globalRank": 36
+    },
+    {
+      "id": "e7410dfbb1cb",
+      "rank": 34,
+      "title": "提线木偶转场集齐了影视回忆杀",
+      "hot": 7682871,
+      "hotDisplay": "768.3万",
+      "platform": "douyin",
+      "platformName": "抖音热搜",
+      "platformColor": "#000000",
+      "category": "其他热点",
+      "link": "https://www.douyin.com/search/%E6%8F%90%E7%BA%BF%E6%9C%A8%E5%81%B6%E8%BD%AC%E5%9C%BA%E9%9B%86%E9%BD%90%E4%BA%86%E5%BD%B1%E8%A7%86%E5%9B%9E%E5%BF%86%E6%9D%80?type=general",
+      "duoshanScore": 25,
+      "idea": "仔仔世界搭场景讨论提线木偶转场集齐了影视回忆杀，让仔仔们各抒己见",
+      "brief": {
+        "zaiZaiPlay": "在仔仔世界发起「提线木偶转场集齐了影视回忆杀」话题活动，仔仔替你找到同好",
+        "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
+        "circle": "圈层：综合圈",
+        "event": "KOC通用",
+        "script": "用Open仔仔替你发起提线木偶转场集齐了影视回忆杀相关话题，精准匹配同好交流",
+        "tags": "#多闪仔仔 #有多闪不孤单"
+      },
+      "globalRank": 37
+    },
+    {
+      "id": "6f163c0195e7",
+      "rank": 35,
+      "title": "华为Mate 90 Air抢先开箱",
+      "hot": 7681531,
+      "hotDisplay": "768.2万",
+      "platform": "douyin",
+      "platformName": "抖音热搜",
+      "platformColor": "#000000",
+      "category": "科技数码",
+      "link": "https://www.douyin.com/search/%E5%8D%8E%E4%B8%BAMate%2090%20Air%E6%8A%A2%E5%85%88%E5%BC%80%E7%AE%B1?type=general",
+      "duoshanScore": 40,
+      "idea": "取名大师给华为Mate 90 Air抢先开箱相关产品起搞笑昵称",
+      "brief": {
+        "zaiZaiPlay": "用仔仔世界展演「华为Mate 90 Air抢先开箱」相关内容，仔仔做科技解说",
+        "skillBind": "技能：取名大师（【文字】小火人玩文字梗，）",
+        "circle": "圈层：科技圈、数码圈",
+        "event": "KOC通用",
+        "script": "取名大师给华为Mate 90 Air抢先开箱相关产品起搞笑昵称",
+        "tags": "#多闪仔仔 #有多闪不孤单"
+      },
+      "globalRank": 38
+    },
+    {
+      "id": "357f058566e2",
+      "rank": 36,
+      "title": "76人121:116战胜魔术",
+      "hot": 7680890,
+      "hotDisplay": "768.1万",
+      "platform": "douyin",
+      "platformName": "抖音热搜",
+      "platformColor": "#000000",
+      "category": "其他热点",
+      "link": "https://www.douyin.com/search/76%E4%BA%BA121%3A116%E6%88%98%E8%83%9C%E9%AD%94%E6%9C%AF?type=general",
+      "duoshanScore": 25,
+      "idea": "仔仔世界搭场景讨论76人121:116战胜魔术，让仔仔们各抒己见",
+      "brief": {
+        "zaiZaiPlay": "在仔仔世界发起「76人121:116战胜魔术」话题活动，仔仔替你找到同好",
+        "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
+        "circle": "圈层：综合圈",
+        "event": "KOC通用",
+        "script": "TA啥意思：把76人121:116战胜魔术相关迷惑发言发给小火人解读",
+        "tags": "#多闪仔仔 #有多闪不孤单"
+      },
+      "globalRank": 39
+    },
+    {
+      "id": "7cc8ffa3d410",
+      "rank": 37,
+      "title": "蔡国庆走秀时意外摔倒",
+      "hot": 7680670,
+      "hotDisplay": "768.1万",
+      "platform": "douyin",
+      "platformName": "抖音热搜",
+      "platformColor": "#000000",
+      "category": "其他热点",
+      "link": "https://www.douyin.com/search/%E8%94%A1%E5%9B%BD%E5%BA%86%E8%B5%B0%E7%A7%80%E6%97%B6%E6%84%8F%E5%A4%96%E6%91%94%E5%80%92?type=general",
+      "duoshanScore": 25,
+      "idea": "TA啥意思：把蔡国庆走秀时意外摔倒相关迷惑发言发给小火人解读",
+      "brief": {
+        "zaiZaiPlay": "在仔仔世界发起「蔡国庆走秀时意外摔倒」话题活动，仔仔替你找到同好",
+        "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
+        "circle": "圈层：综合圈",
+        "event": "KOC通用",
+        "script": "TA啥意思：把蔡国庆走秀时意外摔倒相关迷惑发言发给小火人解读",
+        "tags": "#多闪仔仔 #有多闪不孤单"
       },
       "globalRank": 40
     },
     {
-      "id": "851d0b6b4723",
+      "id": "b7b748b42f0c",
       "rank": 38,
-      "title": "GTA6上线前的我",
-      "hot": 7671488,
-      "hotDisplay": "767.1万",
+      "title": "忘情牛肉面舞蹈大赛",
+      "hot": 7677236,
+      "hotDisplay": "767.7万",
       "platform": "douyin",
       "platformName": "抖音热搜",
       "platformColor": "#000000",
-      "category": "其他热点",
-      "link": "https://www.douyin.com/search/GTA6%E4%B8%8A%E7%BA%BF%E5%89%8D%E7%9A%84%E6%88%91?type=general",
-      "duoshanScore": 25,
-      "idea": "仔仔世界搭场景讨论GTA6上线前的我，让仔仔们各抒己见",
+      "category": "舞蹈挑战",
+      "link": "https://www.douyin.com/search/%E5%BF%98%E6%83%85%E7%89%9B%E8%82%89%E9%9D%A2%E8%88%9E%E8%B9%88%E5%A4%A7%E8%B5%9B?type=general",
+      "duoshanScore": 95,
+      "idea": "发起精灵法庭审判:「谁的忘情牛肉面舞蹈大赛跳得最烂」，判罚仔仔世界罚站3分钟",
       "brief": {
-        "zaiZaiPlay": "在仔仔世界发起「GTA6上线前的我」话题活动，仔仔替你找到同好",
-        "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
-        "circle": "圈层：综合圈",
-        "event": "KOC通用",
-        "script": "用Open仔仔替你发起GTA6上线前的我相关话题，精准匹配同好交流",
-        "tags": "#多闪仔仔 #有多闪不孤单"
+        "zaiZaiPlay": "在仔仔世界用Open仔仔发起「忘情牛肉面舞蹈大赛」同名舞蹈挑战，仔仔替你@同好来PK",
+        "skillBind": "技能：精灵法庭（【文字+生图】小火人审判） + 做个表情包（【生图】小火人识别图片+）",
+        "circle": "圈层：舞蹈圈、校园圈",
+        "event": "七夕/KOC通用",
+        "script": "发起精灵法庭审判:「谁的忘情牛肉面舞蹈大赛跳得最烂」，判罚仔仔世界罚站3分钟",
+        "tags": "#多闪仔仔 #有多闪不孤单 #仔仔世界代餐文学 #多闪二次元相亲角"
       },
       "globalRank": 41
     },
     {
-      "id": "ca9001b9cea8",
+      "id": "637a983c0ae9",
       "rank": 39,
-      "title": "北京的银杏雨你淋到了吗",
-      "hot": 7667660,
-      "hotDisplay": "766.8万",
+      "title": "GTA6正式上线",
+      "hot": 7677190,
+      "hotDisplay": "767.7万",
       "platform": "douyin",
       "platformName": "抖音热搜",
       "platformColor": "#000000",
       "category": "其他热点",
-      "link": "https://www.douyin.com/search/%E5%8C%97%E4%BA%AC%E7%9A%84%E9%93%B6%E6%9D%8F%E9%9B%A8%E4%BD%A0%E6%B7%8B%E5%88%B0%E4%BA%86%E5%90%97?type=general",
+      "link": "https://www.douyin.com/search/GTA6%E6%AD%A3%E5%BC%8F%E4%B8%8A%E7%BA%BF?type=general",
       "duoshanScore": 25,
-      "idea": "仔仔世界搭场景讨论北京的银杏雨你淋到了吗，让仔仔们各抒己见",
+      "idea": "用Open仔仔替你发起GTA6正式上线相关话题，精准匹配同好交流",
       "brief": {
-        "zaiZaiPlay": "在仔仔世界发起「北京的银杏雨你淋到了吗」话题活动，仔仔替你找到同好",
+        "zaiZaiPlay": "在仔仔世界发起「GTA6正式上线」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "仔仔世界搭场景讨论北京的银杏雨你淋到了吗，让仔仔们各抒己见",
+        "script": "用Open仔仔替你发起GTA6正式上线相关话题，精准匹配同好交流",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
       "globalRank": 42
     },
     {
-      "id": "572685836ea0",
+      "id": "a30b7b58d4b0",
       "rank": 40,
-      "title": "潇洒走在银杏树下",
-      "hot": 7662379,
-      "hotDisplay": "766.2万",
+      "title": "我的未来存款让我富了三秒",
+      "hot": 7666554,
+      "hotDisplay": "766.7万",
       "platform": "douyin",
       "platformName": "抖音热搜",
       "platformColor": "#000000",
       "category": "其他热点",
-      "link": "https://www.douyin.com/search/%E6%BD%87%E6%B4%92%E8%B5%B0%E5%9C%A8%E9%93%B6%E6%9D%8F%E6%A0%91%E4%B8%8B?type=general",
+      "link": "https://www.douyin.com/search/%E6%88%91%E7%9A%84%E6%9C%AA%E6%9D%A5%E5%AD%98%E6%AC%BE%E8%AE%A9%E6%88%91%E5%AF%8C%E4%BA%86%E4%B8%89%E7%A7%92?type=general",
       "duoshanScore": 25,
-      "idea": "TA啥意思：把潇洒走在银杏树下相关迷惑发言发给小火人解读",
+      "idea": "仔仔世界搭场景讨论我的未来存款让我富了三秒，让仔仔们各抒己见",
       "brief": {
-        "zaiZaiPlay": "在仔仔世界发起「潇洒走在银杏树下」话题活动，仔仔替你找到同好",
+        "zaiZaiPlay": "在仔仔世界发起「我的未来存款让我富了三秒」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "用Open仔仔替你发起潇洒走在银杏树下相关话题，精准匹配同好交流",
+        "script": "TA啥意思：把我的未来存款让我富了三秒相关迷惑发言发给小火人解读",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
       "globalRank": 43
@@ -1009,8 +1009,8 @@ const TREND_DATA = {
       "id": "1d528ae3e891",
       "rank": 41,
       "title": "时光匆匆又是一年冬",
-      "hot": 7661301,
-      "hotDisplay": "766.1万",
+      "hot": 7664969,
+      "hotDisplay": "766.5万",
       "platform": "douyin",
       "platformName": "抖音热搜",
       "platformColor": "#000000",
@@ -1023,63 +1023,132 @@ const TREND_DATA = {
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "TA啥意思：把时光匆匆又是一年冬相关迷惑发言发给小火人解读",
+        "script": "用Open仔仔替你发起时光匆匆又是一年冬相关话题，精准匹配同好交流",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
       "globalRank": 44
     },
     {
-      "id": "6708805c2d50",
+      "id": "0e5ce14032d0",
       "rank": 42,
-      "title": "高低得去景德镇画一次盘子",
-      "hot": 7660620,
-      "hotDisplay": "766.1万",
+      "title": "慌啥子嘛为什么动人",
+      "hot": 7664552,
+      "hotDisplay": "766.5万",
       "platform": "douyin",
       "platformName": "抖音热搜",
       "platformColor": "#000000",
       "category": "其他热点",
-      "link": "https://www.douyin.com/search/%E9%AB%98%E4%BD%8E%E5%BE%97%E5%8E%BB%E6%99%AF%E5%BE%B7%E9%95%87%E7%94%BB%E4%B8%80%E6%AC%A1%E7%9B%98%E5%AD%90?type=general",
+      "link": "https://www.douyin.com/search/%E6%85%8C%E5%95%A5%E5%AD%90%E5%98%9B%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8A%A8%E4%BA%BA?type=general",
       "duoshanScore": 25,
-      "idea": "仔仔世界搭场景讨论高低得去景德镇画一次盘子，让仔仔们各抒己见",
+      "idea": "用Open仔仔替你发起慌啥子嘛为什么动人相关话题，精准匹配同好交流",
       "brief": {
-        "zaiZaiPlay": "在仔仔世界发起「高低得去景德镇画一次盘子」话题活动，仔仔替你找到同好",
+        "zaiZaiPlay": "在仔仔世界发起「慌啥子嘛为什么动人」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "TA啥意思：把高低得去景德镇画一次盘子相关迷惑发言发给小火人解读",
+        "script": "用Open仔仔替你发起慌啥子嘛为什么动人相关话题，精准匹配同好交流",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
       "globalRank": 45
     },
     {
-      "id": "bc6cd3a374d9",
+      "id": "eb828e724f3d",
       "rank": 43,
-      "title": "赵露思葛栗穿搭我悟了",
-      "hot": 7656547,
-      "hotDisplay": "765.7万",
+      "title": "两京十五日定档11月20日",
+      "hot": 7661911,
+      "hotDisplay": "766.2万",
       "platform": "douyin",
       "platformName": "抖音热搜",
       "platformColor": "#000000",
-      "category": "生活日常",
-      "link": "https://www.douyin.com/search/%E8%B5%B5%E9%9C%B2%E6%80%9D%E8%91%9B%E6%A0%97%E7%A9%BF%E6%90%AD%E6%88%91%E6%82%9F%E4%BA%86?type=general",
-      "duoshanScore": 75,
-      "idea": "今日塔罗：出门前让小火人抽牌看赵露思葛栗穿搭我悟了是否适合今天尝试",
+      "category": "其他热点",
+      "link": "https://www.douyin.com/search/%E4%B8%A4%E4%BA%AC%E5%8D%81%E4%BA%94%E6%97%A5%E5%AE%9A%E6%A1%A311%E6%9C%8820%E6%97%A5?type=general",
+      "duoshanScore": 25,
+      "idea": "仔仔世界搭场景讨论两京十五日定档11月20日，让仔仔们各抒己见",
       "brief": {
-        "zaiZaiPlay": "在仔仔世界复刻「赵露思葛栗穿搭我悟了」生活场景，仔仔替你记录日常",
-        "skillBind": "技能：今日塔罗（【文字+生图】小火人抽塔） + 做个表情包（【生图】小火人识别图片+）",
-        "circle": "圈层：生活圈、校园圈",
-        "event": "七夕/KOC通用",
-        "script": "今日塔罗：出门前让小火人抽牌看赵露思葛栗穿搭我悟了是否适合今天尝试",
-        "tags": "#多闪仔仔 #有多闪不孤单 #多闪二次元相亲角 #在多闪遇到正缘了"
+        "zaiZaiPlay": "在仔仔世界发起「两京十五日定档11月20日」话题活动，仔仔替你找到同好",
+        "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
+        "circle": "圈层：综合圈",
+        "event": "KOC通用",
+        "script": "仔仔世界搭场景讨论两京十五日定档11月20日，让仔仔们各抒己见",
+        "tags": "#多闪仔仔 #有多闪不孤单"
       },
       "globalRank": 46
     },
     {
-      "id": "917e3163e2fb",
+      "id": "4f00bbf38701",
       "rank": 44,
+      "title": "登贝莱叫你上号玩GTA6",
+      "hot": 7659214,
+      "hotDisplay": "765.9万",
+      "platform": "douyin",
+      "platformName": "抖音热搜",
+      "platformColor": "#000000",
+      "category": "其他热点",
+      "link": "https://www.douyin.com/search/%E7%99%BB%E8%B4%9D%E8%8E%B1%E5%8F%AB%E4%BD%A0%E4%B8%8A%E5%8F%B7%E7%8E%A9GTA6?type=general",
+      "duoshanScore": 25,
+      "idea": "用Open仔仔替你发起登贝莱叫你上号玩GTA6相关话题，精准匹配同好交流",
+      "brief": {
+        "zaiZaiPlay": "在仔仔世界发起「登贝莱叫你上号玩GTA6」话题活动，仔仔替你找到同好",
+        "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
+        "circle": "圈层：综合圈",
+        "event": "KOC通用",
+        "script": "仔仔世界搭场景讨论登贝莱叫你上号玩GTA6，让仔仔们各抒己见",
+        "tags": "#多闪仔仔 #有多闪不孤单"
+      },
+      "globalRank": 47
+    },
+    {
+      "id": "1d0c7337a6f8",
+      "rank": 45,
+      "title": "我的GTA6游玩初体验",
+      "hot": 7659158,
+      "hotDisplay": "765.9万",
+      "platform": "douyin",
+      "platformName": "抖音热搜",
+      "platformColor": "#000000",
+      "category": "其他热点",
+      "link": "https://www.douyin.com/search/%E6%88%91%E7%9A%84GTA6%E6%B8%B8%E7%8E%A9%E5%88%9D%E4%BD%93%E9%AA%8C?type=general",
+      "duoshanScore": 25,
+      "idea": "用Open仔仔替你发起我的GTA6游玩初体验相关话题，精准匹配同好交流",
+      "brief": {
+        "zaiZaiPlay": "在仔仔世界发起「我的GTA6游玩初体验」话题活动，仔仔替你找到同好",
+        "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
+        "circle": "圈层：综合圈",
+        "event": "KOC通用",
+        "script": "用Open仔仔替你发起我的GTA6游玩初体验相关话题，精准匹配同好交流",
+        "tags": "#多闪仔仔 #有多闪不孤单"
+      },
+      "globalRank": 48
+    },
+    {
+      "id": "69bca1967c3c",
+      "rank": 46,
+      "title": "摆摊规矩立住了才能不烧心",
+      "hot": 7654518,
+      "hotDisplay": "765.5万",
+      "platform": "douyin",
+      "platformName": "抖音热搜",
+      "platformColor": "#000000",
+      "category": "其他热点",
+      "link": "https://www.douyin.com/search/%E6%91%86%E6%91%8A%E8%A7%84%E7%9F%A9%E7%AB%8B%E4%BD%8F%E4%BA%86%E6%89%8D%E8%83%BD%E4%B8%8D%E7%83%A7%E5%BF%83?type=general",
+      "duoshanScore": 25,
+      "idea": "用Open仔仔替你发起摆摊规矩立住了才能不烧心相关话题，精准匹配同好交流",
+      "brief": {
+        "zaiZaiPlay": "在仔仔世界发起「摆摊规矩立住了才能不烧心」话题活动，仔仔替你找到同好",
+        "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
+        "circle": "圈层：综合圈",
+        "event": "KOC通用",
+        "script": "用Open仔仔替你发起摆摊规矩立住了才能不烧心相关话题，精准匹配同好交流",
+        "tags": "#多闪仔仔 #有多闪不孤单"
+      },
+      "globalRank": 49
+    },
+    {
+      "id": "ea4018dd1bb5",
+      "rank": 47,
       "title": "没人能拒绝下雪天的哈尔滨",
-      "hot": 7652076,
-      "hotDisplay": "765.2万",
+      "hot": 7651297,
+      "hotDisplay": "765.1万",
       "platform": "douyin",
       "platformName": "抖音热搜",
       "platformColor": "#000000",
@@ -1095,1226 +1164,1134 @@ const TREND_DATA = {
         "script": "仔仔世界搭场景讨论没人能拒绝下雪天的哈尔滨，让仔仔们各抒己见",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
-      "globalRank": 47
+      "globalRank": 50
     },
     {
-      "id": "b73e1aa1896c",
-      "rank": 45,
-      "title": "杨超越野草系女主仿妆",
-      "hot": 7651414,
-      "hotDisplay": "765.1万",
-      "platform": "douyin",
-      "platformName": "抖音热搜",
-      "platformColor": "#000000",
-      "category": "其他热点",
-      "link": "https://www.douyin.com/search/%E6%9D%A8%E8%B6%85%E8%B6%8A%E9%87%8E%E8%8D%89%E7%B3%BB%E5%A5%B3%E4%B8%BB%E4%BB%BF%E5%A6%86?type=general",
-      "duoshanScore": 25,
-      "idea": "仔仔世界搭场景讨论杨超越野草系女主仿妆，让仔仔们各抒己见",
-      "brief": {
-        "zaiZaiPlay": "在仔仔世界发起「杨超越野草系女主仿妆」话题活动，仔仔替你找到同好",
-        "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
-        "circle": "圈层：综合圈",
-        "event": "KOC通用",
-        "script": "仔仔世界搭场景讨论杨超越野草系女主仿妆，让仔仔们各抒己见",
-        "tags": "#多闪仔仔 #有多闪不孤单"
-      },
-      "globalRank": 48
-    },
-    {
-      "id": "1440304353cb",
-      "rank": 46,
-      "title": "被慌啥子嘛慢慢来治愈了",
-      "hot": 7650300,
-      "hotDisplay": "765.0万",
-      "platform": "douyin",
-      "platformName": "抖音热搜",
-      "platformColor": "#000000",
-      "category": "其他热点",
-      "link": "https://www.douyin.com/search/%E8%A2%AB%E6%85%8C%E5%95%A5%E5%AD%90%E5%98%9B%E6%85%A2%E6%85%A2%E6%9D%A5%E6%B2%BB%E6%84%88%E4%BA%86?type=general",
-      "duoshanScore": 25,
-      "idea": "TA啥意思：把被慌啥子嘛慢慢来治愈了相关迷惑发言发给小火人解读",
-      "brief": {
-        "zaiZaiPlay": "在仔仔世界发起「被慌啥子嘛慢慢来治愈了」话题活动，仔仔替你找到同好",
-        "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
-        "circle": "圈层：综合圈",
-        "event": "KOC通用",
-        "script": "用Open仔仔替你发起被慌啥子嘛慢慢来治愈了相关话题，精准匹配同好交流",
-        "tags": "#多闪仔仔 #有多闪不孤单"
-      },
-      "globalRank": 49
-    },
-    {
-      "id": "99595718821a",
-      "rank": 47,
-      "title": "谢谢小猫递来的红薯",
-      "hot": 7648074,
-      "hotDisplay": "764.8万",
+      "id": "652f6e0df715",
+      "rank": 48,
+      "title": "赵露思葛栗穿搭我悟了",
+      "hot": 7649266,
+      "hotDisplay": "764.9万",
       "platform": "douyin",
       "platformName": "抖音热搜",
       "platformColor": "#000000",
       "category": "生活日常",
-      "link": "https://www.douyin.com/search/%E8%B0%A2%E8%B0%A2%E5%B0%8F%E7%8C%AB%E9%80%92%E6%9D%A5%E7%9A%84%E7%BA%A2%E8%96%AF?type=general",
-      "duoshanScore": 70,
-      "idea": "用仔仔还原谢谢小猫递来的红薯日常场景，仔仔陪你打卡生活仪式感",
+      "link": "https://www.douyin.com/search/%E8%B5%B5%E9%9C%B2%E6%80%9D%E8%91%9B%E6%A0%97%E7%A9%BF%E6%90%AD%E6%88%91%E6%82%9F%E4%BA%86?type=general",
+      "duoshanScore": 75,
+      "idea": "用做个表情包把赵露思葛栗穿搭我悟了相关日常做成仔仔版表情包发动态",
       "brief": {
-        "zaiZaiPlay": "在仔仔世界复刻「谢谢小猫递来的红薯」生活场景，仔仔替你记录日常",
+        "zaiZaiPlay": "在仔仔世界复刻「赵露思葛栗穿搭我悟了」生活场景，仔仔替你记录日常",
         "skillBind": "技能：今日塔罗（【文字+生图】小火人抽塔） + 做个表情包（【生图】小火人识别图片+）",
         "circle": "圈层：生活圈、校园圈",
-        "event": "七夕/精灵学院/KOC通用",
-        "script": "今日塔罗：出门前让小火人抽牌看谢谢小猫递来的红薯是否适合今天尝试",
-        "tags": "#多闪仔仔 #有多闪不孤单 #多闪二次元相亲角 #在多闪遇到正缘了"
-      },
-      "globalRank": 50
-    },
-    {
-      "id": "fb3d9d9825db",
-      "rank": 48,
-      "title": "裙下之臣开播",
-      "hot": 7645274,
-      "hotDisplay": "764.5万",
-      "platform": "douyin",
-      "platformName": "抖音热搜",
-      "platformColor": "#000000",
-      "category": "影视综艺",
-      "link": "https://www.douyin.com/search/%E8%A3%99%E4%B8%8B%E4%B9%8B%E8%87%A3%E5%BC%80%E6%92%AD?type=general",
-      "duoshanScore": 60,
-      "idea": "TA啥意思：把裙下之臣开播角色台词发给小火人做阅读理解",
-      "brief": {
-        "zaiZaiPlay": "用仔仔世界复刻「裙下之臣开播」影视名场面，仔仔平替角色演绎",
-        "skillBind": "技能：TA啥意思（【文字】小火人做阅读理解） + 恋爱军师（【文字+表情包】小火人分）",
-        "circle": "圈层：影视圈、追星圈",
         "event": "七夕/KOC通用",
-        "script": "TA啥意思：把裙下之臣开播角色台词发给小火人做阅读理解",
-        "tags": "#多闪仔仔 #仔仔世界代餐文学 #在多闪跨次元相遇 #多闪二次元相亲角"
+        "script": "用仔仔还原赵露思葛栗穿搭我悟了日常场景，仔仔陪你打卡生活仪式感",
+        "tags": "#多闪仔仔 #有多闪不孤单 #多闪二次元相亲角 #在多闪遇到正缘了"
       },
       "globalRank": 51
     },
     {
-      "id": "30a35a415139",
-      "rank": 49,
-      "title": "蔡国庆走秀时意外摔倒",
-      "hot": 7644390,
-      "hotDisplay": "764.4万",
-      "platform": "douyin",
-      "platformName": "抖音热搜",
-      "platformColor": "#000000",
-      "category": "其他热点",
-      "link": "https://www.douyin.com/search/%E8%94%A1%E5%9B%BD%E5%BA%86%E8%B5%B0%E7%A7%80%E6%97%B6%E6%84%8F%E5%A4%96%E6%91%94%E5%80%92?type=general",
-      "duoshanScore": 25,
-      "idea": "仔仔世界搭场景讨论蔡国庆走秀时意外摔倒，让仔仔们各抒己见",
-      "brief": {
-        "zaiZaiPlay": "在仔仔世界发起「蔡国庆走秀时意外摔倒」话题活动，仔仔替你找到同好",
-        "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
-        "circle": "圈层：综合圈",
-        "event": "KOC通用",
-        "script": "用Open仔仔替你发起蔡国庆走秀时意外摔倒相关话题，精准匹配同好交流",
-        "tags": "#多闪仔仔 #有多闪不孤单"
-      },
-      "globalRank": 52
-    },
-    {
-      "id": "3b3ac4a8ceae",
+      "id": "caf03163f590",
       "rank": 4,
-      "title": "APEC工商领导人峰会什么话题最热",
-      "hot": 7617716,
+      "title": "引领时代风气之先 锚定亚太合作方向",
+      "hot": 7617575,
       "hotDisplay": "761.8万",
       "platform": "baidu",
       "platformName": "百度热搜",
       "platformColor": "#2932E1",
       "category": "其他热点",
-      "link": "https://www.baidu.com/s?wd=APEC%E5%B7%A5%E5%95%86%E9%A2%86%E5%AF%BC%E4%BA%BA%E5%B3%B0%E4%BC%9A%E4%BB%80%E4%B9%88%E8%AF%9D%E9%A2%98%E6%9C%80%E7%83%AD&sa=fyb_news&rsv_dl=fyb_news",
+      "link": "https://www.baidu.com/s?wd=%E5%BC%95%E9%A2%86%E6%97%B6%E4%BB%A3%E9%A3%8E%E6%B0%94%E4%B9%8B%E5%85%88+%E9%94%9A%E5%AE%9A%E4%BA%9A%E5%A4%AA%E5%90%88%E4%BD%9C%E6%96%B9%E5%90%91&sa=fyb_news&rsv_dl=fyb_news",
       "duoshanScore": 25,
-      "idea": "仔仔世界搭场景讨论APEC工商领导人峰会什么话题最热，让仔仔们各抒己见",
+      "idea": "TA啥意思：把引领时代风气之先 锚定亚太合作方向相关迷惑发言发给小火人解读",
       "brief": {
-        "zaiZaiPlay": "在仔仔世界发起「APEC工商领导人峰会什么话题最热」话题活动，仔仔替你找到同好",
+        "zaiZaiPlay": "在仔仔世界发起「引领时代风气之先 锚定亚太合作方向」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "TA啥意思：把APEC工商领导人峰会什么话题最热相关迷惑发言发给小火人解读",
+        "script": "用Open仔仔替你发起引领时代风气之先 锚定亚太合作方向相关话题，精准匹配同好交流",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
-      "globalRank": 53
+      "globalRank": 52
     },
     {
-      "id": "887fd9cf64dd",
+      "id": "497d7c55073d",
       "rank": 5,
-      "title": "普京和特朗普互动握手",
-      "hot": 7523194,
+      "title": "特朗普：请中国继续保持强大",
+      "hot": 7522867,
       "hotDisplay": "752.3万",
       "platform": "baidu",
       "platformName": "百度热搜",
       "platformColor": "#2932E1",
       "category": "其他热点",
-      "link": "https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E5%92%8C%E7%89%B9%E6%9C%97%E6%99%AE%E4%BA%92%E5%8A%A8%E6%8F%A1%E6%89%8B&sa=fyb_news&rsv_dl=fyb_news",
+      "link": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E8%AF%B7%E4%B8%AD%E5%9B%BD%E7%BB%A7%E7%BB%AD%E4%BF%9D%E6%8C%81%E5%BC%BA%E5%A4%A7&sa=fyb_news&rsv_dl=fyb_news",
       "duoshanScore": 25,
-      "idea": "用Open仔仔替你发起普京和特朗普互动握手相关话题，精准匹配同好交流",
+      "idea": "TA啥意思：把特朗普：请中国继续保持强大相关迷惑发言发给小火人解读",
       "brief": {
-        "zaiZaiPlay": "在仔仔世界发起「普京和特朗普互动握手」话题活动，仔仔替你找到同好",
+        "zaiZaiPlay": "在仔仔世界发起「特朗普：请中国继续保持强大」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "TA啥意思：把普京和特朗普互动握手相关迷惑发言发给小火人解读",
+        "script": "TA啥意思：把特朗普：请中国继续保持强大相关迷惑发言发给小火人解读",
+        "tags": "#多闪仔仔 #有多闪不孤单"
+      },
+      "globalRank": 53
+    },
+    {
+      "id": "c469d4562224",
+      "rank": 6,
+      "title": "APEC专属围巾原来是这样的",
+      "hot": 7428021,
+      "hotDisplay": "742.8万",
+      "platform": "baidu",
+      "platformName": "百度热搜",
+      "platformColor": "#2932E1",
+      "category": "其他热点",
+      "link": "https://www.baidu.com/s?wd=APEC%E4%B8%93%E5%B1%9E%E5%9B%B4%E5%B7%BE%E5%8E%9F%E6%9D%A5%E6%98%AF%E8%BF%99%E6%A0%B7%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news",
+      "duoshanScore": 25,
+      "idea": "仔仔世界搭场景讨论APEC专属围巾原来是这样的，让仔仔们各抒己见",
+      "brief": {
+        "zaiZaiPlay": "在仔仔世界发起「APEC专属围巾原来是这样的」话题活动，仔仔替你找到同好",
+        "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
+        "circle": "圈层：综合圈",
+        "event": "KOC通用",
+        "script": "TA啥意思：把APEC专属围巾原来是这样的相关迷惑发言发给小火人解读",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
       "globalRank": 54
     },
     {
-      "id": "380dc9b02605",
-      "rank": 6,
-      "title": "中国军人在空军一号轰鸣声前岿然不动",
-      "hot": 7423592,
-      "hotDisplay": "742.4万",
+      "id": "7d603888e801",
+      "rank": 7,
+      "title": "普京乘电梯时主动礼让文莱苏丹",
+      "hot": 7332936,
+      "hotDisplay": "733.3万",
       "platform": "baidu",
       "platformName": "百度热搜",
       "platformColor": "#2932E1",
       "category": "其他热点",
-      "link": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%86%9B%E4%BA%BA%E5%9C%A8%E7%A9%BA%E5%86%9B%E4%B8%80%E5%8F%B7%E8%BD%B0%E9%B8%A3%E5%A3%B0%E5%89%8D%E5%B2%BF%E7%84%B6%E4%B8%8D%E5%8A%A8&sa=fyb_news&rsv_dl=fyb_news",
+      "link": "https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E4%B9%98%E7%94%B5%E6%A2%AF%E6%97%B6%E4%B8%BB%E5%8A%A8%E7%A4%BC%E8%AE%A9%E6%96%87%E8%8E%B1%E8%8B%8F%E4%B8%B9&sa=fyb_news&rsv_dl=fyb_news",
       "duoshanScore": 25,
-      "idea": "仔仔世界搭场景讨论中国军人在空军一号轰鸣声前岿然不动，让仔仔们各抒己见",
+      "idea": "TA啥意思：把普京乘电梯时主动礼让文莱苏丹相关迷惑发言发给小火人解读",
       "brief": {
-        "zaiZaiPlay": "在仔仔世界发起「中国军人在空军一号轰鸣声前岿然不动」话题活动，仔仔替你找到同好",
+        "zaiZaiPlay": "在仔仔世界发起「普京乘电梯时主动礼让文莱苏丹」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "TA啥意思：把中国军人在空军一号轰鸣声前岿然不动相关迷惑发言发给小火人解读",
+        "script": "用Open仔仔替你发起普京乘电梯时主动礼让文莱苏丹相关话题，精准匹配同好交流",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
       "globalRank": 55
     },
     {
-      "id": "e956166bff63",
-      "rank": 7,
-      "title": "普京：难怪您会选这里作为APEC举办地",
-      "hot": 7333626,
-      "hotDisplay": "733.4万",
+      "id": "07668f30d767",
+      "rank": 8,
+      "title": "中方回应“金正恩会否与特朗普会晤”",
+      "hot": 7232840,
+      "hotDisplay": "723.3万",
       "platform": "baidu",
       "platformName": "百度热搜",
       "platformColor": "#2932E1",
-      "category": "其他热点",
-      "link": "https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%EF%BC%9A%E9%9A%BE%E6%80%AA%E6%82%A8%E4%BC%9A%E9%80%89%E8%BF%99%E9%87%8C%E4%BD%9C%E4%B8%BAAPEC%E4%B8%BE%E5%8A%9E%E5%9C%B0&sa=fyb_news&rsv_dl=fyb_news",
-      "duoshanScore": 25,
-      "idea": "TA啥意思：把普京：难怪您会选这里作为APEC举办地相关迷惑发言发给小火人解读",
+      "category": "社会热点",
+      "link": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E2%80%9C%E9%87%91%E6%AD%A3%E6%81%A9%E4%BC%9A%E5%90%A6%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E4%BC%9A%E6%99%A4%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
+      "duoshanScore": 15,
+      "idea": "Open仔仔替你发表对中方回应“金正恩会否与特朗普会晤”的看法，吸引同观点的好友来交流",
       "brief": {
-        "zaiZaiPlay": "在仔仔世界发起「普京：难怪您会选这里作为APEC举办地」话题活动，仔仔替你找到同好",
-        "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
-        "circle": "圈层：综合圈",
+        "zaiZaiPlay": "在仔仔世界发起「中方回应“金正恩会否与特朗普会晤”」话题讨论，仔仔替你表达观点",
+        "skillBind": "技能：TA啥意思（【文字】小火人做阅读理解）",
+        "circle": "圈层：生活圈、校园圈",
         "event": "KOC通用",
-        "script": "TA啥意思：把普京：难怪您会选这里作为APEC举办地相关迷惑发言发给小火人解读",
+        "script": "Open仔仔替你发表对中方回应“金正恩会否与特朗普会晤”的看法，吸引同观点的好友来交流",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
       "globalRank": 56
     },
     {
-      "id": "0e7f5e57d37c",
-      "rank": 8,
-      "title": "超市服装区挤满了年轻人",
-      "hot": 7238519,
-      "hotDisplay": "723.9万",
+      "id": "753b87440852",
+      "rank": 9,
+      "title": "特朗普：美国不支持“台独”",
+      "hot": 7135460,
+      "hotDisplay": "713.5万",
       "platform": "baidu",
       "platformName": "百度热搜",
       "platformColor": "#2932E1",
       "category": "其他热点",
-      "link": "https://www.baidu.com/s?wd=%E8%B6%85%E5%B8%82%E6%9C%8D%E8%A3%85%E5%8C%BA%E6%8C%A4%E6%BB%A1%E4%BA%86%E5%B9%B4%E8%BD%BB%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news",
+      "link": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%BE%8E%E5%9B%BD%E4%B8%8D%E6%94%AF%E6%8C%81%E2%80%9C%E5%8F%B0%E7%8B%AC%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
       "duoshanScore": 25,
-      "idea": "TA啥意思：把超市服装区挤满了年轻人相关迷惑发言发给小火人解读",
+      "idea": "仔仔世界搭场景讨论特朗普：美国不支持“台独”，让仔仔们各抒己见",
       "brief": {
-        "zaiZaiPlay": "在仔仔世界发起「超市服装区挤满了年轻人」话题活动，仔仔替你找到同好",
+        "zaiZaiPlay": "在仔仔世界发起「特朗普：美国不支持“台独”」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "仔仔世界搭场景讨论超市服装区挤满了年轻人，让仔仔们各抒己见",
+        "script": "仔仔世界搭场景讨论特朗普：美国不支持“台独”，让仔仔们各抒己见",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
       "globalRank": 57
     },
     {
-      "id": "afb05215ccec",
-      "rank": 9,
-      "title": "国台办回应“两岸2032年统一货币”",
-      "hot": 7140967,
-      "hotDisplay": "714.1万",
+      "id": "382f821cbc94",
+      "rank": 10,
+      "title": "共促亚太繁荣：中国的建议与邀约",
+      "hot": 7045279,
+      "hotDisplay": "704.5万",
       "platform": "baidu",
       "platformName": "百度热搜",
       "platformColor": "#2932E1",
-      "category": "社会热点",
-      "link": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%8F%B0%E5%8A%9E%E5%9B%9E%E5%BA%94%E2%80%9C%E4%B8%A4%E5%B2%B82032%E5%B9%B4%E7%BB%9F%E4%B8%80%E8%B4%A7%E5%B8%81%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
-      "duoshanScore": 15,
-      "idea": "用仔仔世界搭讨论场景，仔仔们围绕「国台办回应“两岸2032年统一货币”」展开辩论",
+      "category": "其他热点",
+      "link": "https://www.baidu.com/s?wd=%E5%85%B1%E4%BF%83%E4%BA%9A%E5%A4%AA%E7%B9%81%E8%8D%A3%EF%BC%9A%E4%B8%AD%E5%9B%BD%E7%9A%84%E5%BB%BA%E8%AE%AE%E4%B8%8E%E9%82%80%E7%BA%A6&sa=fyb_news&rsv_dl=fyb_news",
+      "duoshanScore": 25,
+      "idea": "仔仔世界搭场景讨论共促亚太繁荣：中国的建议与邀约，让仔仔们各抒己见",
       "brief": {
-        "zaiZaiPlay": "在仔仔世界发起「国台办回应“两岸2032年统一货币”」话题讨论，仔仔替你表达观点",
-        "skillBind": "技能：TA啥意思（【文字】小火人做阅读理解）",
-        "circle": "圈层：生活圈、校园圈",
+        "zaiZaiPlay": "在仔仔世界发起「共促亚太繁荣：中国的建议与邀约」话题活动，仔仔替你找到同好",
+        "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
+        "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "精灵法庭：围绕国台办回应“两岸2032年统一货币”中的争议人物/事件发起审判",
+        "script": "TA啥意思：把共促亚太繁荣：中国的建议与邀约相关迷惑发言发给小火人解读",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
       "globalRank": 58
     },
     {
-      "id": "f666f1cb47b8",
-      "rank": 10,
-      "title": "为何都说“APEC需要中国”",
-      "hot": 7044091,
-      "hotDisplay": "704.4万",
+      "id": "8321dbb0d5a3",
+      "rank": 11,
+      "title": "特朗普见普京时开玩笑问“他是谁”",
+      "hot": 6944194,
+      "hotDisplay": "694.4万",
       "platform": "baidu",
       "platformName": "百度热搜",
       "platformColor": "#2932E1",
       "category": "其他热点",
-      "link": "https://www.baidu.com/s?wd=%E4%B8%BA%E4%BD%95%E9%83%BD%E8%AF%B4%E2%80%9CAPEC%E9%9C%80%E8%A6%81%E4%B8%AD%E5%9B%BD%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
+      "link": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%A7%81%E6%99%AE%E4%BA%AC%E6%97%B6%E5%BC%80%E7%8E%A9%E7%AC%91%E9%97%AE%E2%80%9C%E4%BB%96%E6%98%AF%E8%B0%81%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
       "duoshanScore": 25,
-      "idea": "用Open仔仔替你发起为何都说“APEC需要中国”相关话题，精准匹配同好交流",
+      "idea": "TA啥意思：把特朗普见普京时开玩笑问“他是谁”相关迷惑发言发给小火人解读",
       "brief": {
-        "zaiZaiPlay": "在仔仔世界发起「为何都说“APEC需要中国”」话题活动，仔仔替你找到同好",
+        "zaiZaiPlay": "在仔仔世界发起「特朗普见普京时开玩笑问“他是谁”」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "用Open仔仔替你发起为何都说“APEC需要中国”相关话题，精准匹配同好交流",
+        "script": "仔仔世界搭场景讨论特朗普见普京时开玩笑问“他是谁”，让仔仔们各抒己见",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
       "globalRank": 59
     },
     {
-      "id": "be7a83caa3c8",
-      "rank": 11,
-      "title": "大件旧家具“扔比买难”？九部门出手",
-      "hot": 6949681,
-      "hotDisplay": "695.0万",
+      "id": "901d5bcbe7f4",
+      "rank": 12,
+      "title": "摘掉小番茄“甜=长胖”标签",
+      "hot": 6854397,
+      "hotDisplay": "685.4万",
       "platform": "baidu",
       "platformName": "百度热搜",
       "platformColor": "#2932E1",
-      "category": "其他热点",
-      "link": "https://www.baidu.com/s?wd=%E5%A4%A7%E4%BB%B6%E6%97%A7%E5%AE%B6%E5%85%B7%E2%80%9C%E6%89%94%E6%AF%94%E4%B9%B0%E9%9A%BE%E2%80%9D%EF%BC%9F%E4%B9%9D%E9%83%A8%E9%97%A8%E5%87%BA%E6%89%8B&sa=fyb_news&rsv_dl=fyb_news",
-      "duoshanScore": 25,
-      "idea": "仔仔世界搭场景讨论大件旧家具“扔比买难”？九部门出手，让仔仔们各抒己见",
+      "category": "影视综艺",
+      "link": "https://www.baidu.com/s?wd=%E6%91%98%E6%8E%89%E5%B0%8F%E7%95%AA%E8%8C%84%E2%80%9C%E7%94%9C%3D%E9%95%BF%E8%83%96%E2%80%9D%E6%A0%87%E7%AD%BE&sa=fyb_news&rsv_dl=fyb_news",
+      "duoshanScore": 60,
+      "idea": "用仔仔还原「摘掉小番茄“甜=长胖”标签」经典场景，制作成CP向二创小剧场",
       "brief": {
-        "zaiZaiPlay": "在仔仔世界发起「大件旧家具“扔比买难”？九部门出手」话题活动，仔仔替你找到同好",
-        "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
-        "circle": "圈层：综合圈",
-        "event": "KOC通用",
-        "script": "用Open仔仔替你发起大件旧家具“扔比买难”？九部门出手相关话题，精准匹配同好交流",
-        "tags": "#多闪仔仔 #有多闪不孤单"
+        "zaiZaiPlay": "用仔仔世界复刻「摘掉小番茄“甜=长胖”标签」影视名场面，仔仔平替角色演绎",
+        "skillBind": "技能：TA啥意思（【文字】小火人做阅读理解） + 恋爱军师（【文字+表情包】小火人分）",
+        "circle": "圈层：影视圈、追星圈",
+        "event": "七夕/KOC通用",
+        "script": "用仔仔还原「摘掉小番茄“甜=长胖”标签」经典场景，制作成CP向二创小剧场",
+        "tags": "#多闪仔仔 #仔仔世界代餐文学 #在多闪跨次元相遇 #多闪二次元相亲角"
       },
       "globalRank": 60
     },
     {
-      "id": "17dc1b6882a7",
-      "rank": 12,
-      "title": "“养老保险缴15年就能退休”系谣言",
-      "hot": 6848612,
-      "hotDisplay": "684.9万",
+      "id": "24259dacb07b",
+      "rank": 13,
+      "title": "马斯克小儿子玩具都是中国制造",
+      "hot": 6758839,
+      "hotDisplay": "675.9万",
       "platform": "baidu",
       "platformName": "百度热搜",
       "platformColor": "#2932E1",
       "category": "其他热点",
-      "link": "https://www.baidu.com/s?wd=%E2%80%9C%E5%85%BB%E8%80%81%E4%BF%9D%E9%99%A9%E7%BC%B415%E5%B9%B4%E5%B0%B1%E8%83%BD%E9%80%80%E4%BC%91%E2%80%9D%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news",
+      "link": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%B0%8F%E5%84%BF%E5%AD%90%E7%8E%A9%E5%85%B7%E9%83%BD%E6%98%AF%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0&sa=fyb_news&rsv_dl=fyb_news",
       "duoshanScore": 25,
-      "idea": "仔仔世界搭场景讨论“养老保险缴15年就能退休”系谣言，让仔仔们各抒己见",
+      "idea": "仔仔世界搭场景讨论马斯克小儿子玩具都是中国制造，让仔仔们各抒己见",
       "brief": {
-        "zaiZaiPlay": "在仔仔世界发起「“养老保险缴15年就能退休”系谣言」话题活动，仔仔替你找到同好",
+        "zaiZaiPlay": "在仔仔世界发起「马斯克小儿子玩具都是中国制造」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "用Open仔仔替你发起“养老保险缴15年就能退休”系谣言相关话题，精准匹配同好交流",
+        "script": "仔仔世界搭场景讨论马斯克小儿子玩具都是中国制造，让仔仔们各抒己见",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
       "globalRank": 61
     },
     {
-      "id": "1ab543e0b069",
-      "rank": 13,
-      "title": "特朗普车内未拉窗帘沉浸式欣赏深圳",
-      "hot": 6754262,
-      "hotDisplay": "675.4万",
+      "id": "12e96ba64a64",
+      "rank": 14,
+      "title": "“多让孩子啃苹果能省下一个金镯子”",
+      "hot": 6664168,
+      "hotDisplay": "666.4万",
       "platform": "baidu",
       "platformName": "百度热搜",
       "platformColor": "#2932E1",
       "category": "其他热点",
-      "link": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%BD%A6%E5%86%85%E6%9C%AA%E6%8B%89%E7%AA%97%E5%B8%98%E6%B2%89%E6%B5%B8%E5%BC%8F%E6%AC%A3%E8%B5%8F%E6%B7%B1%E5%9C%B3&sa=fyb_news&rsv_dl=fyb_news",
+      "link": "https://www.baidu.com/s?wd=%E2%80%9C%E5%A4%9A%E8%AE%A9%E5%AD%A9%E5%AD%90%E5%95%83%E8%8B%B9%E6%9E%9C%E8%83%BD%E7%9C%81%E4%B8%8B%E4%B8%80%E4%B8%AA%E9%87%91%E9%95%AF%E5%AD%90%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
       "duoshanScore": 25,
-      "idea": "用Open仔仔替你发起特朗普车内未拉窗帘沉浸式欣赏深圳相关话题，精准匹配同好交流",
+      "idea": "用Open仔仔替你发起“多让孩子啃苹果能省下一个金镯子”相关话题，精准匹配同好交流",
       "brief": {
-        "zaiZaiPlay": "在仔仔世界发起「特朗普车内未拉窗帘沉浸式欣赏深圳」话题活动，仔仔替你找到同好",
+        "zaiZaiPlay": "在仔仔世界发起「“多让孩子啃苹果能省下一个金镯子”」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "仔仔世界搭场景讨论特朗普车内未拉窗帘沉浸式欣赏深圳，让仔仔们各抒己见",
+        "script": "用Open仔仔替你发起“多让孩子啃苹果能省下一个金镯子”相关话题，精准匹配同好交流",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
       "globalRank": 62
     },
     {
-      "id": "fd7f63cc1efb",
-      "rank": 14,
-      "title": "深圳市民路边热情围观特朗普座驾",
-      "hot": 6668531,
-      "hotDisplay": "666.9万",
+      "id": "97098947bd35",
+      "rank": 15,
+      "title": "中方回应高市早苗礼宾安排",
+      "hot": 6561066,
+      "hotDisplay": "656.1万",
       "platform": "baidu",
       "platformName": "百度热搜",
       "platformColor": "#2932E1",
-      "category": "其他热点",
-      "link": "https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E5%B8%82%E6%B0%91%E8%B7%AF%E8%BE%B9%E7%83%AD%E6%83%85%E5%9B%B4%E8%A7%82%E7%89%B9%E6%9C%97%E6%99%AE%E5%BA%A7%E9%A9%BE&sa=fyb_news&rsv_dl=fyb_news",
-      "duoshanScore": 25,
-      "idea": "仔仔世界搭场景讨论深圳市民路边热情围观特朗普座驾，让仔仔们各抒己见",
+      "category": "社会热点",
+      "link": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E7%A4%BC%E5%AE%BE%E5%AE%89%E6%8E%92&sa=fyb_news&rsv_dl=fyb_news",
+      "duoshanScore": 15,
+      "idea": "用仔仔世界搭讨论场景，仔仔们围绕「中方回应高市早苗礼宾安排」展开辩论",
       "brief": {
-        "zaiZaiPlay": "在仔仔世界发起「深圳市民路边热情围观特朗普座驾」话题活动，仔仔替你找到同好",
-        "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
-        "circle": "圈层：综合圈",
+        "zaiZaiPlay": "在仔仔世界发起「中方回应高市早苗礼宾安排」话题讨论，仔仔替你表达观点",
+        "skillBind": "技能：TA啥意思（【文字】小火人做阅读理解）",
+        "circle": "圈层：生活圈、校园圈",
         "event": "KOC通用",
-        "script": "仔仔世界搭场景讨论深圳市民路边热情围观特朗普座驾，让仔仔们各抒己见",
+        "script": "Open仔仔替你发表对中方回应高市早苗礼宾安排的看法，吸引同观点的好友来交流",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
       "globalRank": 63
     },
     {
-      "id": "30a022841be8",
-      "rank": 15,
-      "title": "两高一部：严惩借离婚转移财产",
-      "hot": 6561326,
-      "hotDisplay": "656.1万",
+      "id": "c766ffc72b70",
+      "rank": 16,
+      "title": "北大时期张泉灵美成女儿国国王了",
+      "hot": 6466199,
+      "hotDisplay": "646.6万",
       "platform": "baidu",
       "platformName": "百度热搜",
       "platformColor": "#2932E1",
       "category": "其他热点",
-      "link": "https://www.baidu.com/s?wd=%E4%B8%A4%E9%AB%98%E4%B8%80%E9%83%A8%EF%BC%9A%E4%B8%A5%E6%83%A9%E5%80%9F%E7%A6%BB%E5%A9%9A%E8%BD%AC%E7%A7%BB%E8%B4%A2%E4%BA%A7&sa=fyb_news&rsv_dl=fyb_news",
+      "link": "https://www.baidu.com/s?wd=%E5%8C%97%E5%A4%A7%E6%97%B6%E6%9C%9F%E5%BC%A0%E6%B3%89%E7%81%B5%E7%BE%8E%E6%88%90%E5%A5%B3%E5%84%BF%E5%9B%BD%E5%9B%BD%E7%8E%8B%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
       "duoshanScore": 25,
-      "idea": "TA啥意思：把两高一部：严惩借离婚转移财产相关迷惑发言发给小火人解读",
+      "idea": "用Open仔仔替你发起北大时期张泉灵美成女儿国国王了相关话题，精准匹配同好交流",
       "brief": {
-        "zaiZaiPlay": "在仔仔世界发起「两高一部：严惩借离婚转移财产」话题活动，仔仔替你找到同好",
+        "zaiZaiPlay": "在仔仔世界发起「北大时期张泉灵美成女儿国国王了」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "仔仔世界搭场景讨论两高一部：严惩借离婚转移财产，让仔仔们各抒己见",
+        "script": "TA啥意思：把北大时期张泉灵美成女儿国国王了相关迷惑发言发给小火人解读",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
       "globalRank": 64
     },
     {
-      "id": "6409edc294c6",
-      "rank": 16,
-      "title": "别问警察男友要领带夹了",
-      "hot": 6469218,
-      "hotDisplay": "646.9万",
+      "id": "35aa968416a8",
+      "rank": 17,
+      "title": "马斯克：我是中国的超级粉丝",
+      "hot": 6370304,
+      "hotDisplay": "637.0万",
       "platform": "baidu",
       "platformName": "百度热搜",
       "platformColor": "#2932E1",
       "category": "其他热点",
-      "link": "https://www.baidu.com/s?wd=%E5%88%AB%E9%97%AE%E8%AD%A6%E5%AF%9F%E7%94%B7%E5%8F%8B%E8%A6%81%E9%A2%86%E5%B8%A6%E5%A4%B9%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
+      "link": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%EF%BC%9A%E6%88%91%E6%98%AF%E4%B8%AD%E5%9B%BD%E7%9A%84%E8%B6%85%E7%BA%A7%E7%B2%89%E4%B8%9D&sa=fyb_news&rsv_dl=fyb_news",
       "duoshanScore": 25,
-      "idea": "用Open仔仔替你发起别问警察男友要领带夹了相关话题，精准匹配同好交流",
+      "idea": "仔仔世界搭场景讨论马斯克：我是中国的超级粉丝，让仔仔们各抒己见",
       "brief": {
-        "zaiZaiPlay": "在仔仔世界发起「别问警察男友要领带夹了」话题活动，仔仔替你找到同好",
+        "zaiZaiPlay": "在仔仔世界发起「马斯克：我是中国的超级粉丝」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "用Open仔仔替你发起别问警察男友要领带夹了相关话题，精准匹配同好交流",
+        "script": "仔仔世界搭场景讨论马斯克：我是中国的超级粉丝，让仔仔们各抒己见",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
       "globalRank": 65
     },
     {
-      "id": "517d8091b1fc",
-      "rank": 17,
-      "title": "马斯克现身特朗普车队随行大巴车",
-      "hot": 6382769,
-      "hotDisplay": "638.3万",
+      "id": "c5d3ee69edb6",
+      "rank": 18,
+      "title": "二手房价格连涨8个月",
+      "hot": 6274681,
+      "hotDisplay": "627.5万",
       "platform": "baidu",
       "platformName": "百度热搜",
       "platformColor": "#2932E1",
       "category": "其他热点",
-      "link": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%8E%B0%E8%BA%AB%E7%89%B9%E6%9C%97%E6%99%AE%E8%BD%A6%E9%98%9F%E9%9A%8F%E8%A1%8C%E5%A4%A7%E5%B7%B4%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news",
+      "link": "https://www.baidu.com/s?wd=%E4%BA%8C%E6%89%8B%E6%88%BF%E4%BB%B7%E6%A0%BC%E8%BF%9E%E6%B6%A88%E4%B8%AA%E6%9C%88&sa=fyb_news&rsv_dl=fyb_news",
       "duoshanScore": 25,
-      "idea": "仔仔世界搭场景讨论马斯克现身特朗普车队随行大巴车，让仔仔们各抒己见",
+      "idea": "用Open仔仔替你发起二手房价格连涨8个月相关话题，精准匹配同好交流",
       "brief": {
-        "zaiZaiPlay": "在仔仔世界发起「马斯克现身特朗普车队随行大巴车」话题活动，仔仔替你找到同好",
+        "zaiZaiPlay": "在仔仔世界发起「二手房价格连涨8个月」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "用Open仔仔替你发起马斯克现身特朗普车队随行大巴车相关话题，精准匹配同好交流",
+        "script": "TA啥意思：把二手房价格连涨8个月相关迷惑发言发给小火人解读",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
       "globalRank": 66
     },
     {
-      "id": "fb82f7115a39",
-      "rank": 18,
-      "title": "全世界正在严肃进入中国捏捏时代",
-      "hot": 6282506,
-      "hotDisplay": "628.3万",
+      "id": "8059344f8803",
+      "rank": 19,
+      "title": "李家超笑称“我是东道主啊”",
+      "hot": 6190575,
+      "hotDisplay": "619.1万",
       "platform": "baidu",
       "platformName": "百度热搜",
       "platformColor": "#2932E1",
       "category": "其他热点",
-      "link": "https://www.baidu.com/s?wd=%E5%85%A8%E4%B8%96%E7%95%8C%E6%AD%A3%E5%9C%A8%E4%B8%A5%E8%82%83%E8%BF%9B%E5%85%A5%E4%B8%AD%E5%9B%BD%E6%8D%8F%E6%8D%8F%E6%97%B6%E4%BB%A3&sa=fyb_news&rsv_dl=fyb_news",
+      "link": "https://www.baidu.com/s?wd=%E6%9D%8E%E5%AE%B6%E8%B6%85%E7%AC%91%E7%A7%B0%E2%80%9C%E6%88%91%E6%98%AF%E4%B8%9C%E9%81%93%E4%B8%BB%E5%95%8A%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
       "duoshanScore": 25,
-      "idea": "TA啥意思：把全世界正在严肃进入中国捏捏时代相关迷惑发言发给小火人解读",
+      "idea": "TA啥意思：把李家超笑称“我是东道主啊”相关迷惑发言发给小火人解读",
       "brief": {
-        "zaiZaiPlay": "在仔仔世界发起「全世界正在严肃进入中国捏捏时代」话题活动，仔仔替你找到同好",
+        "zaiZaiPlay": "在仔仔世界发起「李家超笑称“我是东道主啊”」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "仔仔世界搭场景讨论全世界正在严肃进入中国捏捏时代，让仔仔们各抒己见",
+        "script": "仔仔世界搭场景讨论李家超笑称“我是东道主啊”，让仔仔们各抒己见",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
       "globalRank": 67
     },
     {
-      "id": "4faf82a411ef",
-      "rank": 19,
-      "title": "李在明夫妇与华南韩侨共进午餐",
-      "hot": 6178138,
-      "hotDisplay": "617.8万",
+      "id": "e930543ec084",
+      "rank": 20,
+      "title": "深圳市民在街头偶遇各国政要",
+      "hot": 6080786,
+      "hotDisplay": "608.1万",
       "platform": "baidu",
       "platformName": "百度热搜",
       "platformColor": "#2932E1",
       "category": "其他热点",
-      "link": "https://www.baidu.com/s?wd=%E6%9D%8E%E5%9C%A8%E6%98%8E%E5%A4%AB%E5%A6%87%E4%B8%8E%E5%8D%8E%E5%8D%97%E9%9F%A9%E4%BE%A8%E5%85%B1%E8%BF%9B%E5%8D%88%E9%A4%90&sa=fyb_news&rsv_dl=fyb_news",
+      "link": "https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E5%B8%82%E6%B0%91%E5%9C%A8%E8%A1%97%E5%A4%B4%E5%81%B6%E9%81%87%E5%90%84%E5%9B%BD%E6%94%BF%E8%A6%81&sa=fyb_news&rsv_dl=fyb_news",
       "duoshanScore": 25,
-      "idea": "仔仔世界搭场景讨论李在明夫妇与华南韩侨共进午餐，让仔仔们各抒己见",
+      "idea": "TA啥意思：把深圳市民在街头偶遇各国政要相关迷惑发言发给小火人解读",
       "brief": {
-        "zaiZaiPlay": "在仔仔世界发起「李在明夫妇与华南韩侨共进午餐」话题活动，仔仔替你找到同好",
+        "zaiZaiPlay": "在仔仔世界发起「深圳市民在街头偶遇各国政要」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "仔仔世界搭场景讨论李在明夫妇与华南韩侨共进午餐，让仔仔们各抒己见",
+        "script": "仔仔世界搭场景讨论深圳市民在街头偶遇各国政要，让仔仔们各抒己见",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
       "globalRank": 68
     },
     {
-      "id": "564cb9eced52",
-      "rank": 20,
-      "title": "孙正义后悔当年没投Anthropic",
-      "hot": 6084531,
-      "hotDisplay": "608.5万",
+      "id": "4a166b584f04",
+      "rank": 21,
+      "title": "液氧乐队主唱张宇去世",
+      "hot": 5999894,
+      "hotDisplay": "600.0万",
       "platform": "baidu",
       "platformName": "百度热搜",
       "platformColor": "#2932E1",
       "category": "其他热点",
-      "link": "https://www.baidu.com/s?wd=%E5%AD%99%E6%AD%A3%E4%B9%89%E5%90%8E%E6%82%94%E5%BD%93%E5%B9%B4%E6%B2%A1%E6%8A%95Anthropic&sa=fyb_news&rsv_dl=fyb_news",
+      "link": "https://www.baidu.com/s?wd=%E6%B6%B2%E6%B0%A7%E4%B9%90%E9%98%9F%E4%B8%BB%E5%94%B1%E5%BC%A0%E5%AE%87%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news",
       "duoshanScore": 25,
-      "idea": "TA啥意思：把孙正义后悔当年没投Anthropic相关迷惑发言发给小火人解读",
+      "idea": "TA啥意思：把液氧乐队主唱张宇去世相关迷惑发言发给小火人解读",
       "brief": {
-        "zaiZaiPlay": "在仔仔世界发起「孙正义后悔当年没投Anthropic」话题活动，仔仔替你找到同好",
+        "zaiZaiPlay": "在仔仔世界发起「液氧乐队主唱张宇去世」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "仔仔世界搭场景讨论孙正义后悔当年没投Anthropic，让仔仔们各抒己见",
+        "script": "TA啥意思：把液氧乐队主唱张宇去世相关迷惑发言发给小火人解读",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
       "globalRank": 69
     },
     {
-      "id": "47833f8a9caa",
-      "rank": 21,
-      "title": "APEC欢迎宴会高清大图",
-      "hot": 5985663,
-      "hotDisplay": "598.6万",
+      "id": "789c83b9e0dd",
+      "rank": 22,
+      "title": "中俄美元首座驾首次同框",
+      "hot": 5902366,
+      "hotDisplay": "590.2万",
       "platform": "baidu",
       "platformName": "百度热搜",
       "platformColor": "#2932E1",
       "category": "其他热点",
-      "link": "https://www.baidu.com/s?wd=APEC%E6%AC%A2%E8%BF%8E%E5%AE%B4%E4%BC%9A%E9%AB%98%E6%B8%85%E5%A4%A7%E5%9B%BE&sa=fyb_news&rsv_dl=fyb_news",
+      "link": "https://www.baidu.com/s?wd=%E4%B8%AD%E4%BF%84%E7%BE%8E%E5%85%83%E9%A6%96%E5%BA%A7%E9%A9%BE%E9%A6%96%E6%AC%A1%E5%90%8C%E6%A1%86&sa=fyb_news&rsv_dl=fyb_news",
       "duoshanScore": 25,
-      "idea": "TA啥意思：把APEC欢迎宴会高清大图相关迷惑发言发给小火人解读",
+      "idea": "仔仔世界搭场景讨论中俄美元首座驾首次同框，让仔仔们各抒己见",
       "brief": {
-        "zaiZaiPlay": "在仔仔世界发起「APEC欢迎宴会高清大图」话题活动，仔仔替你找到同好",
+        "zaiZaiPlay": "在仔仔世界发起「中俄美元首座驾首次同框」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "TA啥意思：把APEC欢迎宴会高清大图相关迷惑发言发给小火人解读",
+        "script": "TA啥意思：把中俄美元首座驾首次同框相关迷惑发言发给小火人解读",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
       "globalRank": 70
     },
     {
-      "id": "850dcecba8d7",
-      "rank": 22,
-      "title": "特朗普驻足聆听乐团演奏点头鼓掌",
-      "hot": 5899886,
-      "hotDisplay": "590.0万",
+      "id": "fd7d3742029d",
+      "rank": 23,
+      "title": "粉丝超7000万的“潘姥姥”是谁",
+      "hot": 5791341,
+      "hotDisplay": "579.1万",
       "platform": "baidu",
       "platformName": "百度热搜",
       "platformColor": "#2932E1",
       "category": "其他热点",
-      "link": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E9%A9%BB%E8%B6%B3%E8%81%86%E5%90%AC%E4%B9%90%E5%9B%A2%E6%BC%94%E5%A5%8F%E7%82%B9%E5%A4%B4%E9%BC%93%E6%8E%8C&sa=fyb_news&rsv_dl=fyb_news",
+      "link": "https://www.baidu.com/s?wd=%E7%B2%89%E4%B8%9D%E8%B6%857000%E4%B8%87%E7%9A%84%E2%80%9C%E6%BD%98%E5%A7%A5%E5%A7%A5%E2%80%9D%E6%98%AF%E8%B0%81&sa=fyb_news&rsv_dl=fyb_news",
       "duoshanScore": 25,
-      "idea": "仔仔世界搭场景讨论特朗普驻足聆听乐团演奏点头鼓掌，让仔仔们各抒己见",
+      "idea": "用Open仔仔替你发起粉丝超7000万的“潘姥姥”是谁相关话题，精准匹配同好交流",
       "brief": {
-        "zaiZaiPlay": "在仔仔世界发起「特朗普驻足聆听乐团演奏点头鼓掌」话题活动，仔仔替你找到同好",
+        "zaiZaiPlay": "在仔仔世界发起「粉丝超7000万的“潘姥姥”是谁」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "用Open仔仔替你发起特朗普驻足聆听乐团演奏点头鼓掌相关话题，精准匹配同好交流",
+        "script": "TA啥意思：把粉丝超7000万的“潘姥姥”是谁相关迷惑发言发给小火人解读",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
       "globalRank": 71
     },
     {
-      "id": "f9a95ba55afc",
-      "rank": 23,
-      "title": "茅台告别抢购 黄牛的好日子到头了",
-      "hot": 5799986,
-      "hotDisplay": "580.0万",
+      "id": "76d81edd0359",
+      "rank": 24,
+      "title": "特朗普称赞习主席：您是了不起的领袖",
+      "hot": 5713259,
+      "hotDisplay": "571.3万",
       "platform": "baidu",
       "platformName": "百度热搜",
       "platformColor": "#2932E1",
       "category": "其他热点",
-      "link": "https://www.baidu.com/s?wd=%E8%8C%85%E5%8F%B0%E5%91%8A%E5%88%AB%E6%8A%A2%E8%B4%AD+%E9%BB%84%E7%89%9B%E7%9A%84%E5%A5%BD%E6%97%A5%E5%AD%90%E5%88%B0%E5%A4%B4%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
+      "link": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E8%B5%9E%E4%B9%A0%E4%B8%BB%E5%B8%AD%EF%BC%9A%E6%82%A8%E6%98%AF%E4%BA%86%E4%B8%8D%E8%B5%B7%E7%9A%84%E9%A2%86%E8%A2%96&sa=fyb_news&rsv_dl=fyb_news",
       "duoshanScore": 25,
-      "idea": "仔仔世界搭场景讨论茅台告别抢购 黄牛的好日子到头了，让仔仔们各抒己见",
+      "idea": "用Open仔仔替你发起特朗普称赞习主席：您是了不起的领袖相关话题，精准匹配同好交流",
       "brief": {
-        "zaiZaiPlay": "在仔仔世界发起「茅台告别抢购 黄牛的好日子到头了」话题活动，仔仔替你找到同好",
+        "zaiZaiPlay": "在仔仔世界发起「特朗普称赞习主席：您是了不起的领袖」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "用Open仔仔替你发起茅台告别抢购 黄牛的好日子到头了相关话题，精准匹配同好交流",
+        "script": "仔仔世界搭场景讨论特朗普称赞习主席：您是了不起的领袖，让仔仔们各抒己见",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
       "globalRank": 72
     },
     {
-      "id": "941b23340606",
-      "rank": 24,
-      "title": "现场见证深圳APEC的首张“全家福”",
-      "hot": 5714041,
-      "hotDisplay": "571.4万",
+      "id": "806ddc66827a",
+      "rank": 25,
+      "title": "《GTA 6》首发体验",
+      "hot": 5616708,
+      "hotDisplay": "561.7万",
       "platform": "baidu",
       "platformName": "百度热搜",
       "platformColor": "#2932E1",
       "category": "其他热点",
-      "link": "https://www.baidu.com/s?wd=%E7%8E%B0%E5%9C%BA%E8%A7%81%E8%AF%81%E6%B7%B1%E5%9C%B3APEC%E7%9A%84%E9%A6%96%E5%BC%A0%E2%80%9C%E5%85%A8%E5%AE%B6%E7%A6%8F%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
+      "link": "https://www.baidu.com/s?wd=%E3%80%8AGTA+6%E3%80%8B%E9%A6%96%E5%8F%91%E4%BD%93%E9%AA%8C&sa=fyb_news&rsv_dl=fyb_news",
       "duoshanScore": 25,
-      "idea": "用Open仔仔替你发起现场见证深圳APEC的首张“全家福”相关话题，精准匹配同好交流",
+      "idea": "TA啥意思：把《GTA 6》首发体验相关迷惑发言发给小火人解读",
       "brief": {
-        "zaiZaiPlay": "在仔仔世界发起「现场见证深圳APEC的首张“全家福”」话题活动，仔仔替你找到同好",
+        "zaiZaiPlay": "在仔仔世界发起「《GTA 6》首发体验」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "用Open仔仔替你发起现场见证深圳APEC的首张“全家福”相关话题，精准匹配同好交流",
+        "script": "TA啥意思：把《GTA 6》首发体验相关迷惑发言发给小火人解读",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
       "globalRank": 73
     },
     {
-      "id": "bf329eb2c367",
-      "rank": 25,
-      "title": "GTA6",
-      "hot": 5612418,
-      "hotDisplay": "561.2万",
+      "id": "0c63f15eb09e",
+      "rank": 26,
+      "title": "董明珠获邀：你一定要来澳大利亚",
+      "hot": 5517802,
+      "hotDisplay": "551.8万",
       "platform": "baidu",
       "platformName": "百度热搜",
       "platformColor": "#2932E1",
       "category": "其他热点",
-      "link": "https://www.baidu.com/s?wd=GTA6&sa=fyb_news&rsv_dl=fyb_news",
+      "link": "https://www.baidu.com/s?wd=%E8%91%A3%E6%98%8E%E7%8F%A0%E8%8E%B7%E9%82%80%EF%BC%9A%E4%BD%A0%E4%B8%80%E5%AE%9A%E8%A6%81%E6%9D%A5%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A&sa=fyb_news&rsv_dl=fyb_news",
       "duoshanScore": 25,
-      "idea": "仔仔世界搭场景讨论GTA6，让仔仔们各抒己见",
+      "idea": "TA啥意思：把董明珠获邀：你一定要来澳大利亚相关迷惑发言发给小火人解读",
       "brief": {
-        "zaiZaiPlay": "在仔仔世界发起「GTA6」话题活动，仔仔替你找到同好",
+        "zaiZaiPlay": "在仔仔世界发起「董明珠获邀：你一定要来澳大利亚」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "仔仔世界搭场景讨论GTA6，让仔仔们各抒己见",
+        "script": "用Open仔仔替你发起董明珠获邀：你一定要来澳大利亚相关话题，精准匹配同好交流",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
       "globalRank": 74
     },
     {
-      "id": "8c64935c9739",
-      "rank": 26,
-      "title": "河南一红绿灯提示牌下出现招生广告",
-      "hot": 5509364,
-      "hotDisplay": "550.9万",
+      "id": "25d3807fb739",
+      "rank": 27,
+      "title": "APEC领导人互相整理围巾",
+      "hot": 5423566,
+      "hotDisplay": "542.4万",
       "platform": "baidu",
       "platformName": "百度热搜",
       "platformColor": "#2932E1",
       "category": "其他热点",
-      "link": "https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E4%B8%80%E7%BA%A2%E7%BB%BF%E7%81%AF%E6%8F%90%E7%A4%BA%E7%89%8C%E4%B8%8B%E5%87%BA%E7%8E%B0%E6%8B%9B%E7%94%9F%E5%B9%BF%E5%91%8A&sa=fyb_news&rsv_dl=fyb_news",
+      "link": "https://www.baidu.com/s?wd=APEC%E9%A2%86%E5%AF%BC%E4%BA%BA%E4%BA%92%E7%9B%B8%E6%95%B4%E7%90%86%E5%9B%B4%E5%B7%BE&sa=fyb_news&rsv_dl=fyb_news",
       "duoshanScore": 25,
-      "idea": "TA啥意思：把河南一红绿灯提示牌下出现招生广告相关迷惑发言发给小火人解读",
+      "idea": "仔仔世界搭场景讨论APEC领导人互相整理围巾，让仔仔们各抒己见",
       "brief": {
-        "zaiZaiPlay": "在仔仔世界发起「河南一红绿灯提示牌下出现招生广告」话题活动，仔仔替你找到同好",
+        "zaiZaiPlay": "在仔仔世界发起「APEC领导人互相整理围巾」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "TA啥意思：把河南一红绿灯提示牌下出现招生广告相关迷惑发言发给小火人解读",
+        "script": "用Open仔仔替你发起APEC领导人互相整理围巾相关话题，精准匹配同好交流",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
       "globalRank": 75
     },
     {
-      "id": "05a3a9b26a83",
-      "rank": 27,
-      "title": "男子戴泳帽泳镜吃海底捞",
-      "hot": 5428967,
-      "hotDisplay": "542.9万",
+      "id": "00c73235427d",
+      "rank": 28,
+      "title": "姥爷网购3万斤薯条来当作猪饲料",
+      "hot": 5315613,
+      "hotDisplay": "531.6万",
       "platform": "baidu",
       "platformName": "百度热搜",
       "platformColor": "#2932E1",
       "category": "其他热点",
-      "link": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%88%B4%E6%B3%B3%E5%B8%BD%E6%B3%B3%E9%95%9C%E5%90%83%E6%B5%B7%E5%BA%95%E6%8D%9E&sa=fyb_news&rsv_dl=fyb_news",
+      "link": "https://www.baidu.com/s?wd=%E5%A7%A5%E7%88%B7%E7%BD%91%E8%B4%AD3%E4%B8%87%E6%96%A4%E8%96%AF%E6%9D%A1%E6%9D%A5%E5%BD%93%E4%BD%9C%E7%8C%AA%E9%A5%B2%E6%96%99&sa=fyb_news&rsv_dl=fyb_news",
       "duoshanScore": 25,
-      "idea": "用Open仔仔替你发起男子戴泳帽泳镜吃海底捞相关话题，精准匹配同好交流",
+      "idea": "TA啥意思：把姥爷网购3万斤薯条来当作猪饲料相关迷惑发言发给小火人解读",
       "brief": {
-        "zaiZaiPlay": "在仔仔世界发起「男子戴泳帽泳镜吃海底捞」话题活动，仔仔替你找到同好",
+        "zaiZaiPlay": "在仔仔世界发起「姥爷网购3万斤薯条来当作猪饲料」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "用Open仔仔替你发起男子戴泳帽泳镜吃海底捞相关话题，精准匹配同好交流",
+        "script": "用Open仔仔替你发起姥爷网购3万斤薯条来当作猪饲料相关话题，精准匹配同好交流",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
       "globalRank": 76
     },
     {
-      "id": "d2b08d6b438f",
-      "rank": 28,
-      "title": "经常朝左边睡觉对心脏的影响",
-      "hot": 5332508,
-      "hotDisplay": "533.3万",
+      "id": "297b806a4be2",
+      "rank": 29,
+      "title": "澳大利亚总理现身深圳超市",
+      "hot": 5231063,
+      "hotDisplay": "523.1万",
       "platform": "baidu",
       "platformName": "百度热搜",
       "platformColor": "#2932E1",
       "category": "其他热点",
-      "link": "https://www.baidu.com/s?wd=%E7%BB%8F%E5%B8%B8%E6%9C%9D%E5%B7%A6%E8%BE%B9%E7%9D%A1%E8%A7%89%E5%AF%B9%E5%BF%83%E8%84%8F%E7%9A%84%E5%BD%B1%E5%93%8D&sa=fyb_news&rsv_dl=fyb_news",
+      "link": "https://www.baidu.com/s?wd=%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%E6%80%BB%E7%90%86%E7%8E%B0%E8%BA%AB%E6%B7%B1%E5%9C%B3%E8%B6%85%E5%B8%82&sa=fyb_news&rsv_dl=fyb_news",
       "duoshanScore": 25,
-      "idea": "TA啥意思：把经常朝左边睡觉对心脏的影响相关迷惑发言发给小火人解读",
+      "idea": "TA啥意思：把澳大利亚总理现身深圳超市相关迷惑发言发给小火人解读",
       "brief": {
-        "zaiZaiPlay": "在仔仔世界发起「经常朝左边睡觉对心脏的影响」话题活动，仔仔替你找到同好",
+        "zaiZaiPlay": "在仔仔世界发起「澳大利亚总理现身深圳超市」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "TA啥意思：把经常朝左边睡觉对心脏的影响相关迷惑发言发给小火人解读",
+        "script": "用Open仔仔替你发起澳大利亚总理现身深圳超市相关话题，精准匹配同好交流",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
       "globalRank": 77
     },
     {
-      "id": "f67da3c6b397",
-      "rank": 29,
-      "title": "微信比QQ多9亿月活",
-      "hot": 5232258,
-      "hotDisplay": "523.2万",
+      "id": "90f03d822f1f",
+      "rank": 30,
+      "title": "派出所食堂一周菜谱换成白菜",
+      "hot": 5135393,
+      "hotDisplay": "513.5万",
       "platform": "baidu",
       "platformName": "百度热搜",
       "platformColor": "#2932E1",
       "category": "其他热点",
-      "link": "https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E6%AF%94QQ%E5%A4%9A9%E4%BA%BF%E6%9C%88%E6%B4%BB&sa=fyb_news&rsv_dl=fyb_news",
+      "link": "https://www.baidu.com/s?wd=%E6%B4%BE%E5%87%BA%E6%89%80%E9%A3%9F%E5%A0%82%E4%B8%80%E5%91%A8%E8%8F%9C%E8%B0%B1%E6%8D%A2%E6%88%90%E7%99%BD%E8%8F%9C&sa=fyb_news&rsv_dl=fyb_news",
       "duoshanScore": 25,
-      "idea": "TA啥意思：把微信比QQ多9亿月活相关迷惑发言发给小火人解读",
+      "idea": "TA啥意思：把派出所食堂一周菜谱换成白菜相关迷惑发言发给小火人解读",
       "brief": {
-        "zaiZaiPlay": "在仔仔世界发起「微信比QQ多9亿月活」话题活动，仔仔替你找到同好",
+        "zaiZaiPlay": "在仔仔世界发起「派出所食堂一周菜谱换成白菜」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "TA啥意思：把微信比QQ多9亿月活相关迷惑发言发给小火人解读",
+        "script": "仔仔世界搭场景讨论派出所食堂一周菜谱换成白菜，让仔仔们各抒己见",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
       "globalRank": 78
     },
     {
-      "id": "07119e9552a6",
-      "rank": 30,
-      "title": "牛肉价格要涨到2028年吗",
-      "hot": 5125652,
-      "hotDisplay": "512.6万",
+      "id": "d288593eeecd",
+      "rank": 31,
+      "title": "APEC会场座位是双层同心圆",
+      "hot": 5034690,
+      "hotDisplay": "503.5万",
       "platform": "baidu",
       "platformName": "百度热搜",
       "platformColor": "#2932E1",
       "category": "其他热点",
-      "link": "https://www.baidu.com/s?wd=%E7%89%9B%E8%82%89%E4%BB%B7%E6%A0%BC%E8%A6%81%E6%B6%A8%E5%88%B02028%E5%B9%B4%E5%90%97&sa=fyb_news&rsv_dl=fyb_news",
+      "link": "https://www.baidu.com/s?wd=APEC%E4%BC%9A%E5%9C%BA%E5%BA%A7%E4%BD%8D%E6%98%AF%E5%8F%8C%E5%B1%82%E5%90%8C%E5%BF%83%E5%9C%86&sa=fyb_news&rsv_dl=fyb_news",
       "duoshanScore": 25,
-      "idea": "用Open仔仔替你发起牛肉价格要涨到2028年吗相关话题，精准匹配同好交流",
+      "idea": "TA啥意思：把APEC会场座位是双层同心圆相关迷惑发言发给小火人解读",
       "brief": {
-        "zaiZaiPlay": "在仔仔世界发起「牛肉价格要涨到2028年吗」话题活动，仔仔替你找到同好",
+        "zaiZaiPlay": "在仔仔世界发起「APEC会场座位是双层同心圆」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "仔仔世界搭场景讨论牛肉价格要涨到2028年吗，让仔仔们各抒己见",
+        "script": "用Open仔仔替你发起APEC会场座位是双层同心圆相关话题，精准匹配同好交流",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
       "globalRank": 79
     },
     {
-      "id": "b904eee2301e",
-      "rank": 31,
-      "title": "小米18曝光：起售价5699元定档12月",
-      "hot": 5037335,
-      "hotDisplay": "503.7万",
+      "id": "f11d80cd73ea",
+      "rank": 32,
+      "title": "11名孩子爬山迷路爬丢9个",
+      "hot": 4940964,
+      "hotDisplay": "494.1万",
       "platform": "baidu",
       "platformName": "百度热搜",
       "platformColor": "#2932E1",
       "category": "其他热点",
-      "link": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B318%E6%9B%9D%E5%85%89%EF%BC%9A%E8%B5%B7%E5%94%AE%E4%BB%B75699%E5%85%83%E5%AE%9A%E6%A1%A312%E6%9C%88&sa=fyb_news&rsv_dl=fyb_news",
+      "link": "https://www.baidu.com/s?wd=11%E5%90%8D%E5%AD%A9%E5%AD%90%E7%88%AC%E5%B1%B1%E8%BF%B7%E8%B7%AF%E7%88%AC%E4%B8%A29%E4%B8%AA&sa=fyb_news&rsv_dl=fyb_news",
       "duoshanScore": 25,
-      "idea": "仔仔世界搭场景讨论小米18曝光：起售价5699元定档12月，让仔仔们各抒己见",
+      "idea": "仔仔世界搭场景讨论11名孩子爬山迷路爬丢9个，让仔仔们各抒己见",
       "brief": {
-        "zaiZaiPlay": "在仔仔世界发起「小米18曝光：起售价5699元定档12月」话题活动，仔仔替你找到同好",
+        "zaiZaiPlay": "在仔仔世界发起「11名孩子爬山迷路爬丢9个」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "仔仔世界搭场景讨论小米18曝光：起售价5699元定档12月，让仔仔们各抒己见",
+        "script": "TA啥意思：把11名孩子爬山迷路爬丢9个相关迷惑发言发给小火人解读",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
       "globalRank": 80
     },
     {
-      "id": "a77285340122",
-      "rank": 32,
-      "title": "盒马为酸菜发出“催货警告函”",
-      "hot": 4955752,
-      "hotDisplay": "495.6万",
+      "id": "bfd0dd5e1457",
+      "rank": 33,
+      "title": "参加中美元首会晤的美方代表都有谁",
+      "hot": 4856515,
+      "hotDisplay": "485.7万",
       "platform": "baidu",
       "platformName": "百度热搜",
       "platformColor": "#2932E1",
       "category": "其他热点",
-      "link": "https://www.baidu.com/s?wd=%E7%9B%92%E9%A9%AC%E4%B8%BA%E9%85%B8%E8%8F%9C%E5%8F%91%E5%87%BA%E2%80%9C%E5%82%AC%E8%B4%A7%E8%AD%A6%E5%91%8A%E5%87%BD%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
+      "link": "https://www.baidu.com/s?wd=%E5%8F%82%E5%8A%A0%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%E7%9A%84%E7%BE%8E%E6%96%B9%E4%BB%A3%E8%A1%A8%E9%83%BD%E6%9C%89%E8%B0%81&sa=fyb_news&rsv_dl=fyb_news",
       "duoshanScore": 25,
-      "idea": "TA啥意思：把盒马为酸菜发出“催货警告函”相关迷惑发言发给小火人解读",
+      "idea": "用Open仔仔替你发起参加中美元首会晤的美方代表都有谁相关话题，精准匹配同好交流",
       "brief": {
-        "zaiZaiPlay": "在仔仔世界发起「盒马为酸菜发出“催货警告函”」话题活动，仔仔替你找到同好",
+        "zaiZaiPlay": "在仔仔世界发起「参加中美元首会晤的美方代表都有谁」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "TA啥意思：把盒马为酸菜发出“催货警告函”相关迷惑发言发给小火人解读",
+        "script": "TA啥意思：把参加中美元首会晤的美方代表都有谁相关迷惑发言发给小火人解读",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
       "globalRank": 81
     },
     {
-      "id": "99bb33405e7a",
-      "rank": 33,
-      "title": "俄美专机在中国机场同框",
-      "hot": 4846272,
-      "hotDisplay": "484.6万",
+      "id": "7aa249bdef5c",
+      "rank": 34,
+      "title": "全网响应吴克群",
+      "hot": 4755227,
+      "hotDisplay": "475.5万",
       "platform": "baidu",
       "platformName": "百度热搜",
       "platformColor": "#2932E1",
       "category": "其他热点",
-      "link": "https://www.baidu.com/s?wd=%E4%BF%84%E7%BE%8E%E4%B8%93%E6%9C%BA%E5%9C%A8%E4%B8%AD%E5%9B%BD%E6%9C%BA%E5%9C%BA%E5%90%8C%E6%A1%86&sa=fyb_news&rsv_dl=fyb_news",
+      "link": "https://www.baidu.com/s?wd=%E5%85%A8%E7%BD%91%E5%93%8D%E5%BA%94%E5%90%B4%E5%85%8B%E7%BE%A4&sa=fyb_news&rsv_dl=fyb_news",
       "duoshanScore": 25,
-      "idea": "仔仔世界搭场景讨论俄美专机在中国机场同框，让仔仔们各抒己见",
+      "idea": "TA啥意思：把全网响应吴克群相关迷惑发言发给小火人解读",
       "brief": {
-        "zaiZaiPlay": "在仔仔世界发起「俄美专机在中国机场同框」话题活动，仔仔替你找到同好",
+        "zaiZaiPlay": "在仔仔世界发起「全网响应吴克群」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "用Open仔仔替你发起俄美专机在中国机场同框相关话题，精准匹配同好交流",
+        "script": "TA啥意思：把全网响应吴克群相关迷惑发言发给小火人解读",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
       "globalRank": 82
     },
     {
-      "id": "637f8c051a1c",
-      "rank": 34,
-      "title": "叶连平老师逝世",
-      "hot": 4757698,
-      "hotDisplay": "475.8万",
+      "id": "d8bc4df9653f",
+      "rank": 35,
+      "title": "中国男足世界排名上升一位",
+      "hot": 4648094,
+      "hotDisplay": "464.8万",
       "platform": "baidu",
       "platformName": "百度热搜",
       "platformColor": "#2932E1",
       "category": "其他热点",
-      "link": "https://www.baidu.com/s?wd=%E5%8F%B6%E8%BF%9E%E5%B9%B3%E8%80%81%E5%B8%88%E9%80%9D%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news",
+      "link": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%94%B7%E8%B6%B3%E4%B8%96%E7%95%8C%E6%8E%92%E5%90%8D%E4%B8%8A%E5%8D%87%E4%B8%80%E4%BD%8D&sa=fyb_news&rsv_dl=fyb_news",
       "duoshanScore": 25,
-      "idea": "仔仔世界搭场景讨论叶连平老师逝世，让仔仔们各抒己见",
+      "idea": "仔仔世界搭场景讨论中国男足世界排名上升一位，让仔仔们各抒己见",
       "brief": {
-        "zaiZaiPlay": "在仔仔世界发起「叶连平老师逝世」话题活动，仔仔替你找到同好",
+        "zaiZaiPlay": "在仔仔世界发起「中国男足世界排名上升一位」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "用Open仔仔替你发起叶连平老师逝世相关话题，精准匹配同好交流",
+        "script": "用Open仔仔替你发起中国男足世界排名上升一位相关话题，精准匹配同好交流",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
       "globalRank": 83
     },
     {
-      "id": "41b6d32f30f8",
-      "rank": 35,
-      "title": "江南大学将大学英语改为选修",
-      "hot": 4650460,
-      "hotDisplay": "465.0万",
+      "id": "1a39b8612133",
+      "rank": 36,
+      "title": "等了13年的GTA6来了 评分高达99分",
+      "hot": 4554314,
+      "hotDisplay": "455.4万",
       "platform": "baidu",
       "platformName": "百度热搜",
       "platformColor": "#2932E1",
       "category": "其他热点",
-      "link": "https://www.baidu.com/s?wd=%E6%B1%9F%E5%8D%97%E5%A4%A7%E5%AD%A6%E5%B0%86%E5%A4%A7%E5%AD%A6%E8%8B%B1%E8%AF%AD%E6%94%B9%E4%B8%BA%E9%80%89%E4%BF%AE&sa=fyb_news&rsv_dl=fyb_news",
+      "link": "https://www.baidu.com/s?wd=%E7%AD%89%E4%BA%8613%E5%B9%B4%E7%9A%84GTA6%E6%9D%A5%E4%BA%86+%E8%AF%84%E5%88%86%E9%AB%98%E8%BE%BE99%E5%88%86&sa=fyb_news&rsv_dl=fyb_news",
       "duoshanScore": 25,
-      "idea": "TA啥意思：把江南大学将大学英语改为选修相关迷惑发言发给小火人解读",
+      "idea": "TA啥意思：把等了13年的GTA6来了 评分高达99分相关迷惑发言发给小火人解读",
       "brief": {
-        "zaiZaiPlay": "在仔仔世界发起「江南大学将大学英语改为选修」话题活动，仔仔替你找到同好",
+        "zaiZaiPlay": "在仔仔世界发起「等了13年的GTA6来了 评分高达99分」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "用Open仔仔替你发起江南大学将大学英语改为选修相关话题，精准匹配同好交流",
+        "script": "TA啥意思：把等了13年的GTA6来了 评分高达99分相关迷惑发言发给小火人解读",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
       "globalRank": 84
     },
     {
-      "id": "3d82f412198f",
-      "rank": 36,
-      "title": "广东换帅首秀不敌山东",
-      "hot": 4568725,
-      "hotDisplay": "456.9万",
+      "id": "0fe4b227c49e",
+      "rank": 37,
+      "title": "APEC围巾图案取自“中国年”会标",
+      "hot": 4468747,
+      "hotDisplay": "446.9万",
       "platform": "baidu",
       "platformName": "百度热搜",
       "platformColor": "#2932E1",
       "category": "其他热点",
-      "link": "https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E6%8D%A2%E5%B8%85%E9%A6%96%E7%A7%80%E4%B8%8D%E6%95%8C%E5%B1%B1%E4%B8%9C&sa=fyb_news&rsv_dl=fyb_news",
+      "link": "https://www.baidu.com/s?wd=APEC%E5%9B%B4%E5%B7%BE%E5%9B%BE%E6%A1%88%E5%8F%96%E8%87%AA%E2%80%9C%E4%B8%AD%E5%9B%BD%E5%B9%B4%E2%80%9D%E4%BC%9A%E6%A0%87&sa=fyb_news&rsv_dl=fyb_news",
       "duoshanScore": 25,
-      "idea": "TA啥意思：把广东换帅首秀不敌山东相关迷惑发言发给小火人解读",
+      "idea": "仔仔世界搭场景讨论APEC围巾图案取自“中国年”会标，让仔仔们各抒己见",
       "brief": {
-        "zaiZaiPlay": "在仔仔世界发起「广东换帅首秀不敌山东」话题活动，仔仔替你找到同好",
+        "zaiZaiPlay": "在仔仔世界发起「APEC围巾图案取自“中国年”会标」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "仔仔世界搭场景讨论广东换帅首秀不敌山东，让仔仔们各抒己见",
+        "script": "用Open仔仔替你发起APEC围巾图案取自“中国年”会标相关话题，精准匹配同好交流",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
       "globalRank": 85
     },
     {
-      "id": "03a1ad9bd0eb",
-      "rank": 37,
-      "title": "男子假装买酒支开店员偷走2箱茅台",
-      "hot": 4448089,
-      "hotDisplay": "444.8万",
+      "id": "99854380a7d2",
+      "rank": 38,
+      "title": "中美元首会见持续约1小时",
+      "hot": 4349553,
+      "hotDisplay": "435.0万",
       "platform": "baidu",
       "platformName": "百度热搜",
       "platformColor": "#2932E1",
       "category": "其他热点",
-      "link": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%81%87%E8%A3%85%E4%B9%B0%E9%85%92%E6%94%AF%E5%BC%80%E5%BA%97%E5%91%98%E5%81%B7%E8%B5%B02%E7%AE%B1%E8%8C%85%E5%8F%B0&sa=fyb_news&rsv_dl=fyb_news",
+      "link": "https://www.baidu.com/s?wd=%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E8%A7%81%E6%8C%81%E7%BB%AD%E7%BA%A61%E5%B0%8F%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news",
       "duoshanScore": 25,
-      "idea": "用Open仔仔替你发起男子假装买酒支开店员偷走2箱茅台相关话题，精准匹配同好交流",
+      "idea": "仔仔世界搭场景讨论中美元首会见持续约1小时，让仔仔们各抒己见",
       "brief": {
-        "zaiZaiPlay": "在仔仔世界发起「男子假装买酒支开店员偷走2箱茅台」话题活动，仔仔替你找到同好",
+        "zaiZaiPlay": "在仔仔世界发起「中美元首会见持续约1小时」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "仔仔世界搭场景讨论男子假装买酒支开店员偷走2箱茅台，让仔仔们各抒己见",
+        "script": "仔仔世界搭场景讨论中美元首会见持续约1小时，让仔仔们各抒己见",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
       "globalRank": 86
     },
     {
-      "id": "84ac70fd4f40",
-      "rank": 38,
-      "title": "墨西哥卫生部部长现身华强北“扫货”",
-      "hot": 4367125,
-      "hotDisplay": "436.7万",
+      "id": "7eddd96acb21",
+      "rank": 39,
+      "title": "APEC全家福里的红色香云纱来自顺德",
+      "hot": 4270641,
+      "hotDisplay": "427.1万",
       "platform": "baidu",
       "platformName": "百度热搜",
       "platformColor": "#2932E1",
       "category": "其他热点",
-      "link": "https://www.baidu.com/s?wd=%E5%A2%A8%E8%A5%BF%E5%93%A5%E5%8D%AB%E7%94%9F%E9%83%A8%E9%83%A8%E9%95%BF%E7%8E%B0%E8%BA%AB%E5%8D%8E%E5%BC%BA%E5%8C%97%E2%80%9C%E6%89%AB%E8%B4%A7%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
+      "link": "https://www.baidu.com/s?wd=APEC%E5%85%A8%E5%AE%B6%E7%A6%8F%E9%87%8C%E7%9A%84%E7%BA%A2%E8%89%B2%E9%A6%99%E4%BA%91%E7%BA%B1%E6%9D%A5%E8%87%AA%E9%A1%BA%E5%BE%B7&sa=fyb_news&rsv_dl=fyb_news",
       "duoshanScore": 25,
-      "idea": "TA啥意思：把墨西哥卫生部部长现身华强北“扫货”相关迷惑发言发给小火人解读",
+      "idea": "TA啥意思：把APEC全家福里的红色香云纱来自顺德相关迷惑发言发给小火人解读",
       "brief": {
-        "zaiZaiPlay": "在仔仔世界发起「墨西哥卫生部部长现身华强北“扫货”」话题活动，仔仔替你找到同好",
+        "zaiZaiPlay": "在仔仔世界发起「APEC全家福里的红色香云纱来自顺德」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "TA啥意思：把墨西哥卫生部部长现身华强北“扫货”相关迷惑发言发给小火人解读",
+        "script": "TA啥意思：把APEC全家福里的红色香云纱来自顺德相关迷惑发言发给小火人解读",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
       "globalRank": 87
     },
     {
-      "id": "678d21e35594",
-      "rank": 39,
-      "title": "新华社谈国足主帅大幅度试错",
-      "hot": 4269525,
-      "hotDisplay": "427.0万",
+      "id": "f510714c9175",
+      "rank": 40,
+      "title": "张雪两张“挡泥板票”均50万成交",
+      "hot": 4183219,
+      "hotDisplay": "418.3万",
       "platform": "baidu",
       "platformName": "百度热搜",
       "platformColor": "#2932E1",
       "category": "其他热点",
-      "link": "https://www.baidu.com/s?wd=%E6%96%B0%E5%8D%8E%E7%A4%BE%E8%B0%88%E5%9B%BD%E8%B6%B3%E4%B8%BB%E5%B8%85%E5%A4%A7%E5%B9%85%E5%BA%A6%E8%AF%95%E9%94%99&sa=fyb_news&rsv_dl=fyb_news",
+      "link": "https://www.baidu.com/s?wd=%E5%BC%A0%E9%9B%AA%E4%B8%A4%E5%BC%A0%E2%80%9C%E6%8C%A1%E6%B3%A5%E6%9D%BF%E7%A5%A8%E2%80%9D%E5%9D%8750%E4%B8%87%E6%88%90%E4%BA%A4&sa=fyb_news&rsv_dl=fyb_news",
       "duoshanScore": 25,
-      "idea": "仔仔世界搭场景讨论新华社谈国足主帅大幅度试错，让仔仔们各抒己见",
+      "idea": "用Open仔仔替你发起张雪两张“挡泥板票”均50万成交相关话题，精准匹配同好交流",
       "brief": {
-        "zaiZaiPlay": "在仔仔世界发起「新华社谈国足主帅大幅度试错」话题活动，仔仔替你找到同好",
+        "zaiZaiPlay": "在仔仔世界发起「张雪两张“挡泥板票”均50万成交」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "TA啥意思：把新华社谈国足主帅大幅度试错相关迷惑发言发给小火人解读",
+        "script": "TA啥意思：把张雪两张“挡泥板票”均50万成交相关迷惑发言发给小火人解读",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
       "globalRank": 88
     },
     {
-      "id": "17acca889444",
-      "rank": 40,
-      "title": "李在明夫妇在深圳同韩侨见面",
-      "hot": 4193361,
-      "hotDisplay": "419.3万",
+      "id": "62e2f67efea3",
+      "rank": 41,
+      "title": "山西刀削面亮相APEC",
+      "hot": 4100065,
+      "hotDisplay": "410.0万",
       "platform": "baidu",
       "platformName": "百度热搜",
       "platformColor": "#2932E1",
       "category": "其他热点",
-      "link": "https://www.baidu.com/s?wd=%E6%9D%8E%E5%9C%A8%E6%98%8E%E5%A4%AB%E5%A6%87%E5%9C%A8%E6%B7%B1%E5%9C%B3%E5%90%8C%E9%9F%A9%E4%BE%A8%E8%A7%81%E9%9D%A2&sa=fyb_news&rsv_dl=fyb_news",
+      "link": "https://www.baidu.com/s?wd=%E5%B1%B1%E8%A5%BF%E5%88%80%E5%89%8A%E9%9D%A2%E4%BA%AE%E7%9B%B8APEC&sa=fyb_news&rsv_dl=fyb_news",
       "duoshanScore": 25,
-      "idea": "用Open仔仔替你发起李在明夫妇在深圳同韩侨见面相关话题，精准匹配同好交流",
+      "idea": "仔仔世界搭场景讨论山西刀削面亮相APEC，让仔仔们各抒己见",
       "brief": {
-        "zaiZaiPlay": "在仔仔世界发起「李在明夫妇在深圳同韩侨见面」话题活动，仔仔替你找到同好",
+        "zaiZaiPlay": "在仔仔世界发起「山西刀削面亮相APEC」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "仔仔世界搭场景讨论李在明夫妇在深圳同韩侨见面，让仔仔们各抒己见",
+        "script": "用Open仔仔替你发起山西刀削面亮相APEC相关话题，精准匹配同好交流",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
       "globalRank": 89
     },
     {
-      "id": "46de4beea55b",
-      "rank": 41,
-      "title": "东鹏饮料开始卖酒了",
-      "hot": 4069263,
-      "hotDisplay": "406.9万",
+      "id": "aa6801b01d1d",
+      "rank": 42,
+      "title": "3人进咖啡店1人未消费被劝离",
+      "hot": 3980494,
+      "hotDisplay": "398.0万",
       "platform": "baidu",
       "platformName": "百度热搜",
       "platformColor": "#2932E1",
       "category": "其他热点",
-      "link": "https://www.baidu.com/s?wd=%E4%B8%9C%E9%B9%8F%E9%A5%AE%E6%96%99%E5%BC%80%E5%A7%8B%E5%8D%96%E9%85%92%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
+      "link": "https://www.baidu.com/s?wd=3%E4%BA%BA%E8%BF%9B%E5%92%96%E5%95%A1%E5%BA%971%E4%BA%BA%E6%9C%AA%E6%B6%88%E8%B4%B9%E8%A2%AB%E5%8A%9D%E7%A6%BB&sa=fyb_news&rsv_dl=fyb_news",
       "duoshanScore": 25,
-      "idea": "仔仔世界搭场景讨论东鹏饮料开始卖酒了，让仔仔们各抒己见",
+      "idea": "用Open仔仔替你发起3人进咖啡店1人未消费被劝离相关话题，精准匹配同好交流",
       "brief": {
-        "zaiZaiPlay": "在仔仔世界发起「东鹏饮料开始卖酒了」话题活动，仔仔替你找到同好",
+        "zaiZaiPlay": "在仔仔世界发起「3人进咖啡店1人未消费被劝离」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "用Open仔仔替你发起东鹏饮料开始卖酒了相关话题，精准匹配同好交流",
+        "script": "TA啥意思：把3人进咖啡店1人未消费被劝离相关迷惑发言发给小火人解读",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
       "globalRank": 90
     },
     {
-      "id": "26dbd6808fc3",
-      "rank": 42,
-      "title": "40元一碗面 高端面馆怎么又行了",
-      "hot": 3974701,
-      "hotDisplay": "397.5万",
+      "id": "b9e3d7488859",
+      "rank": 43,
+      "title": "建议不要一直穿同一双鞋",
+      "hot": 3873357,
+      "hotDisplay": "387.3万",
       "platform": "baidu",
       "platformName": "百度热搜",
       "platformColor": "#2932E1",
       "category": "其他热点",
-      "link": "https://www.baidu.com/s?wd=40%E5%85%83%E4%B8%80%E7%A2%97%E9%9D%A2+%E9%AB%98%E7%AB%AF%E9%9D%A2%E9%A6%86%E6%80%8E%E4%B9%88%E5%8F%88%E8%A1%8C%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
+      "link": "https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%AE%E4%B8%8D%E8%A6%81%E4%B8%80%E7%9B%B4%E7%A9%BF%E5%90%8C%E4%B8%80%E5%8F%8C%E9%9E%8B&sa=fyb_news&rsv_dl=fyb_news",
       "duoshanScore": 25,
-      "idea": "仔仔世界搭场景讨论40元一碗面 高端面馆怎么又行了，让仔仔们各抒己见",
+      "idea": "仔仔世界搭场景讨论建议不要一直穿同一双鞋，让仔仔们各抒己见",
       "brief": {
-        "zaiZaiPlay": "在仔仔世界发起「40元一碗面 高端面馆怎么又行了」话题活动，仔仔替你找到同好",
+        "zaiZaiPlay": "在仔仔世界发起「建议不要一直穿同一双鞋」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "TA啥意思：把40元一碗面 高端面馆怎么又行了相关迷惑发言发给小火人解读",
+        "script": "仔仔世界搭场景讨论建议不要一直穿同一双鞋，让仔仔们各抒己见",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
       "globalRank": 91
     },
     {
-      "id": "2ee2064b6843",
-      "rank": 43,
-      "title": "内幕交易炒股避损7万被罚60万",
-      "hot": 3875478,
-      "hotDisplay": "387.5万",
+      "id": "8e961f3b789f",
+      "rank": 44,
+      "title": "肺癌靶向药难逃“两年之困”吗",
+      "hot": 3789137,
+      "hotDisplay": "378.9万",
       "platform": "baidu",
       "platformName": "百度热搜",
       "platformColor": "#2932E1",
       "category": "其他热点",
-      "link": "https://www.baidu.com/s?wd=%E5%86%85%E5%B9%95%E4%BA%A4%E6%98%93%E7%82%92%E8%82%A1%E9%81%BF%E6%8D%9F7%E4%B8%87%E8%A2%AB%E7%BD%9A60%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news",
+      "link": "https://www.baidu.com/s?wd=%E8%82%BA%E7%99%8C%E9%9D%B6%E5%90%91%E8%8D%AF%E9%9A%BE%E9%80%83%E2%80%9C%E4%B8%A4%E5%B9%B4%E4%B9%8B%E5%9B%B0%E2%80%9D%E5%90%97&sa=fyb_news&rsv_dl=fyb_news",
       "duoshanScore": 25,
-      "idea": "用Open仔仔替你发起内幕交易炒股避损7万被罚60万相关话题，精准匹配同好交流",
+      "idea": "TA啥意思：把肺癌靶向药难逃“两年之困”吗相关迷惑发言发给小火人解读",
       "brief": {
-        "zaiZaiPlay": "在仔仔世界发起「内幕交易炒股避损7万被罚60万」话题活动，仔仔替你找到同好",
+        "zaiZaiPlay": "在仔仔世界发起「肺癌靶向药难逃“两年之困”吗」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "仔仔世界搭场景讨论内幕交易炒股避损7万被罚60万，让仔仔们各抒己见",
+        "script": "仔仔世界搭场景讨论肺癌靶向药难逃“两年之困”吗，让仔仔们各抒己见",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
       "globalRank": 92
     },
     {
-      "id": "252ecbc9c8f1",
-      "rank": 44,
-      "title": "“咒语糖葫芦”的名字能有多长",
-      "hot": 3791363,
-      "hotDisplay": "379.1万",
+      "id": "4facd00a2d2e",
+      "rank": 45,
+      "title": "逾1.9亿美元 梵高画作拍卖价格创纪录",
+      "hot": 3691862,
+      "hotDisplay": "369.2万",
       "platform": "baidu",
       "platformName": "百度热搜",
       "platformColor": "#2932E1",
       "category": "其他热点",
-      "link": "https://www.baidu.com/s?wd=%E2%80%9C%E5%92%92%E8%AF%AD%E7%B3%96%E8%91%AB%E8%8A%A6%E2%80%9D%E7%9A%84%E5%90%8D%E5%AD%97%E8%83%BD%E6%9C%89%E5%A4%9A%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news",
+      "link": "https://www.baidu.com/s?wd=%E9%80%BE1.9%E4%BA%BF%E7%BE%8E%E5%85%83+%E6%A2%B5%E9%AB%98%E7%94%BB%E4%BD%9C%E6%8B%8D%E5%8D%96%E4%BB%B7%E6%A0%BC%E5%88%9B%E7%BA%AA%E5%BD%95&sa=fyb_news&rsv_dl=fyb_news",
       "duoshanScore": 25,
-      "idea": "TA啥意思：把“咒语糖葫芦”的名字能有多长相关迷惑发言发给小火人解读",
+      "idea": "仔仔世界搭场景讨论逾1.9亿美元 梵高画作拍卖价格创纪录，让仔仔们各抒己见",
       "brief": {
-        "zaiZaiPlay": "在仔仔世界发起「“咒语糖葫芦”的名字能有多长」话题活动，仔仔替你找到同好",
+        "zaiZaiPlay": "在仔仔世界发起「逾1.9亿美元 梵高画作拍卖价格创纪录」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "用Open仔仔替你发起“咒语糖葫芦”的名字能有多长相关话题，精准匹配同好交流",
+        "script": "仔仔世界搭场景讨论逾1.9亿美元 梵高画作拍卖价格创纪录，让仔仔们各抒己见",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
       "globalRank": 93
     },
     {
-      "id": "1da3a489f3a2",
-      "rank": 45,
-      "title": "大疆涨价",
-      "hot": 3686970,
-      "hotDisplay": "368.7万",
+      "id": "49f4de2cd415",
+      "rank": 46,
+      "title": "普京在APEC会议上发表讲话",
+      "hot": 3613852,
+      "hotDisplay": "361.4万",
       "platform": "baidu",
       "platformName": "百度热搜",
       "platformColor": "#2932E1",
       "category": "其他热点",
-      "link": "https://www.baidu.com/s?wd=%E5%A4%A7%E7%96%86%E6%B6%A8%E4%BB%B7&sa=fyb_news&rsv_dl=fyb_news",
+      "link": "https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E5%9C%A8APEC%E4%BC%9A%E8%AE%AE%E4%B8%8A%E5%8F%91%E8%A1%A8%E8%AE%B2%E8%AF%9D&sa=fyb_news&rsv_dl=fyb_news",
       "duoshanScore": 25,
-      "idea": "TA啥意思：把大疆涨价相关迷惑发言发给小火人解读",
+      "idea": "TA啥意思：把普京在APEC会议上发表讲话相关迷惑发言发给小火人解读",
       "brief": {
-        "zaiZaiPlay": "在仔仔世界发起「大疆涨价」话题活动，仔仔替你找到同好",
+        "zaiZaiPlay": "在仔仔世界发起「普京在APEC会议上发表讲话」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "TA啥意思：把大疆涨价相关迷惑发言发给小火人解读",
+        "script": "TA啥意思：把普京在APEC会议上发表讲话相关迷惑发言发给小火人解读",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
       "globalRank": 94
     },
     {
-      "id": "27e820d5bf84",
-      "rank": 46,
-      "title": "58岁蔡国庆走秀不慎摔倒",
-      "hot": 3616431,
-      "hotDisplay": "361.6万",
+      "id": "0d38513fc0ca",
+      "rank": 47,
+      "title": "DeepSeek千亿融资落地",
+      "hot": 3519792,
+      "hotDisplay": "352.0万",
       "platform": "baidu",
       "platformName": "百度热搜",
       "platformColor": "#2932E1",
       "category": "其他热点",
-      "link": "https://www.baidu.com/s?wd=58%E5%B2%81%E8%94%A1%E5%9B%BD%E5%BA%86%E8%B5%B0%E7%A7%80%E4%B8%8D%E6%85%8E%E6%91%94%E5%80%92&sa=fyb_news&rsv_dl=fyb_news",
+      "link": "https://www.baidu.com/s?wd=DeepSeek%E5%8D%83%E4%BA%BF%E8%9E%8D%E8%B5%84%E8%90%BD%E5%9C%B0&sa=fyb_news&rsv_dl=fyb_news",
       "duoshanScore": 25,
-      "idea": "仔仔世界搭场景讨论58岁蔡国庆走秀不慎摔倒，让仔仔们各抒己见",
+      "idea": "仔仔世界搭场景讨论DeepSeek千亿融资落地，让仔仔们各抒己见",
       "brief": {
-        "zaiZaiPlay": "在仔仔世界发起「58岁蔡国庆走秀不慎摔倒」话题活动，仔仔替你找到同好",
+        "zaiZaiPlay": "在仔仔世界发起「DeepSeek千亿融资落地」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "仔仔世界搭场景讨论58岁蔡国庆走秀不慎摔倒，让仔仔们各抒己见",
+        "script": "TA啥意思：把DeepSeek千亿融资落地相关迷惑发言发给小火人解读",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
       "globalRank": 95
     },
     {
-      "id": "b976837c003c",
-      "rank": 47,
-      "title": "普京参访深圳北理莫斯科大学",
-      "hot": 3506556,
-      "hotDisplay": "350.7万",
+      "id": "8cd8b3380c77",
+      "rank": 48,
+      "title": "一群玩家把电影院看成了“电竞主场”",
+      "hot": 3427067,
+      "hotDisplay": "342.7万",
       "platform": "baidu",
       "platformName": "百度热搜",
       "platformColor": "#2932E1",
-      "category": "其他热点",
-      "link": "https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E5%8F%82%E8%AE%BF%E6%B7%B1%E5%9C%B3%E5%8C%97%E7%90%86%E8%8E%AB%E6%96%AF%E7%A7%91%E5%A4%A7%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news",
-      "duoshanScore": 25,
-      "idea": "用Open仔仔替你发起普京参访深圳北理莫斯科大学相关话题，精准匹配同好交流",
+      "category": "影视综艺",
+      "link": "https://www.baidu.com/s?wd=%E4%B8%80%E7%BE%A4%E7%8E%A9%E5%AE%B6%E6%8A%8A%E7%94%B5%E5%BD%B1%E9%99%A2%E7%9C%8B%E6%88%90%E4%BA%86%E2%80%9C%E7%94%B5%E7%AB%9E%E4%B8%BB%E5%9C%BA%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
+      "duoshanScore": 60,
+      "idea": "TA啥意思：把一群玩家把电影院看成了“电竞主场”角色台词发给小火人做阅读理解",
       "brief": {
-        "zaiZaiPlay": "在仔仔世界发起「普京参访深圳北理莫斯科大学」话题活动，仔仔替你找到同好",
-        "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
-        "circle": "圈层：综合圈",
-        "event": "KOC通用",
-        "script": "TA啥意思：把普京参访深圳北理莫斯科大学相关迷惑发言发给小火人解读",
-        "tags": "#多闪仔仔 #有多闪不孤单"
+        "zaiZaiPlay": "用仔仔世界复刻「一群玩家把电影院看成了“电竞主场”」影视名场面，仔仔平替角色演绎",
+        "skillBind": "技能：TA啥意思（【文字】小火人做阅读理解） + 恋爱军师（【文字+表情包】小火人分）",
+        "circle": "圈层：影视圈、追星圈",
+        "event": "七夕/KOC通用",
+        "script": "恋爱军师分析一群玩家把电影院看成了“电竞主场”中CP的聊天记录，教你怎么和crush聊出同款氛围",
+        "tags": "#多闪仔仔 #仔仔世界代餐文学 #在多闪跨次元相遇 #多闪二次元相亲角"
       },
       "globalRank": 96
     },
     {
-      "id": "81c991a1a22a",
-      "rank": 48,
-      "title": "张朝阳回应搜狐“躺平”",
-      "hot": 3418187,
-      "hotDisplay": "341.8万",
+      "id": "84e8c0840774",
+      "rank": 49,
+      "title": "泰国记者来中国买买买",
+      "hot": 3294153,
+      "hotDisplay": "329.4万",
       "platform": "baidu",
       "platformName": "百度热搜",
       "platformColor": "#2932E1",
-      "category": "社会热点",
-      "link": "https://www.baidu.com/s?wd=%E5%BC%A0%E6%9C%9D%E9%98%B3%E5%9B%9E%E5%BA%94%E6%90%9C%E7%8B%90%E2%80%9C%E8%BA%BA%E5%B9%B3%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
-      "duoshanScore": 15,
-      "idea": "Open仔仔替你发表对张朝阳回应搜狐“躺平”的看法，吸引同观点的好友来交流",
+      "category": "其他热点",
+      "link": "https://www.baidu.com/s?wd=%E6%B3%B0%E5%9B%BD%E8%AE%B0%E8%80%85%E6%9D%A5%E4%B8%AD%E5%9B%BD%E4%B9%B0%E4%B9%B0%E4%B9%B0&sa=fyb_news&rsv_dl=fyb_news",
+      "duoshanScore": 25,
+      "idea": "用Open仔仔替你发起泰国记者来中国买买买相关话题，精准匹配同好交流",
       "brief": {
-        "zaiZaiPlay": "在仔仔世界发起「张朝阳回应搜狐“躺平”」话题讨论，仔仔替你表达观点",
-        "skillBind": "技能：TA啥意思（【文字】小火人做阅读理解）",
-        "circle": "圈层：生活圈、校园圈",
+        "zaiZaiPlay": "在仔仔世界发起「泰国记者来中国买买买」话题活动，仔仔替你找到同好",
+        "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
+        "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "Open仔仔替你发表对张朝阳回应搜狐“躺平”的看法，吸引同观点的好友来交流",
+        "script": "仔仔世界搭场景讨论泰国记者来中国买买买，让仔仔们各抒己见",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
       "globalRank": 97
     },
     {
-      "id": "f0c744d5cae2",
-      "rank": 49,
-      "title": "普京APEC发表讲话点赞深圳",
-      "hot": 3306377,
-      "hotDisplay": "330.6万",
+      "id": "16a43b248501",
+      "rank": 50,
+      "title": "中俄美元首会晤“史无前例”",
+      "hot": 3230776,
+      "hotDisplay": "323.1万",
       "platform": "baidu",
       "platformName": "百度热搜",
       "platformColor": "#2932E1",
       "category": "其他热点",
-      "link": "https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%ACAPEC%E5%8F%91%E8%A1%A8%E8%AE%B2%E8%AF%9D%E7%82%B9%E8%B5%9E%E6%B7%B1%E5%9C%B3&sa=fyb_news&rsv_dl=fyb_news",
+      "link": "https://www.baidu.com/s?wd=%E4%B8%AD%E4%BF%84%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%E2%80%9C%E5%8F%B2%E6%97%A0%E5%89%8D%E4%BE%8B%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
       "duoshanScore": 25,
-      "idea": "用Open仔仔替你发起普京APEC发表讲话点赞深圳相关话题，精准匹配同好交流",
+      "idea": "TA啥意思：把中俄美元首会晤“史无前例”相关迷惑发言发给小火人解读",
       "brief": {
-        "zaiZaiPlay": "在仔仔世界发起「普京APEC发表讲话点赞深圳」话题活动，仔仔替你找到同好",
+        "zaiZaiPlay": "在仔仔世界发起「中俄美元首会晤“史无前例”」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "TA啥意思：把普京APEC发表讲话点赞深圳相关迷惑发言发给小火人解读",
+        "script": "用Open仔仔替你发起中俄美元首会晤“史无前例”相关话题，精准匹配同好交流",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
       "globalRank": 98
     },
     {
-      "id": "b6eaf4924d84",
-      "rank": 50,
-      "title": "深北莫向普京展示能做50种家务机器人",
-      "hot": 3243300,
-      "hotDisplay": "324.3万",
+      "id": "66ed9f746bd3",
+      "rank": 51,
+      "title": "小学试卷出现88年张奶奶91年张大爷",
+      "hot": 3105181,
+      "hotDisplay": "310.5万",
       "platform": "baidu",
       "platformName": "百度热搜",
       "platformColor": "#2932E1",
       "category": "其他热点",
-      "link": "https://www.baidu.com/s?wd=%E6%B7%B1%E5%8C%97%E8%8E%AB%E5%90%91%E6%99%AE%E4%BA%AC%E5%B1%95%E7%A4%BA%E8%83%BD%E5%81%9A50%E7%A7%8D%E5%AE%B6%E5%8A%A1%E6%9C%BA%E5%99%A8%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news",
+      "link": "https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A6%E8%AF%95%E5%8D%B7%E5%87%BA%E7%8E%B088%E5%B9%B4%E5%BC%A0%E5%A5%B6%E5%A5%B691%E5%B9%B4%E5%BC%A0%E5%A4%A7%E7%88%B7&sa=fyb_news&rsv_dl=fyb_news",
       "duoshanScore": 25,
-      "idea": "TA啥意思：把深北莫向普京展示能做50种家务机器人相关迷惑发言发给小火人解读",
+      "idea": "用Open仔仔替你发起小学试卷出现88年张奶奶91年张大爷相关话题，精准匹配同好交流",
       "brief": {
-        "zaiZaiPlay": "在仔仔世界发起「深北莫向普京展示能做50种家务机器人」话题活动，仔仔替你找到同好",
+        "zaiZaiPlay": "在仔仔世界发起「小学试卷出现88年张奶奶91年张大爷」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "用Open仔仔替你发起深北莫向普京展示能做50种家务机器人相关话题，精准匹配同好交流",
+        "script": "用Open仔仔替你发起小学试卷出现88年张奶奶91年张大爷相关话题，精准匹配同好交流",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
       "globalRank": 99
-    },
-    {
-      "id": "8645852057f1",
-      "rank": 51,
-      "title": "“减肥神药”或致永久性失明还能打吗",
-      "hot": 3135475,
-      "hotDisplay": "313.5万",
-      "platform": "baidu",
-      "platformName": "百度热搜",
-      "platformColor": "#2932E1",
-      "category": "生活日常",
-      "link": "https://www.baidu.com/s?wd=%E2%80%9C%E5%87%8F%E8%82%A5%E7%A5%9E%E8%8D%AF%E2%80%9D%E6%88%96%E8%87%B4%E6%B0%B8%E4%B9%85%E6%80%A7%E5%A4%B1%E6%98%8E%E8%BF%98%E8%83%BD%E6%89%93%E5%90%97&sa=fyb_news&rsv_dl=fyb_news",
-      "duoshanScore": 70,
-      "idea": "用仔仔还原“减肥神药”或致永久性失明还能打吗日常场景，仔仔陪你打卡生活仪式感",
-      "brief": {
-        "zaiZaiPlay": "在仔仔世界复刻「“减肥神药”或致永久性失明还能打吗」生活场景，仔仔替你记录日常",
-        "skillBind": "技能：今日塔罗（【文字+生图】小火人抽塔） + 做个表情包（【生图】小火人识别图片+）",
-        "circle": "圈层：生活圈、校园圈",
-        "event": "七夕/精灵学院/KOC通用",
-        "script": "用做个表情包把“减肥神药”或致永久性失明还能打吗相关日常做成仔仔版表情包发动态",
-        "tags": "#多闪仔仔 #有多闪不孤单 #多闪二次元相亲角 #在多闪遇到正缘了"
-      },
-      "globalRank": 100
     },
     {
       "id": "78a881152c78",
@@ -2328,7 +2305,7 @@ const TREND_DATA = {
       "category": "其他热点",
       "link": "https://s.weibo.com/weibo?q=%E7%BE%8E%E5%9B%BD%E6%80%BB%E7%BB%9F%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%B5%E8%BE%BE%E6%B7%B1%E5%9C%B3",
       "duoshanScore": 25,
-      "idea": "用Open仔仔替你发起美国总统特朗普抵达深圳相关话题，精准匹配同好交流",
+      "idea": "仔仔世界搭场景讨论美国总统特朗普抵达深圳，让仔仔们各抒己见",
       "brief": {
         "zaiZaiPlay": "在仔仔世界发起「美国总统特朗普抵达深圳」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
@@ -2337,7 +2314,7 @@ const TREND_DATA = {
         "script": "TA啥意思：把美国总统特朗普抵达深圳相关迷惑发言发给小火人解读",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
-      "globalRank": 101
+      "globalRank": 100
     },
     {
       "id": "5777fccecb2e",
@@ -2351,16 +2328,16 @@ const TREND_DATA = {
       "category": "其他热点",
       "link": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%B5%E8%BE%BE%E6%B7%B1%E5%9C%B3%E4%B8%AD%E6%96%B9%E6%88%98%E6%9C%BA%E6%8B%89%E8%B5%B7%E5%BD%A9%E7%83%9F",
       "duoshanScore": 25,
-      "idea": "TA啥意思：把特朗普抵达深圳中方战机拉起彩烟相关迷惑发言发给小火人解读",
+      "idea": "仔仔世界搭场景讨论特朗普抵达深圳中方战机拉起彩烟，让仔仔们各抒己见",
       "brief": {
         "zaiZaiPlay": "在仔仔世界发起「特朗普抵达深圳中方战机拉起彩烟」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "TA啥意思：把特朗普抵达深圳中方战机拉起彩烟相关迷惑发言发给小火人解读",
+        "script": "仔仔世界搭场景讨论特朗普抵达深圳中方战机拉起彩烟，让仔仔们各抒己见",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
-      "globalRank": 102
+      "globalRank": 101
     },
     {
       "id": "e9fad1e2c4e6",
@@ -2380,10 +2357,10 @@ const TREND_DATA = {
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "仔仔世界搭场景讨论APEC多场密集对话释放大量前沿信息，让仔仔们各抒己见",
+        "script": "用Open仔仔替你发起APEC多场密集对话释放大量前沿信息相关话题，精准匹配同好交流",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
-      "globalRank": 103
+      "globalRank": 102
     },
     {
       "id": "21bb0bd1829e",
@@ -2403,10 +2380,10 @@ const TREND_DATA = {
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "仔仔世界搭场景讨论波司登王力宏非凡登场，让仔仔们各抒己见",
+        "script": "用Open仔仔替你发起波司登王力宏非凡登场相关话题，精准匹配同好交流",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
-      "globalRank": 104
+      "globalRank": 103
     },
     {
       "id": "5df421acca4c",
@@ -2420,16 +2397,16 @@ const TREND_DATA = {
       "category": "其他热点",
       "link": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%91%E4%B8%AD%E6%96%B9%E6%AC%A2%E8%BF%8E%E4%BA%BA%E7%BE%A4%E6%8C%A5%E6%89%8B",
       "duoshanScore": 25,
-      "idea": "用Open仔仔替你发起特朗普向中方欢迎人群挥手相关话题，精准匹配同好交流",
+      "idea": "仔仔世界搭场景讨论特朗普向中方欢迎人群挥手，让仔仔们各抒己见",
       "brief": {
         "zaiZaiPlay": "在仔仔世界发起「特朗普向中方欢迎人群挥手」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "用Open仔仔替你发起特朗普向中方欢迎人群挥手相关话题，精准匹配同好交流",
+        "script": "TA啥意思：把特朗普向中方欢迎人群挥手相关迷惑发言发给小火人解读",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
-      "globalRank": 105
+      "globalRank": 104
     },
     {
       "id": "57787f26cf78",
@@ -2452,7 +2429,7 @@ const TREND_DATA = {
         "script": "仔仔世界搭场景讨论泰国总理回到广东老家格外兴奋，让仔仔们各抒己见",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
-      "globalRank": 106
+      "globalRank": 105
     },
     {
       "id": "fd3b04726e0b",
@@ -2472,10 +2449,10 @@ const TREND_DATA = {
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "仔仔世界搭场景讨论迎接特朗普仪式，让仔仔们各抒己见",
+        "script": "用Open仔仔替你发起迎接特朗普仪式相关话题，精准匹配同好交流",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
-      "globalRank": 107
+      "globalRank": 106
     },
     {
       "id": "79def49cd6cf",
@@ -2489,16 +2466,16 @@ const TREND_DATA = {
       "category": "科技数码",
       "link": "https://s.weibo.com/weibo?q=%E8%A2%ABAI%E6%9B%BF%E6%8E%89%E7%9A%84%E4%BA%BA%E6%80%8E%E4%B9%88%E5%8A%9E",
       "duoshanScore": 40,
-      "idea": "取名大师给被AI替掉的人怎么办相关产品起搞笑昵称",
+      "idea": "用仔仔搭科技发布会场景，仔仔介绍被AI替掉的人怎么办相关内容",
       "brief": {
         "zaiZaiPlay": "用仔仔世界展演「被AI替掉的人怎么办」相关内容，仔仔做科技解说",
         "skillBind": "技能：取名大师（【文字】小火人玩文字梗，）",
         "circle": "圈层：科技圈、数码圈",
         "event": "KOC通用",
-        "script": "用仔仔搭科技发布会场景，仔仔介绍被AI替掉的人怎么办相关内容",
+        "script": "畅聊晚自习发起「被AI替掉的人怎么办 A vs B 哪个更值得」话题讨论",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
-      "globalRank": 108
+      "globalRank": 107
     },
     {
       "id": "721540faf0ef",
@@ -2512,16 +2489,16 @@ const TREND_DATA = {
       "category": "其他热点",
       "link": "https://s.weibo.com/weibo?q=%E6%B7%B1%E5%9C%B3%E6%9C%BA%E5%9C%BA%E4%B8%80%E7%9C%BC%E6%9C%9B%E5%8E%BB%E5%85%A8%E6%98%AF%E4%B8%93%E6%9C%BA",
       "duoshanScore": 25,
-      "idea": "用Open仔仔替你发起深圳机场一眼望去全是专机相关话题，精准匹配同好交流",
+      "idea": "TA啥意思：把深圳机场一眼望去全是专机相关迷惑发言发给小火人解读",
       "brief": {
         "zaiZaiPlay": "在仔仔世界发起「深圳机场一眼望去全是专机」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "用Open仔仔替你发起深圳机场一眼望去全是专机相关话题，精准匹配同好交流",
+        "script": "TA啥意思：把深圳机场一眼望去全是专机相关迷惑发言发给小火人解读",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
-      "globalRank": 109
+      "globalRank": 108
     },
     {
       "id": "e0d85c0ff3c4",
@@ -2541,10 +2518,10 @@ const TREND_DATA = {
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "仔仔世界搭场景讨论漫长的余生陈数演冯太后，让仔仔们各抒己见",
+        "script": "TA啥意思：把漫长的余生陈数演冯太后相关迷惑发言发给小火人解读",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
-      "globalRank": 110
+      "globalRank": 109
     },
     {
       "id": "44c7db37bd92",
@@ -2558,7 +2535,7 @@ const TREND_DATA = {
       "category": "其他热点",
       "link": "https://s.weibo.com/weibo?q=APEC%E6%9C%80%E9%AB%98%E7%BA%A7%E5%88%AB%E4%BC%9A%E8%AE%AE%E4%B8%BA%E4%BD%95%E5%8F%AB%E4%BD%9C%E9%9D%9E%E6%AD%A3%E5%BC%8F",
       "duoshanScore": 25,
-      "idea": "TA啥意思：把APEC最高级别会议为何叫作非正式相关迷惑发言发给小火人解读",
+      "idea": "用Open仔仔替你发起APEC最高级别会议为何叫作非正式相关话题，精准匹配同好交流",
       "brief": {
         "zaiZaiPlay": "在仔仔世界发起「APEC最高级别会议为何叫作非正式」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
@@ -2567,7 +2544,7 @@ const TREND_DATA = {
         "script": "用Open仔仔替你发起APEC最高级别会议为何叫作非正式相关话题，精准匹配同好交流",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
-      "globalRank": 111
+      "globalRank": 110
     },
     {
       "id": "55fc0927eac7",
@@ -2581,16 +2558,16 @@ const TREND_DATA = {
       "category": "其他热点",
       "link": "https://s.weibo.com/weibo?q=%E6%9D%A8%E8%B6%85%E8%B6%8A%E4%B8%BB%E5%8A%A8%E6%8F%90%E5%87%BA%E5%89%A7%E7%85%A7%E6%B5%B7%E6%8A%A5%E4%B8%8D%E7%A3%A8%E7%9A%AE",
       "duoshanScore": 25,
-      "idea": "仔仔世界搭场景讨论杨超越主动提出剧照海报不磨皮，让仔仔们各抒己见",
+      "idea": "用Open仔仔替你发起杨超越主动提出剧照海报不磨皮相关话题，精准匹配同好交流",
       "brief": {
         "zaiZaiPlay": "在仔仔世界发起「杨超越主动提出剧照海报不磨皮」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "仔仔世界搭场景讨论杨超越主动提出剧照海报不磨皮，让仔仔们各抒己见",
+        "script": "TA啥意思：把杨超越主动提出剧照海报不磨皮相关迷惑发言发给小火人解读",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
-      "globalRank": 112
+      "globalRank": 111
     },
     {
       "id": "328a0c948403",
@@ -2604,16 +2581,16 @@ const TREND_DATA = {
       "category": "其他热点",
       "link": "https://s.weibo.com/weibo?q=%E6%99%AE%E4%BA%AC%E5%88%B0%E8%AE%BF%E6%B7%B1%E5%9C%B3%E9%AB%98%E6%A0%A1%E5%B9%B6%E5%8F%91%E8%A1%A8%E6%BC%94%E8%AE%B2",
       "duoshanScore": 25,
-      "idea": "仔仔世界搭场景讨论普京到访深圳高校并发表演讲，让仔仔们各抒己见",
+      "idea": "用Open仔仔替你发起普京到访深圳高校并发表演讲相关话题，精准匹配同好交流",
       "brief": {
         "zaiZaiPlay": "在仔仔世界发起「普京到访深圳高校并发表演讲」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "仔仔世界搭场景讨论普京到访深圳高校并发表演讲，让仔仔们各抒己见",
+        "script": "TA啥意思：把普京到访深圳高校并发表演讲相关迷惑发言发给小火人解读",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
-      "globalRank": 113
+      "globalRank": 112
     },
     {
       "id": "cf98b8fa284c",
@@ -2627,16 +2604,16 @@ const TREND_DATA = {
       "category": "其他热点",
       "link": "https://s.weibo.com/weibo?q=%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E6%8F%A1%E6%89%8B",
       "duoshanScore": 25,
-      "idea": "用Open仔仔替你发起中美元首握手相关话题，精准匹配同好交流",
+      "idea": "仔仔世界搭场景讨论中美元首握手，让仔仔们各抒己见",
       "brief": {
         "zaiZaiPlay": "在仔仔世界发起「中美元首握手」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "TA啥意思：把中美元首握手相关迷惑发言发给小火人解读",
+        "script": "用Open仔仔替你发起中美元首握手相关话题，精准匹配同好交流",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
-      "globalRank": 114
+      "globalRank": 113
     },
     {
       "id": "c598319a8b89",
@@ -2650,16 +2627,16 @@ const TREND_DATA = {
       "category": "其他热点",
       "link": "https://s.weibo.com/weibo?q=%E5%A5%B3%E7%94%9F%E5%BD%93%E4%BC%97%E6%B1%82%E5%A9%9A%E7%94%B7%E7%94%9F%E6%8B%82%E8%A2%96%E7%A6%BB%E5%BC%80",
       "duoshanScore": 25,
-      "idea": "TA啥意思：把女生当众求婚男生拂袖离开相关迷惑发言发给小火人解读",
+      "idea": "用Open仔仔替你发起女生当众求婚男生拂袖离开相关话题，精准匹配同好交流",
       "brief": {
         "zaiZaiPlay": "在仔仔世界发起「女生当众求婚男生拂袖离开」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "TA啥意思：把女生当众求婚男生拂袖离开相关迷惑发言发给小火人解读",
+        "script": "仔仔世界搭场景讨论女生当众求婚男生拂袖离开，让仔仔们各抒己见",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
-      "globalRank": 115
+      "globalRank": 114
     },
     {
       "id": "f3ac9ab44063",
@@ -2673,16 +2650,16 @@ const TREND_DATA = {
       "category": "其他热点",
       "link": "https://s.weibo.com/weibo?q=%E8%AE%B8%E9%A3%9E%E7%9A%84iPhone18Pro%E6%91%94%E4%BA%86",
       "duoshanScore": 25,
-      "idea": "仔仔世界搭场景讨论许飞的iPhone18Pro摔了，让仔仔们各抒己见",
+      "idea": "用Open仔仔替你发起许飞的iPhone18Pro摔了相关话题，精准匹配同好交流",
       "brief": {
         "zaiZaiPlay": "在仔仔世界发起「许飞的iPhone18Pro摔了」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "仔仔世界搭场景讨论许飞的iPhone18Pro摔了，让仔仔们各抒己见",
+        "script": "TA啥意思：把许飞的iPhone18Pro摔了相关迷惑发言发给小火人解读",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
-      "globalRank": 116
+      "globalRank": 115
     },
     {
       "id": "7ca72c5a6ce0",
@@ -2702,10 +2679,10 @@ const TREND_DATA = {
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "TA啥意思：把GTA6相关迷惑发言发给小火人解读",
+        "script": "仔仔世界搭场景讨论GTA6，让仔仔们各抒己见",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
-      "globalRank": 117
+      "globalRank": 116
     },
     {
       "id": "26dcaf1ca83e",
@@ -2719,7 +2696,7 @@ const TREND_DATA = {
       "category": "其他热点",
       "link": "https://s.weibo.com/weibo?q=iG%E7%88%86%E8%A1%A3%E5%A4%A7%E5%93%A5%E7%97%85%E5%8D%B1%E8%BF%9B%E4%BA%86ICU",
       "duoshanScore": 25,
-      "idea": "用Open仔仔替你发起iG爆衣大哥病危进了ICU相关话题，精准匹配同好交流",
+      "idea": "TA啥意思：把iG爆衣大哥病危进了ICU相关迷惑发言发给小火人解读",
       "brief": {
         "zaiZaiPlay": "在仔仔世界发起「iG爆衣大哥病危进了ICU」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
@@ -2728,7 +2705,7 @@ const TREND_DATA = {
         "script": "TA啥意思：把iG爆衣大哥病危进了ICU相关迷惑发言发给小火人解读",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
-      "globalRank": 118
+      "globalRank": 117
     },
     {
       "id": "d97857d63c5c",
@@ -2751,7 +2728,7 @@ const TREND_DATA = {
         "script": "仔仔世界搭场景讨论suk 青稚，让仔仔们各抒己见",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
-      "globalRank": 119
+      "globalRank": 118
     },
     {
       "id": "abf5d723e1f7",
@@ -2771,10 +2748,10 @@ const TREND_DATA = {
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "用Open仔仔替你发起竞燃之夜节目单相关话题，精准匹配同好交流",
+        "script": "TA啥意思：把竞燃之夜节目单相关迷惑发言发给小火人解读",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
-      "globalRank": 120
+      "globalRank": 119
     },
     {
       "id": "f039dce8fcd9",
@@ -2794,10 +2771,10 @@ const TREND_DATA = {
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：游戏圈、二次元",
         "event": "七夕/KOC通用",
-        "script": "用仔仔搭游戏场景，仔仔还原【侠盗猎车手6】4K 最高画质 全网首发 全任务 全剧情流程通关攻略 开放世界冒险游戏 GTA6 - Grand Theft Auto VI高光操作",
+        "script": "用做个表情包把【侠盗猎车手6】4K 最高画质 全网首发 全任务 全剧情流程通关攻略 开放世界冒险游戏 GTA6 - Grand Theft Auto VI游戏梗图做成仔仔表情包",
         "tags": "#多闪仔仔 #全员多闪qq人 #在多闪跨次元相遇 #多闪二次元相亲角"
       },
-      "globalRank": 121
+      "globalRank": 120
     },
     {
       "id": "e26c43bb8463",
@@ -2811,7 +2788,7 @@ const TREND_DATA = {
       "category": "其他热点",
       "link": "https://www.bilibili.com/video/BV1PXsS67EC3",
       "duoshanScore": 25,
-      "idea": "TA啥意思：把对不起 欺骗了大家这么久 以后不会了相关迷惑发言发给小火人解读",
+      "idea": "仔仔世界搭场景讨论对不起 欺骗了大家这么久 以后不会了，让仔仔们各抒己见",
       "brief": {
         "zaiZaiPlay": "在仔仔世界发起「对不起 欺骗了大家这么久 以后不会了」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
@@ -2820,7 +2797,7 @@ const TREND_DATA = {
         "script": "TA啥意思：把对不起 欺骗了大家这么久 以后不会了相关迷惑发言发给小火人解读",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
-      "globalRank": 122
+      "globalRank": 121
     },
     {
       "id": "b11f8840a280",
@@ -2834,7 +2811,7 @@ const TREND_DATA = {
       "category": "音乐热歌",
       "link": "https://www.bilibili.com/video/BV15Ts26HERu",
       "duoshanScore": 80,
-      "idea": "用仔仔搭音乐会场景，仔仔翻唱⚡赵本山《Bad Guy》大忽悠｜象牙山蹦野迪⚡【AI MV大赛】并@好友仔仔来听",
+      "idea": "用取名大师给粉丝起⚡赵本山《Bad Guy》大忽悠｜象牙山蹦野迪⚡【AI MV大赛】相关的专属昵称",
       "brief": {
         "zaiZaiPlay": "在仔仔世界搭舞台场景，仔仔翻唱「⚡赵本山《Bad Guy》大忽悠｜象牙山蹦野迪⚡【AI MV大赛】」，邀请同好仔仔合唱",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争） + 取名大师（【文字】小火人玩文字梗，）",
@@ -2843,7 +2820,7 @@ const TREND_DATA = {
         "script": "用取名大师给粉丝起⚡赵本山《Bad Guy》大忽悠｜象牙山蹦野迪⚡【AI MV大赛】相关的专属昵称",
         "tags": "#多闪仔仔 #有多闪不孤单 #在多闪跨次元相遇 #多闪二次元相亲角"
       },
-      "globalRank": 123
+      "globalRank": 122
     },
     {
       "id": "ebbfa082b304",
@@ -2863,10 +2840,10 @@ const TREND_DATA = {
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "用Open仔仔替你发起历史性峰会！为什么是APEC？是中国？是深圳？相关话题，精准匹配同好交流",
+        "script": "TA啥意思：把历史性峰会！为什么是APEC？是中国？是深圳？相关迷惑发言发给小火人解读",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
-      "globalRank": 124
+      "globalRank": 123
     },
     {
       "id": "a1f87c4014c9",
@@ -2880,7 +2857,7 @@ const TREND_DATA = {
       "category": "其他热点",
       "link": "https://www.bilibili.com/video/BV1AosS6yEX9",
       "duoshanScore": 25,
-      "idea": "TA啥意思：把老戴《侠盗猎车手 6》初见开荒全实况流程解说【GTA 6】相关迷惑发言发给小火人解读",
+      "idea": "仔仔世界搭场景讨论老戴《侠盗猎车手 6》初见开荒全实况流程解说【GTA 6】，让仔仔们各抒己见",
       "brief": {
         "zaiZaiPlay": "在仔仔世界发起「老戴《侠盗猎车手 6》初见开荒全实况流程解说【GTA 6】」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
@@ -2889,7 +2866,7 @@ const TREND_DATA = {
         "script": "TA啥意思：把老戴《侠盗猎车手 6》初见开荒全实况流程解说【GTA 6】相关迷惑发言发给小火人解读",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
-      "globalRank": 125
+      "globalRank": 124
     },
     {
       "id": "124e89224376",
@@ -2903,7 +2880,7 @@ const TREND_DATA = {
       "category": "科技数码",
       "link": "https://www.bilibili.com/video/BV1WMsm6zEfn",
       "duoshanScore": 40,
-      "idea": "用仔仔搭科技发布会场景，仔仔介绍【IGN】10分，《GTA 6》评测：这个时代最伟大的游戏相关内容",
+      "idea": "畅聊晚自习发起「【IGN】10分，《GTA 6》评测：这个时代最伟大的游戏 A vs B 哪个更值得」话题讨论",
       "brief": {
         "zaiZaiPlay": "用仔仔世界展演「【IGN】10分，《GTA 6》评测：这个时代最伟大的游戏」相关内容，仔仔做科技解说",
         "skillBind": "技能：取名大师（【文字】小火人玩文字梗，）",
@@ -2912,7 +2889,7 @@ const TREND_DATA = {
         "script": "畅聊晚自习发起「【IGN】10分，《GTA 6》评测：这个时代最伟大的游戏 A vs B 哪个更值得」话题讨论",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
-      "globalRank": 126
+      "globalRank": 125
     },
     {
       "id": "c8b089eff40f",
@@ -2932,10 +2909,10 @@ const TREND_DATA = {
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "用Open仔仔替你发起英伟达拒绝黄仁勋，史上最大的泡沫更脆弱了相关话题，精准匹配同好交流",
+        "script": "仔仔世界搭场景讨论英伟达拒绝黄仁勋，史上最大的泡沫更脆弱了，让仔仔们各抒己见",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
-      "globalRank": 127
+      "globalRank": 126
     },
     {
       "id": "b3e26f1c02cd",
@@ -2955,10 +2932,10 @@ const TREND_DATA = {
         "skillBind": "技能：TA啥意思（【文字】小火人做阅读理解） + 恋爱军师（【文字+表情包】小火人分）",
         "circle": "圈层：影视圈、追星圈",
         "event": "七夕/KOC通用",
-        "script": "TA啥意思：把灭霸的班级被奖励看电影角色台词发给小火人做阅读理解",
+        "script": "恋爱军师分析灭霸的班级被奖励看电影中CP的聊天记录，教你怎么和crush聊出同款氛围",
         "tags": "#多闪仔仔 #仔仔世界代餐文学 #在多闪跨次元相遇 #多闪二次元相亲角"
       },
-      "globalRank": 128
+      "globalRank": 127
     },
     {
       "id": "8f81795ac73c",
@@ -2972,7 +2949,7 @@ const TREND_DATA = {
       "category": "游戏电竞",
       "link": "https://www.bilibili.com/video/BV1yQsm6gE9c",
       "duoshanScore": 55,
-      "idea": "用仔仔搭游戏场景，仔仔还原「【老V回归】来看直播吧，不烧心！」——《少女前线2：追放》卡萝角色PV公开高光操作",
+      "idea": "用做个表情包把「【老V回归】来看直播吧，不烧心！」——《少女前线2：追放》卡萝角色PV公开游戏梗图做成仔仔表情包",
       "brief": {
         "zaiZaiPlay": "在仔仔世界搭游戏场景，仔仔还原「「【老V回归】来看直播吧，不烧心！」——《少女前线2：追放》卡萝角色PV公开」游戏高光",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
@@ -2981,7 +2958,7 @@ const TREND_DATA = {
         "script": "畅聊晚自习发起游戏圈争议话题，让小火人加入抬杠",
         "tags": "#多闪仔仔 #全员多闪qq人 #在多闪跨次元相遇 #多闪二次元相亲角"
       },
-      "globalRank": 129
+      "globalRank": 128
     },
     {
       "id": "712b875686ae",
@@ -2995,7 +2972,7 @@ const TREND_DATA = {
       "category": "其他热点",
       "link": "https://www.bilibili.com/video/BV1Nxs26uE46",
       "duoshanScore": 25,
-      "idea": "用Open仔仔替你发起【IGN】《黄金矿工：派对狂欢》22分钟实机演示相关话题，精准匹配同好交流",
+      "idea": "TA啥意思：把【IGN】《黄金矿工：派对狂欢》22分钟实机演示相关迷惑发言发给小火人解读",
       "brief": {
         "zaiZaiPlay": "在仔仔世界发起「【IGN】《黄金矿工：派对狂欢》22分钟实机演示」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
@@ -3004,7 +2981,7 @@ const TREND_DATA = {
         "script": "用Open仔仔替你发起【IGN】《黄金矿工：派对狂欢》22分钟实机演示相关话题，精准匹配同好交流",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
-      "globalRank": 130
+      "globalRank": 129
     },
     {
       "id": "d372b7ea7d16",
@@ -3018,16 +2995,16 @@ const TREND_DATA = {
       "category": "其他热点",
       "link": "https://www.bilibili.com/video/BV12wsm6CEic",
       "duoshanScore": 25,
-      "idea": "TA啥意思：把又一部毁童年神作！诱拐儿童，骚扰护士，发疯大屠杀，这真是小孩子能看能演的吗？《逃出布迪秀》相关迷惑发言发给...",
+      "idea": "仔仔世界搭场景讨论又一部毁童年神作！诱拐儿童，骚扰护士，发疯大屠杀，这真是小孩子能看能演的吗？《逃出布迪秀》，让仔仔们各...",
       "brief": {
         "zaiZaiPlay": "在仔仔世界发起「又一部毁童年神作！诱拐儿童，骚扰护士，发疯大屠杀，这真是小孩子能看能演的吗？《逃出布迪秀》」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "TA啥意思：把又一部毁童年神作！诱拐儿童，骚扰护士，发疯大屠杀，这真是小孩子能看能演的吗？《逃出布迪秀》相关迷惑发言发给小火人解读",
+        "script": "仔仔世界搭场景讨论又一部毁童年神作！诱拐儿童，骚扰护士，发疯大屠杀，这真是小孩子能看能演的吗？《逃出布迪秀》，让仔仔们各抒己见",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
-      "globalRank": 131
+      "globalRank": 130
     },
     {
       "id": "561e055424e2",
@@ -3041,7 +3018,7 @@ const TREND_DATA = {
       "category": "音乐热歌",
       "link": "https://www.bilibili.com/video/BV18rsS6RE61",
       "duoshanScore": 80,
-      "idea": "用仔仔搭音乐会场景，仔仔翻唱在车上唱歌，被警车从洛圣都追到罪恶城…！？并@好友仔仔来听",
+      "idea": "用取名大师给粉丝起在车上唱歌，被警车从洛圣都追到罪恶城…！？相关的专属昵称",
       "brief": {
         "zaiZaiPlay": "在仔仔世界搭舞台场景，仔仔翻唱「在车上唱歌，被警车从洛圣都追到罪恶城…！？」，邀请同好仔仔合唱",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争） + 取名大师（【文字】小火人玩文字梗，）",
@@ -3050,7 +3027,7 @@ const TREND_DATA = {
         "script": "用仔仔搭音乐会场景，仔仔翻唱在车上唱歌，被警车从洛圣都追到罪恶城…！？并@好友仔仔来听",
         "tags": "#多闪仔仔 #有多闪不孤单 #在多闪跨次元相遇 #多闪二次元相亲角"
       },
-      "globalRank": 132
+      "globalRank": 131
     },
     {
       "id": "aa0b586e8b20",
@@ -3073,7 +3050,7 @@ const TREND_DATA = {
         "script": "用做个表情包把厨师长的回忆录在学徒时期晚饭吃的是什么边角料，白菜面条，铁板鹅肝美食制作相关日常做成仔仔版表情包发动态",
         "tags": "#多闪仔仔 #有多闪不孤单 #多闪二次元相亲角 #在多闪遇到正缘了"
       },
-      "globalRank": 133
+      "globalRank": 132
     },
     {
       "id": "275d8e3a8281",
@@ -3087,16 +3064,16 @@ const TREND_DATA = {
       "category": "其他热点",
       "link": "https://www.bilibili.com/video/BV1YWsr6NEs7",
       "duoshanScore": 25,
-      "idea": "用Open仔仔替你发起THANK YOU ZmjjKK相关话题，精准匹配同好交流",
+      "idea": "TA啥意思：把THANK YOU ZmjjKK相关迷惑发言发给小火人解读",
       "brief": {
         "zaiZaiPlay": "在仔仔世界发起「THANK YOU ZmjjKK」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "用Open仔仔替你发起THANK YOU ZmjjKK相关话题，精准匹配同好交流",
+        "script": "仔仔世界搭场景讨论THANK YOU ZmjjKK，让仔仔们各抒己见",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
-      "globalRank": 134
+      "globalRank": 133
     },
     {
       "id": "535077534f47",
@@ -3110,16 +3087,16 @@ const TREND_DATA = {
       "category": "其他热点",
       "link": "https://www.bilibili.com/video/BV1hds26mE6w",
       "duoshanScore": 25,
-      "idea": "TA啥意思：把一个结局他是救世主，而另一个结局他才是怪物。深挖《我是传奇》的真正内核！相关迷惑发言发给小火人解读",
+      "idea": "用Open仔仔替你发起一个结局他是救世主，而另一个结局他才是怪物。深挖《我是传奇》的真正内核！相关话题，精准匹配同好交流",
       "brief": {
         "zaiZaiPlay": "在仔仔世界发起「一个结局他是救世主，而另一个结局他才是怪物。深挖《我是传奇》的真正内核！」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "用Open仔仔替你发起一个结局他是救世主，而另一个结局他才是怪物。深挖《我是传奇》的真正内核！相关话题，精准匹配同好交流",
+        "script": "仔仔世界搭场景讨论一个结局他是救世主，而另一个结局他才是怪物。深挖《我是传奇》的真正内核！，让仔仔们各抒己见",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
-      "globalRank": 135
+      "globalRank": 134
     },
     {
       "id": "d39f63cab78a",
@@ -3133,7 +3110,7 @@ const TREND_DATA = {
       "category": "其他热点",
       "link": "https://www.bilibili.com/video/BV1P3sP6UENP",
       "duoshanScore": 25,
-      "idea": "仔仔世界搭场景讨论坐船去大连，差点忘了这是东北，让仔仔们各抒己见",
+      "idea": "TA啥意思：把坐船去大连，差点忘了这是东北相关迷惑发言发给小火人解读",
       "brief": {
         "zaiZaiPlay": "在仔仔世界发起「坐船去大连，差点忘了这是东北」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
@@ -3142,7 +3119,7 @@ const TREND_DATA = {
         "script": "TA啥意思：把坐船去大连，差点忘了这是东北相关迷惑发言发给小火人解读",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
-      "globalRank": 136
+      "globalRank": 135
     },
     {
       "id": "ac23934b95a1",
@@ -3162,10 +3139,10 @@ const TREND_DATA = {
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "用Open仔仔替你发起非凡魔丸相关话题，精准匹配同好交流",
+        "script": "仔仔世界搭场景讨论非凡魔丸，让仔仔们各抒己见",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
-      "globalRank": 137
+      "globalRank": 136
     },
     {
       "id": "8395bce53eab",
@@ -3179,16 +3156,16 @@ const TREND_DATA = {
       "category": "其他热点",
       "link": "https://www.bilibili.com/video/BV1HzsU6MEX6",
       "duoshanScore": 25,
-      "idea": "TA啥意思：把【GTA6】我们拥有真实的物理引擎相关迷惑发言发给小火人解读",
+      "idea": "仔仔世界搭场景讨论【GTA6】我们拥有真实的物理引擎，让仔仔们各抒己见",
       "brief": {
         "zaiZaiPlay": "在仔仔世界发起「【GTA6】我们拥有真实的物理引擎」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "仔仔世界搭场景讨论【GTA6】我们拥有真实的物理引擎，让仔仔们各抒己见",
+        "script": "用Open仔仔替你发起【GTA6】我们拥有真实的物理引擎相关话题，精准匹配同好交流",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
-      "globalRank": 138
+      "globalRank": 137
     },
     {
       "id": "c5876aebc8c5",
@@ -3202,16 +3179,16 @@ const TREND_DATA = {
       "category": "其他热点",
       "link": "https://www.bilibili.com/video/BV1kVsw6BE77",
       "duoshanScore": 25,
-      "idea": "TA啥意思：把恶役千金题材作品天花板！全集93分钟一次看过瘾，《恶役千金的真面目》漫画剧情深度解析相关迷惑发言发给小火人...",
+      "idea": "用Open仔仔替你发起恶役千金题材作品天花板！全集93分钟一次看过瘾，《恶役千金的真面目》漫画剧情深度解析相关话题，精准...",
       "brief": {
         "zaiZaiPlay": "在仔仔世界发起「恶役千金题材作品天花板！全集93分钟一次看过瘾，《恶役千金的真面目》漫画剧情深度解析」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "TA啥意思：把恶役千金题材作品天花板！全集93分钟一次看过瘾，《恶役千金的真面目》漫画剧情深度解析相关迷惑发言发给小火人解读",
+        "script": "用Open仔仔替你发起恶役千金题材作品天花板！全集93分钟一次看过瘾，《恶役千金的真面目》漫画剧情深度解析相关话题，精准匹配同好交流",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
-      "globalRank": 139
+      "globalRank": 138
     },
     {
       "id": "fb0e3a1bc740",
@@ -3225,7 +3202,7 @@ const TREND_DATA = {
       "category": "其他热点",
       "link": "https://www.bilibili.com/video/BV1hPsJ6BEL9",
       "duoshanScore": 25,
-      "idea": "用Open仔仔替你发起店里¥788一个的蛋糕，自己在家做，能省多少钱？相关话题，精准匹配同好交流",
+      "idea": "仔仔世界搭场景讨论店里¥788一个的蛋糕，自己在家做，能省多少钱？，让仔仔们各抒己见",
       "brief": {
         "zaiZaiPlay": "在仔仔世界发起「店里¥788一个的蛋糕，自己在家做，能省多少钱？」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
@@ -3234,7 +3211,7 @@ const TREND_DATA = {
         "script": "用Open仔仔替你发起店里¥788一个的蛋糕，自己在家做，能省多少钱？相关话题，精准匹配同好交流",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
-      "globalRank": 140
+      "globalRank": 139
     },
     {
       "id": "39b131014d7e",
@@ -3254,10 +3231,10 @@ const TREND_DATA = {
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：游戏圈、二次元",
         "event": "七夕/KOC通用",
-        "script": "畅聊晚自习发起游戏圈争议话题，让小火人加入抬杠",
+        "script": "用做个表情包把全球最火的电竞比赛！2W一张票！直接看哭了！游戏梗图做成仔仔表情包",
         "tags": "#多闪仔仔 #全员多闪qq人 #在多闪跨次元相遇 #多闪二次元相亲角"
       },
-      "globalRank": 141
+      "globalRank": 140
     },
     {
       "id": "57b73ac54b35",
@@ -3271,16 +3248,16 @@ const TREND_DATA = {
       "category": "生活日常",
       "link": "https://www.bilibili.com/video/BV1LLsT6kESX",
       "duoshanScore": 70,
-      "idea": "今日塔罗：出门前让小火人抽牌看【动画】可爱的猫尾草是否适合今天尝试",
+      "idea": "用仔仔还原【动画】可爱的猫尾草日常场景，仔仔陪你打卡生活仪式感",
       "brief": {
         "zaiZaiPlay": "在仔仔世界复刻「【动画】可爱的猫尾草」生活场景，仔仔替你记录日常",
         "skillBind": "技能：今日塔罗（【文字+生图】小火人抽塔） + 做个表情包（【生图】小火人识别图片+）",
         "circle": "圈层：生活圈、校园圈",
         "event": "七夕/精灵学院/KOC通用",
-        "script": "用仔仔还原【动画】可爱的猫尾草日常场景，仔仔陪你打卡生活仪式感",
+        "script": "今日塔罗：出门前让小火人抽牌看【动画】可爱的猫尾草是否适合今天尝试",
         "tags": "#多闪仔仔 #有多闪不孤单 #多闪二次元相亲角 #在多闪遇到正缘了"
       },
-      "globalRank": 142
+      "globalRank": 141
     },
     {
       "id": "573559c9877e",
@@ -3294,16 +3271,16 @@ const TREND_DATA = {
       "category": "其他热点",
       "link": "https://www.bilibili.com/video/BV1MpsN6FE1W",
       "duoshanScore": 25,
-      "idea": "用Open仔仔替你发起两个不同场景的地堡，你们觉着这设计合理吗相关话题，精准匹配同好交流",
+      "idea": "TA啥意思：把两个不同场景的地堡，你们觉着这设计合理吗相关迷惑发言发给小火人解读",
       "brief": {
         "zaiZaiPlay": "在仔仔世界发起「两个不同场景的地堡，你们觉着这设计合理吗」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "TA啥意思：把两个不同场景的地堡，你们觉着这设计合理吗相关迷惑发言发给小火人解读",
+        "script": "用Open仔仔替你发起两个不同场景的地堡，你们觉着这设计合理吗相关话题，精准匹配同好交流",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
-      "globalRank": 143
+      "globalRank": 142
     },
     {
       "id": "b5bcc0c352f0",
@@ -3317,16 +3294,16 @@ const TREND_DATA = {
       "category": "其他热点",
       "link": "https://www.bilibili.com/video/BV1K5sM6AELJ",
       "duoshanScore": 25,
-      "idea": "仔仔世界搭场景讨论花5位数体验世界排名第2的酒店！结论: 拉了，让仔仔们各抒己见",
+      "idea": "TA啥意思：把花5位数体验世界排名第2的酒店！结论: 拉了相关迷惑发言发给小火人解读",
       "brief": {
         "zaiZaiPlay": "在仔仔世界发起「花5位数体验世界排名第2的酒店！结论: 拉了」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "用Open仔仔替你发起花5位数体验世界排名第2的酒店！结论: 拉了相关话题，精准匹配同好交流",
+        "script": "TA啥意思：把花5位数体验世界排名第2的酒店！结论: 拉了相关迷惑发言发给小火人解读",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
-      "globalRank": 144
+      "globalRank": 143
     },
     {
       "id": "a23209e4b9ea",
@@ -3340,7 +3317,7 @@ const TREND_DATA = {
       "category": "音乐热歌",
       "link": "https://www.bilibili.com/video/BV1cdsm6qEQy",
       "duoshanScore": 80,
-      "idea": "用取名大师给粉丝起《英雄联盟》BLG夺冠进行曲「Going 4 Gold」百万级录音棚试听相关的专属昵称",
+      "idea": "畅聊晚自习发起「《英雄联盟》BLG夺冠进行曲「Going 4 Gold」百万级录音棚试听 vs XX 哪首更上头」话题，...",
       "brief": {
         "zaiZaiPlay": "在仔仔世界搭舞台场景，仔仔翻唱「《英雄联盟》BLG夺冠进行曲「Going 4 Gold」百万级录音棚试听」，邀请同好仔仔合唱",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争） + 取名大师（【文字】小火人玩文字梗，）",
@@ -3349,7 +3326,7 @@ const TREND_DATA = {
         "script": "用仔仔搭音乐会场景，仔仔翻唱《英雄联盟》BLG夺冠进行曲「Going 4 Gold」百万级录音棚试听并@好友仔仔来听",
         "tags": "#多闪仔仔 #有多闪不孤单 #在多闪跨次元相遇 #多闪二次元相亲角"
       },
-      "globalRank": 145
+      "globalRank": 144
     },
     {
       "id": "61f746a3efc5",
@@ -3369,10 +3346,10 @@ const TREND_DATA = {
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "仔仔世界搭场景讨论《都很漂亮》她是漂亮的，我们也是。，让仔仔们各抒己见",
+        "script": "用Open仔仔替你发起《都很漂亮》她是漂亮的，我们也是。相关话题，精准匹配同好交流",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
-      "globalRank": 146
+      "globalRank": 145
     },
     {
       "id": "4aabefc94940",
@@ -3386,16 +3363,16 @@ const TREND_DATA = {
       "category": "其他热点",
       "link": "https://www.bilibili.com/video/BV1jPs26WEfw",
       "duoshanScore": 25,
-      "idea": "仔仔世界搭场景讨论“人类啊你们终于凭借自己的力量来到了这里…，？什么叫你们是来求救的？”，让仔仔们各抒己见",
+      "idea": "用Open仔仔替你发起“人类啊你们终于凭借自己的力量来到了这里…，？什么叫你们是来求救的？”相关话题，精准匹配同好交流",
       "brief": {
         "zaiZaiPlay": "在仔仔世界发起「“人类啊你们终于凭借自己的力量来到了这里…，？什么叫你们是来求救的？”」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "TA啥意思：把“人类啊你们终于凭借自己的力量来到了这里…，？什么叫你们是来求救的？”相关迷惑发言发给小火人解读",
+        "script": "仔仔世界搭场景讨论“人类啊你们终于凭借自己的力量来到了这里…，？什么叫你们是来求救的？”，让仔仔们各抒己见",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
-      "globalRank": 147
+      "globalRank": 146
     },
     {
       "id": "f8015f0592c0",
@@ -3409,7 +3386,7 @@ const TREND_DATA = {
       "category": "舞蹈挑战",
       "link": "https://www.bilibili.com/video/BV1Wgsm6MEWg",
       "duoshanScore": 100,
-      "idea": "用「做个表情包」技能把跳舞退敌！面对包围女兵战场跳舞看呆鬼子！抗日神剧炸裂剧情你看你也懵！名场面做成仔仔表情包，聊天时甩...",
+      "idea": "发起精灵法庭审判:「谁的跳舞退敌！面对包围女兵战场跳舞看呆鬼子！抗日神剧炸裂剧情你看你也懵！跳得最烂」，判罚仔仔世界罚站...",
       "brief": {
         "zaiZaiPlay": "在仔仔世界用Open仔仔发起「跳舞退敌！面对包围女兵战场跳舞看呆鬼子！抗日神剧炸裂剧情你看你也懵！」同名舞蹈挑战，仔仔替你@同好来PK",
         "skillBind": "技能：精灵法庭（【文字+生图】小火人审判） + 做个表情包（【生图】小火人识别图片+）",
@@ -3418,7 +3395,7 @@ const TREND_DATA = {
         "script": "用仔仔还原「跳舞退敌！面对包围女兵战场跳舞看呆鬼子！抗日神剧炸裂剧情你看你也懵！」经典动作，在仔仔世界搭舞台场景，和好友仔仔牵手跳舞",
         "tags": "#多闪仔仔 #有多闪不孤单 #仔仔世界代餐文学 #多闪二次元相亲角"
       },
-      "globalRank": 148
+      "globalRank": 147
     },
     {
       "id": "1a4e03d709de",
@@ -3432,7 +3409,7 @@ const TREND_DATA = {
       "category": "游戏电竞",
       "link": "https://www.bilibili.com/video/BV1NSsm6rEGE",
       "duoshanScore": 55,
-      "idea": "用做个表情包把《GTA6》已通关，无剧透聊聊R星有多无敌【视频播客 EP.81】游戏梗图做成仔仔表情包",
+      "idea": "畅聊晚自习发起游戏圈争议话题，让小火人加入抬杠",
       "brief": {
         "zaiZaiPlay": "在仔仔世界搭游戏场景，仔仔还原「《GTA6》已通关，无剧透聊聊R星有多无敌【视频播客 EP.81】」游戏高光",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
@@ -3441,7 +3418,7 @@ const TREND_DATA = {
         "script": "用做个表情包把《GTA6》已通关，无剧透聊聊R星有多无敌【视频播客 EP.81】游戏梗图做成仔仔表情包",
         "tags": "#多闪仔仔 #全员多闪qq人 #在多闪跨次元相遇 #多闪二次元相亲角"
       },
-      "globalRank": 149
+      "globalRank": 148
     },
     {
       "id": "6d6e44803c11",
@@ -3455,16 +3432,16 @@ const TREND_DATA = {
       "category": "科技数码",
       "link": "https://www.bilibili.com/video/BV1Szsm6EEan",
       "duoshanScore": 40,
-      "idea": "取名大师给《GTA6》游民评测10分：GOAT，毫无疑问【国内独家】相关产品起搞笑昵称",
+      "idea": "用仔仔搭科技发布会场景，仔仔介绍《GTA6》游民评测10分：GOAT，毫无疑问【国内独家】相关内容",
       "brief": {
         "zaiZaiPlay": "用仔仔世界展演「《GTA6》游民评测10分：GOAT，毫无疑问【国内独家】」相关内容，仔仔做科技解说",
         "skillBind": "技能：取名大师（【文字】小火人玩文字梗，）",
         "circle": "圈层：科技圈、数码圈",
         "event": "KOC通用",
-        "script": "取名大师给《GTA6》游民评测10分：GOAT，毫无疑问【国内独家】相关产品起搞笑昵称",
+        "script": "用仔仔搭科技发布会场景，仔仔介绍《GTA6》游民评测10分：GOAT，毫无疑问【国内独家】相关内容",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
-      "globalRank": 150
+      "globalRank": 149
     },
     {
       "id": "43bed9d867ad",
@@ -3478,7 +3455,7 @@ const TREND_DATA = {
       "category": "其他热点",
       "link": "https://www.bilibili.com/video/BV1ZssS6iEB9",
       "duoshanScore": 25,
-      "idea": "仔仔世界搭场景讨论民主党“皮衣黄罪恶滔天审判大会”，赶快加入吧！，让仔仔们各抒己见",
+      "idea": "用Open仔仔替你发起民主党“皮衣黄罪恶滔天审判大会”，赶快加入吧！相关话题，精准匹配同好交流",
       "brief": {
         "zaiZaiPlay": "在仔仔世界发起「民主党“皮衣黄罪恶滔天审判大会”，赶快加入吧！」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
@@ -3487,7 +3464,7 @@ const TREND_DATA = {
         "script": "仔仔世界搭场景讨论民主党“皮衣黄罪恶滔天审判大会”，赶快加入吧！，让仔仔们各抒己见",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
-      "globalRank": 151
+      "globalRank": 150
     },
     {
       "id": "764562310347",
@@ -3501,7 +3478,7 @@ const TREND_DATA = {
       "category": "其他热点",
       "link": "https://www.bilibili.com/video/BV1mPsP6pEez",
       "duoshanScore": 25,
-      "idea": "仔仔世界搭场景讨论地表最强，绝对的数值，大象这个版本怎么样？，让仔仔们各抒己见",
+      "idea": "TA啥意思：把地表最强，绝对的数值，大象这个版本怎么样？相关迷惑发言发给小火人解读",
       "brief": {
         "zaiZaiPlay": "在仔仔世界发起「地表最强，绝对的数值，大象这个版本怎么样？」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
@@ -3510,7 +3487,7 @@ const TREND_DATA = {
         "script": "仔仔世界搭场景讨论地表最强，绝对的数值，大象这个版本怎么样？，让仔仔们各抒己见",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
-      "globalRank": 152
+      "globalRank": 151
     },
     {
       "id": "84f83b47e1f3",
@@ -3524,7 +3501,7 @@ const TREND_DATA = {
       "category": "音乐热歌",
       "link": "https://www.bilibili.com/video/BV1besC6KE6N",
       "duoshanScore": 80,
-      "idea": "畅聊晚自习发起「【CS2更新】熟悉的旋律加入CS2音乐盒~主菜单&MVP试听 vs XX 哪首更上头」话题，让小火人抬杠",
+      "idea": "用取名大师给粉丝起【CS2更新】熟悉的旋律加入CS2音乐盒~主菜单&MVP试听相关的专属昵称",
       "brief": {
         "zaiZaiPlay": "在仔仔世界搭舞台场景，仔仔翻唱「【CS2更新】熟悉的旋律加入CS2音乐盒~主菜单&MVP试听」，邀请同好仔仔合唱",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争） + 取名大师（【文字】小火人玩文字梗，）",
@@ -3533,7 +3510,7 @@ const TREND_DATA = {
         "script": "用取名大师给粉丝起【CS2更新】熟悉的旋律加入CS2音乐盒~主菜单&MVP试听相关的专属昵称",
         "tags": "#多闪仔仔 #有多闪不孤单 #在多闪跨次元相遇 #多闪二次元相亲角"
       },
-      "globalRank": 153
+      "globalRank": 152
     },
     {
       "id": "952e0686b1ca",
@@ -3547,7 +3524,7 @@ const TREND_DATA = {
       "category": "其他热点",
       "link": "https://www.bilibili.com/video/BV1gHsz6ZEzF",
       "duoshanScore": 25,
-      "idea": "仔仔世界搭场景讨论人情陷阱：中国人为何如此拧巴？，让仔仔们各抒己见",
+      "idea": "用Open仔仔替你发起人情陷阱：中国人为何如此拧巴？相关话题，精准匹配同好交流",
       "brief": {
         "zaiZaiPlay": "在仔仔世界发起「人情陷阱：中国人为何如此拧巴？」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
@@ -3556,7 +3533,7 @@ const TREND_DATA = {
         "script": "TA啥意思：把人情陷阱：中国人为何如此拧巴？相关迷惑发言发给小火人解读",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
-      "globalRank": 154
+      "globalRank": 153
     },
     {
       "id": "c50c36f9e6b6",
@@ -3570,16 +3547,16 @@ const TREND_DATA = {
       "category": "其他热点",
       "link": "https://www.bilibili.com/video/BV1xFs36uEvE",
       "duoshanScore": 25,
-      "idea": "TA啥意思：把【蜘蛛侠/MJ】非凡之爱真人版相关迷惑发言发给小火人解读",
+      "idea": "仔仔世界搭场景讨论【蜘蛛侠/MJ】非凡之爱真人版，让仔仔们各抒己见",
       "brief": {
         "zaiZaiPlay": "在仔仔世界发起「【蜘蛛侠/MJ】非凡之爱真人版」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "仔仔世界搭场景讨论【蜘蛛侠/MJ】非凡之爱真人版，让仔仔们各抒己见",
+        "script": "TA啥意思：把【蜘蛛侠/MJ】非凡之爱真人版相关迷惑发言发给小火人解读",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
-      "globalRank": 155
+      "globalRank": 154
     },
     {
       "id": "cc0efba28cd5",
@@ -3599,10 +3576,10 @@ const TREND_DATA = {
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "TA啥意思：把第一次在B站发视频，求关注！相关迷惑发言发给小火人解读",
+        "script": "用Open仔仔替你发起第一次在B站发视频，求关注！相关话题，精准匹配同好交流",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
-      "globalRank": 156
+      "globalRank": 155
     },
     {
       "id": "82b90285aaea",
@@ -3616,7 +3593,7 @@ const TREND_DATA = {
       "category": "科技数码",
       "link": "https://www.bilibili.com/video/BV18jsA6xEft",
       "duoshanScore": 40,
-      "idea": "用仔仔搭科技发布会场景，仔仔介绍我把Windows10装进了哔哩哔哩里,点击即玩!【B站AI创造公开赛】相关内容",
+      "idea": "畅聊晚自习发起「我把Windows10装进了哔哩哔哩里,点击即玩!【B站AI创造公开赛】 A vs B 哪个更值得」话题...",
       "brief": {
         "zaiZaiPlay": "用仔仔世界展演「我把Windows10装进了哔哩哔哩里,点击即玩!【B站AI创造公开赛】」相关内容，仔仔做科技解说",
         "skillBind": "技能：取名大师（【文字】小火人玩文字梗，）",
@@ -3625,7 +3602,7 @@ const TREND_DATA = {
         "script": "取名大师给我把Windows10装进了哔哩哔哩里,点击即玩!【B站AI创造公开赛】相关产品起搞笑昵称",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
-      "globalRank": 157
+      "globalRank": 156
     },
     {
       "id": "e12f79d59bfa",
@@ -3639,16 +3616,16 @@ const TREND_DATA = {
       "category": "其他热点",
       "link": "https://www.bilibili.com/video/BV1Mzs166EnJ",
       "duoshanScore": 25,
-      "idea": "用Open仔仔替你发起你們都睡著啦相关话题，精准匹配同好交流",
+      "idea": "仔仔世界搭场景讨论你們都睡著啦，让仔仔们各抒己见",
       "brief": {
         "zaiZaiPlay": "在仔仔世界发起「你們都睡著啦」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "TA啥意思：把你們都睡著啦相关迷惑发言发给小火人解读",
+        "script": "用Open仔仔替你发起你們都睡著啦相关话题，精准匹配同好交流",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
-      "globalRank": 158
+      "globalRank": 157
     },
     {
       "id": "c60c18627665",
@@ -3662,16 +3639,16 @@ const TREND_DATA = {
       "category": "其他热点",
       "link": "https://www.bilibili.com/video/BV16Bs26FEAM",
       "duoshanScore": 25,
-      "idea": "仔仔世界搭场景讨论在普罗米厄的怀抱下，让仔仔们各抒己见",
+      "idea": "用Open仔仔替你发起在普罗米厄的怀抱下相关话题，精准匹配同好交流",
       "brief": {
         "zaiZaiPlay": "在仔仔世界发起「在普罗米厄的怀抱下」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "仔仔世界搭场景讨论在普罗米厄的怀抱下，让仔仔们各抒己见",
+        "script": "TA啥意思：把在普罗米厄的怀抱下相关迷惑发言发给小火人解读",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
-      "globalRank": 159
+      "globalRank": 158
     },
     {
       "id": "4e9cd3865e60",
@@ -3685,16 +3662,16 @@ const TREND_DATA = {
       "category": "其他热点",
       "link": "https://www.bilibili.com/video/BV1k6sz61Eqr",
       "duoshanScore": 25,
-      "idea": "TA啥意思：把夺冠之后全队小采访堂堂来袭相关迷惑发言发给小火人解读",
+      "idea": "用Open仔仔替你发起夺冠之后全队小采访堂堂来袭相关话题，精准匹配同好交流",
       "brief": {
         "zaiZaiPlay": "在仔仔世界发起「夺冠之后全队小采访堂堂来袭」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "仔仔世界搭场景讨论夺冠之后全队小采访堂堂来袭，让仔仔们各抒己见",
+        "script": "用Open仔仔替你发起夺冠之后全队小采访堂堂来袭相关话题，精准匹配同好交流",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
-      "globalRank": 160
+      "globalRank": 159
     },
     {
       "id": "33ba52061f81",
@@ -3714,10 +3691,10 @@ const TREND_DATA = {
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "TA啥意思：把⚡ 非凡之畜 ⚡相关迷惑发言发给小火人解读",
+        "script": "用Open仔仔替你发起⚡ 非凡之畜 ⚡相关话题，精准匹配同好交流",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
-      "globalRank": 161
+      "globalRank": 160
     },
     {
       "id": "43a8ef0b3a4e",
@@ -3731,16 +3708,16 @@ const TREND_DATA = {
       "category": "其他热点",
       "link": "https://www.bilibili.com/video/BV1HRsw66Eo9",
       "duoshanScore": 25,
-      "idea": "仔仔世界搭场景讨论《安家镇宅物业部》第一集：可能是加班太累了，我好像能看到了不得了的东西，让仔仔们各抒己见",
+      "idea": "用Open仔仔替你发起《安家镇宅物业部》第一集：可能是加班太累了，我好像能看到了不得了的东西相关话题，精准匹配同好交流",
       "brief": {
         "zaiZaiPlay": "在仔仔世界发起「《安家镇宅物业部》第一集：可能是加班太累了，我好像能看到了不得了的东西」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "仔仔世界搭场景讨论《安家镇宅物业部》第一集：可能是加班太累了，我好像能看到了不得了的东西，让仔仔们各抒己见",
+        "script": "用Open仔仔替你发起《安家镇宅物业部》第一集：可能是加班太累了，我好像能看到了不得了的东西相关话题，精准匹配同好交流",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
-      "globalRank": 162
+      "globalRank": 161
     },
     {
       "id": "fc2bfdcaf88c",
@@ -3754,16 +3731,16 @@ const TREND_DATA = {
       "category": "其他热点",
       "link": "https://www.bilibili.com/video/BV1WUsw6yEHF",
       "duoshanScore": 25,
-      "idea": "仔仔世界搭场景讨论灭霸金融小课堂：灭霸玉米大丰收，什么是卖出套期保值？，让仔仔们各抒己见",
+      "idea": "用Open仔仔替你发起灭霸金融小课堂：灭霸玉米大丰收，什么是卖出套期保值？相关话题，精准匹配同好交流",
       "brief": {
         "zaiZaiPlay": "在仔仔世界发起「灭霸金融小课堂：灭霸玉米大丰收，什么是卖出套期保值？」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "TA啥意思：把灭霸金融小课堂：灭霸玉米大丰收，什么是卖出套期保值？相关迷惑发言发给小火人解读",
+        "script": "仔仔世界搭场景讨论灭霸金融小课堂：灭霸玉米大丰收，什么是卖出套期保值？，让仔仔们各抒己见",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
-      "globalRank": 163
+      "globalRank": 162
     },
     {
       "id": "80b83a106997",
@@ -3783,10 +3760,10 @@ const TREND_DATA = {
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "TA啥意思：把闪存价格两周下跌20%：数据中心大砍单｜显卡日报11月19日相关迷惑发言发给小火人解读",
+        "script": "用Open仔仔替你发起闪存价格两周下跌20%：数据中心大砍单｜显卡日报11月19日相关话题，精准匹配同好交流",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
-      "globalRank": 164
+      "globalRank": 163
     },
     {
       "id": "ceebe9824d7a",
@@ -3800,16 +3777,16 @@ const TREND_DATA = {
       "category": "其他热点",
       "link": "https://www.bilibili.com/video/BV1gssE6KErd",
       "duoshanScore": 25,
-      "idea": "TA啥意思：把这便是历届全球总决赛最具含金量的冠军—— BLG相关迷惑发言发给小火人解读",
+      "idea": "用Open仔仔替你发起这便是历届全球总决赛最具含金量的冠军—— BLG相关话题，精准匹配同好交流",
       "brief": {
         "zaiZaiPlay": "在仔仔世界发起「这便是历届全球总决赛最具含金量的冠军—— BLG」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "用Open仔仔替你发起这便是历届全球总决赛最具含金量的冠军—— BLG相关话题，精准匹配同好交流",
+        "script": "TA啥意思：把这便是历届全球总决赛最具含金量的冠军—— BLG相关迷惑发言发给小火人解读",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
-      "globalRank": 165
+      "globalRank": 164
     },
     {
       "id": "4d00252270e8",
@@ -3823,16 +3800,16 @@ const TREND_DATA = {
       "category": "其他热点",
       "link": "https://www.bilibili.com/video/BV1PBsr6REhH",
       "duoshanScore": 25,
-      "idea": "TA啥意思：把当bro一起去吃自助餐🍑相关迷惑发言发给小火人解读",
+      "idea": "仔仔世界搭场景讨论当bro一起去吃自助餐🍑，让仔仔们各抒己见",
       "brief": {
         "zaiZaiPlay": "在仔仔世界发起「当bro一起去吃自助餐🍑」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "TA啥意思：把当bro一起去吃自助餐🍑相关迷惑发言发给小火人解读",
+        "script": "仔仔世界搭场景讨论当bro一起去吃自助餐🍑，让仔仔们各抒己见",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
-      "globalRank": 166
+      "globalRank": 165
     },
     {
       "id": "85d1684cee4d",
@@ -3846,16 +3823,16 @@ const TREND_DATA = {
       "category": "其他热点",
       "link": "https://www.bilibili.com/video/BV1rfsB6CERa",
       "duoshanScore": 25,
-      "idea": "用Open仔仔替你发起原始人相关话题，精准匹配同好交流",
+      "idea": "仔仔世界搭场景讨论原始人，让仔仔们各抒己见",
       "brief": {
         "zaiZaiPlay": "在仔仔世界发起「原始人」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "仔仔世界搭场景讨论原始人，让仔仔们各抒己见",
+        "script": "用Open仔仔替你发起原始人相关话题，精准匹配同好交流",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
-      "globalRank": 167
+      "globalRank": 166
     },
     {
       "id": "b2259079ddb2",
@@ -3869,16 +3846,16 @@ const TREND_DATA = {
       "category": "音乐热歌",
       "link": "https://www.bilibili.com/video/BV12Gs66XEwG",
       "duoshanScore": 80,
-      "idea": "用仔仔搭音乐会场景，仔仔翻唱理塘新曲《左肺右肺》：“沸羊羊，我肺痒痒！”并@好友仔仔来听",
+      "idea": "用取名大师给粉丝起理塘新曲《左肺右肺》：“沸羊羊，我肺痒痒！”相关的专属昵称",
       "brief": {
         "zaiZaiPlay": "在仔仔世界搭舞台场景，仔仔翻唱「理塘新曲《左肺右肺》：“沸羊羊，我肺痒痒！”」，邀请同好仔仔合唱",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争） + 取名大师（【文字】小火人玩文字梗，）",
         "circle": "圈层：音乐圈、追星圈",
         "event": "七夕/KOC通用",
-        "script": "用仔仔搭音乐会场景，仔仔翻唱理塘新曲《左肺右肺》：“沸羊羊，我肺痒痒！”并@好友仔仔来听",
+        "script": "用取名大师给粉丝起理塘新曲《左肺右肺》：“沸羊羊，我肺痒痒！”相关的专属昵称",
         "tags": "#多闪仔仔 #有多闪不孤单 #在多闪跨次元相遇 #多闪二次元相亲角"
       },
-      "globalRank": 168
+      "globalRank": 167
     },
     {
       "id": "76707594bb3a",
@@ -3892,16 +3869,16 @@ const TREND_DATA = {
       "category": "其他热点",
       "link": "https://www.bilibili.com/video/BV158sm6sEwd",
       "duoshanScore": 25,
-      "idea": "仔仔世界搭场景讨论BLG凭什么一穿四LCK夺冠？万字复盘BLG战胜GEN背后的原因！，让仔仔们各抒己见",
+      "idea": "TA啥意思：把BLG凭什么一穿四LCK夺冠？万字复盘BLG战胜GEN背后的原因！相关迷惑发言发给小火人解读",
       "brief": {
         "zaiZaiPlay": "在仔仔世界发起「BLG凭什么一穿四LCK夺冠？万字复盘BLG战胜GEN背后的原因！」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "用Open仔仔替你发起BLG凭什么一穿四LCK夺冠？万字复盘BLG战胜GEN背后的原因！相关话题，精准匹配同好交流",
+        "script": "仔仔世界搭场景讨论BLG凭什么一穿四LCK夺冠？万字复盘BLG战胜GEN背后的原因！，让仔仔们各抒己见",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
-      "globalRank": 169
+      "globalRank": 168
     },
     {
       "id": "213393669bc4",
@@ -3915,16 +3892,16 @@ const TREND_DATA = {
       "category": "其他热点",
       "link": "https://www.bilibili.com/video/BV1avsS6fEmf",
       "duoshanScore": 25,
-      "idea": "TA啥意思：把这个能未成年退款吗？相关迷惑发言发给小火人解读",
+      "idea": "用Open仔仔替你发起这个能未成年退款吗？相关话题，精准匹配同好交流",
       "brief": {
         "zaiZaiPlay": "在仔仔世界发起「这个能未成年退款吗？」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "仔仔世界搭场景讨论这个能未成年退款吗？，让仔仔们各抒己见",
+        "script": "TA啥意思：把这个能未成年退款吗？相关迷惑发言发给小火人解读",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
-      "globalRank": 170
+      "globalRank": 169
     },
     {
       "id": "a3e8ca6be878",
@@ -3938,16 +3915,16 @@ const TREND_DATA = {
       "category": "音乐热歌",
       "link": "https://www.bilibili.com/video/BV12MsK6tEV1",
       "duoshanScore": 80,
-      "idea": "畅聊晚自习发起「“他们没有任何血缘关系，但却拥有同一个妈妈.”【Scared play sacred place】【治愈...",
+      "idea": "用仔仔搭音乐会场景，仔仔翻唱“他们没有任何血缘关系，但却拥有同一个妈妈.”【Scared play sacred pla...",
       "brief": {
         "zaiZaiPlay": "在仔仔世界搭舞台场景，仔仔翻唱「“他们没有任何血缘关系，但却拥有同一个妈妈.”【Scared play sacred place】【治愈心灵の小曲】」，邀请同好仔仔合唱",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争） + 取名大师（【文字】小火人玩文字梗，）",
         "circle": "圈层：音乐圈、追星圈",
         "event": "七夕/KOC通用",
-        "script": "用取名大师给粉丝起“他们没有任何血缘关系，但却拥有同一个妈妈.”【Scared play sacred place】【治愈心灵の小曲】相关的专属昵称",
+        "script": "畅聊晚自习发起「“他们没有任何血缘关系，但却拥有同一个妈妈.”【Scared play sacred place】【治愈心灵の小曲】 vs XX 哪首更上头」话题，让小火人抬杠",
         "tags": "#多闪仔仔 #有多闪不孤单 #在多闪跨次元相遇 #多闪二次元相亲角"
       },
-      "globalRank": 171
+      "globalRank": 170
     },
     {
       "id": "56ec0c83d6df",
@@ -3961,16 +3938,16 @@ const TREND_DATA = {
       "category": "其他热点",
       "link": "https://www.bilibili.com/video/BV1DnsU6JE5j",
       "duoshanScore": 25,
-      "idea": "TA啥意思：把GTA6最快获得战斗机方法相关迷惑发言发给小火人解读",
+      "idea": "用Open仔仔替你发起GTA6最快获得战斗机方法相关话题，精准匹配同好交流",
       "brief": {
         "zaiZaiPlay": "在仔仔世界发起「GTA6最快获得战斗机方法」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "仔仔世界搭场景讨论GTA6最快获得战斗机方法，让仔仔们各抒己见",
+        "script": "用Open仔仔替你发起GTA6最快获得战斗机方法相关话题，精准匹配同好交流",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
-      "globalRank": 172
+      "globalRank": 171
     },
     {
       "id": "0aaf86c7afe0",
@@ -3990,10 +3967,10 @@ const TREND_DATA = {
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "仔仔世界搭场景讨论臣妾要告发熹贵妃不肯私通，让仔仔们各抒己见",
+        "script": "TA啥意思：把臣妾要告发熹贵妃不肯私通相关迷惑发言发给小火人解读",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
-      "globalRank": 173
+      "globalRank": 172
     },
     {
       "id": "dde9f4a0e284",
@@ -4013,10 +3990,10 @@ const TREND_DATA = {
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "TA啥意思：把《哈利波特与死亡火器》相关迷惑发言发给小火人解读",
+        "script": "仔仔世界搭场景讨论《哈利波特与死亡火器》，让仔仔们各抒己见",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
-      "globalRank": 174
+      "globalRank": 173
     },
     {
       "id": "ebf67ecbb4b7",
@@ -4039,7 +4016,7 @@ const TREND_DATA = {
         "script": "用Open仔仔替你发起\"人类为什么会许愿呢”相关话题，精准匹配同好交流",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
-      "globalRank": 175
+      "globalRank": 174
     },
     {
       "id": "ccf608fd8f2b",
@@ -4059,10 +4036,10 @@ const TREND_DATA = {
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "TA啥意思：把寒潮深入南下:广东等将下半年来最强湿冷,极度干燥后大范围雨雪将来相关迷惑发言发给小火人解读",
+        "script": "仔仔世界搭场景讨论寒潮深入南下:广东等将下半年来最强湿冷,极度干燥后大范围雨雪将来，让仔仔们各抒己见",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
-      "globalRank": 176
+      "globalRank": 175
     },
     {
       "id": "6a494ae22e63",
@@ -4076,16 +4053,16 @@ const TREND_DATA = {
       "category": "游戏电竞",
       "link": "https://www.bilibili.com/video/BV1cUsu6ZEYp",
       "duoshanScore": 55,
-      "idea": "用仔仔搭游戏场景，仔仔还原我们熟悉的那个3A游戏时代，可能真的结束了。【游戏之外】高光操作",
+      "idea": "畅聊晚自习发起游戏圈争议话题，让小火人加入抬杠",
       "brief": {
         "zaiZaiPlay": "在仔仔世界搭游戏场景，仔仔还原「我们熟悉的那个3A游戏时代，可能真的结束了。【游戏之外】」游戏高光",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：游戏圈、二次元",
         "event": "七夕/KOC通用",
-        "script": "畅聊晚自习发起游戏圈争议话题，让小火人加入抬杠",
+        "script": "用仔仔搭游戏场景，仔仔还原我们熟悉的那个3A游戏时代，可能真的结束了。【游戏之外】高光操作",
         "tags": "#多闪仔仔 #全员多闪qq人 #在多闪跨次元相遇 #多闪二次元相亲角"
       },
-      "globalRank": 177
+      "globalRank": 176
     },
     {
       "id": "e2af3286f630",
@@ -4099,16 +4076,16 @@ const TREND_DATA = {
       "category": "其他热点",
       "link": "https://www.bilibili.com/video/BV1pdsB61EBh",
       "duoshanScore": 25,
-      "idea": "仔仔世界搭场景讨论第一次当班主任，不烧心.，让仔仔们各抒己见",
+      "idea": "TA啥意思：把第一次当班主任，不烧心.相关迷惑发言发给小火人解读",
       "brief": {
         "zaiZaiPlay": "在仔仔世界发起「第一次当班主任，不烧心.」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "仔仔世界搭场景讨论第一次当班主任，不烧心.，让仔仔们各抒己见",
+        "script": "用Open仔仔替你发起第一次当班主任，不烧心.相关话题，精准匹配同好交流",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
-      "globalRank": 178
+      "globalRank": 177
     },
     {
       "id": "97815f745df9",
@@ -4122,7 +4099,7 @@ const TREND_DATA = {
       "category": "其他热点",
       "link": "https://www.bilibili.com/video/BV1rWs66LEJy",
       "duoshanScore": 25,
-      "idea": "TA啥意思：把Bin：鳄鱼，你怎么穿着格温的衣服！相关迷惑发言发给小火人解读",
+      "idea": "仔仔世界搭场景讨论Bin：鳄鱼，你怎么穿着格温的衣服！，让仔仔们各抒己见",
       "brief": {
         "zaiZaiPlay": "在仔仔世界发起「Bin：鳄鱼，你怎么穿着格温的衣服！」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
@@ -4131,7 +4108,7 @@ const TREND_DATA = {
         "script": "用Open仔仔替你发起Bin：鳄鱼，你怎么穿着格温的衣服！相关话题，精准匹配同好交流",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
-      "globalRank": 179
+      "globalRank": 178
     },
     {
       "id": "4d0fb9d8e386",
@@ -4145,7 +4122,7 @@ const TREND_DATA = {
       "category": "科技数码",
       "link": "https://www.bilibili.com/video/BV1N9sS62ERs",
       "duoshanScore": 40,
-      "idea": "畅聊晚自习发起「AI自制《我爱我家》续集，故事在2026年，还是那个味 A vs B 哪个更值得」话题讨论",
+      "idea": "取名大师给AI自制《我爱我家》续集，故事在2026年，还是那个味相关产品起搞笑昵称",
       "brief": {
         "zaiZaiPlay": "用仔仔世界展演「AI自制《我爱我家》续集，故事在2026年，还是那个味」相关内容，仔仔做科技解说",
         "skillBind": "技能：取名大师（【文字】小火人玩文字梗，）",
@@ -4154,7 +4131,7 @@ const TREND_DATA = {
         "script": "畅聊晚自习发起「AI自制《我爱我家》续集，故事在2026年，还是那个味 A vs B 哪个更值得」话题讨论",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
-      "globalRank": 180
+      "globalRank": 179
     },
     {
       "id": "9ca92f7b5dbf",
@@ -4174,10 +4151,10 @@ const TREND_DATA = {
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "TA啥意思：把蚌埠住的时候就抽出七匹狼相关迷惑发言发给小火人解读",
+        "script": "用Open仔仔替你发起蚌埠住的时候就抽出七匹狼相关话题，精准匹配同好交流",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
-      "globalRank": 181
+      "globalRank": 180
     },
     {
       "id": "abc40395acc7",
@@ -4197,10 +4174,10 @@ const TREND_DATA = {
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "用Open仔仔替你发起灭霸和复联一起玩求生之路毫不留情相关话题，精准匹配同好交流",
+        "script": "TA啥意思：把灭霸和复联一起玩求生之路毫不留情相关迷惑发言发给小火人解读",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
-      "globalRank": 182
+      "globalRank": 181
     },
     {
       "id": "a50ac538828a",
@@ -4214,7 +4191,7 @@ const TREND_DATA = {
       "category": "搞笑段子",
       "link": "https://www.bilibili.com/video/BV1uMsM6TEa5",
       "duoshanScore": 85,
-      "idea": "发起精灵法庭：「抽象新闻：11月人类迷惑行为大赏（中）里谁最离谱」，请小火人当庭审判",
+      "idea": "用「做个表情包」技能截取抽象新闻：11月人类迷惑行为大赏（中）最搞笑瞬间生成专属表情包",
       "brief": {
         "zaiZaiPlay": "用仔仔世界演绎「抽象新闻：11月人类迷惑行为大赏（中）」段子剧情，仔仔替你扮演搞笑角色",
         "skillBind": "技能：精灵法庭（【文字+生图】小火人审判） + 做个表情包（【生图】小火人识别图片+）",
@@ -4223,7 +4200,7 @@ const TREND_DATA = {
         "script": "用「做个表情包」技能截取抽象新闻：11月人类迷惑行为大赏（中）最搞笑瞬间生成专属表情包",
         "tags": "#多闪仔仔 #开拍吧多闪 #全员多闪qq人"
       },
-      "globalRank": 183
+      "globalRank": 182
     },
     {
       "id": "d91028b65aca",
@@ -4237,16 +4214,16 @@ const TREND_DATA = {
       "category": "其他热点",
       "link": "https://www.bilibili.com/video/BV1QQs26nEB3",
       "duoshanScore": 25,
-      "idea": "用Open仔仔替你发起大事件五相关话题，精准匹配同好交流",
+      "idea": "仔仔世界搭场景讨论大事件五，让仔仔们各抒己见",
       "brief": {
         "zaiZaiPlay": "在仔仔世界发起「大事件五」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "TA啥意思：把大事件五相关迷惑发言发给小火人解读",
+        "script": "仔仔世界搭场景讨论大事件五，让仔仔们各抒己见",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
-      "globalRank": 184
+      "globalRank": 183
     },
     {
       "id": "dc67514d08d1",
@@ -4260,16 +4237,16 @@ const TREND_DATA = {
       "category": "其他热点",
       "link": "https://www.bilibili.com/video/BV1b2sK6aEJ9",
       "duoshanScore": 25,
-      "idea": "用Open仔仔替你发起《最礼乐崩坏の一集》相关话题，精准匹配同好交流",
+      "idea": "仔仔世界搭场景讨论《最礼乐崩坏の一集》，让仔仔们各抒己见",
       "brief": {
         "zaiZaiPlay": "在仔仔世界发起「《最礼乐崩坏の一集》」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "TA啥意思：把《最礼乐崩坏の一集》相关迷惑发言发给小火人解读",
+        "script": "用Open仔仔替你发起《最礼乐崩坏の一集》相关话题，精准匹配同好交流",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
-      "globalRank": 185
+      "globalRank": 184
     },
     {
       "id": "dbddd6e9af1d",
@@ -4289,10 +4266,10 @@ const TREND_DATA = {
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "TA啥意思：把带拐去旅行，我要自立自强，自强不息，今天去搞鱼相关迷惑发言发给小火人解读",
+        "script": "仔仔世界搭场景讨论带拐去旅行，我要自立自强，自强不息，今天去搞鱼，让仔仔们各抒己见",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
-      "globalRank": 186
+      "globalRank": 185
     },
     {
       "id": "c802531dd332",
@@ -4306,16 +4283,16 @@ const TREND_DATA = {
       "category": "其他热点",
       "link": "https://www.bilibili.com/video/BV1mdWf6GEnF",
       "duoshanScore": 25,
-      "idea": "TA啥意思：把大牙|| 肖8选择题精讲带背（第一套卷），全网讲解最清晰，专治零基础！相关迷惑发言发给小火人解读",
+      "idea": "仔仔世界搭场景讨论大牙|| 肖8选择题精讲带背（第一套卷），全网讲解最清晰，专治零基础！，让仔仔们各抒己见",
       "brief": {
         "zaiZaiPlay": "在仔仔世界发起「大牙|| 肖8选择题精讲带背（第一套卷），全网讲解最清晰，专治零基础！」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "TA啥意思：把大牙|| 肖8选择题精讲带背（第一套卷），全网讲解最清晰，专治零基础！相关迷惑发言发给小火人解读",
+        "script": "仔仔世界搭场景讨论大牙|| 肖8选择题精讲带背（第一套卷），全网讲解最清晰，专治零基础！，让仔仔们各抒己见",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
-      "globalRank": 187
+      "globalRank": 186
     },
     {
       "id": "46169a4910ae",
@@ -4329,7 +4306,7 @@ const TREND_DATA = {
       "category": "其他热点",
       "link": "https://www.bilibili.com/video/BV1YvsB6FER9",
       "duoshanScore": 25,
-      "idea": "用Open仔仔替你发起「幽明志」幽城残梦相关话题，精准匹配同好交流",
+      "idea": "仔仔世界搭场景讨论「幽明志」幽城残梦，让仔仔们各抒己见",
       "brief": {
         "zaiZaiPlay": "在仔仔世界发起「「幽明志」幽城残梦」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
@@ -4338,7 +4315,7 @@ const TREND_DATA = {
         "script": "仔仔世界搭场景讨论「幽明志」幽城残梦，让仔仔们各抒己见",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
-      "globalRank": 188
+      "globalRank": 187
     },
     {
       "id": "b86f12c2bcf3",
@@ -4352,16 +4329,16 @@ const TREND_DATA = {
       "category": "其他热点",
       "link": "https://www.bilibili.com/video/BV1wQs16aEF3",
       "duoshanScore": 25,
-      "idea": "用Open仔仔替你发起梁圣带大肥鱼们去吃自助相关话题，精准匹配同好交流",
+      "idea": "TA啥意思：把梁圣带大肥鱼们去吃自助相关迷惑发言发给小火人解读",
       "brief": {
         "zaiZaiPlay": "在仔仔世界发起「梁圣带大肥鱼们去吃自助」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "用Open仔仔替你发起梁圣带大肥鱼们去吃自助相关话题，精准匹配同好交流",
+        "script": "仔仔世界搭场景讨论梁圣带大肥鱼们去吃自助，让仔仔们各抒己见",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
-      "globalRank": 189
+      "globalRank": 188
     },
     {
       "id": "004c5f5001e5",
@@ -4375,16 +4352,16 @@ const TREND_DATA = {
       "category": "科技数码",
       "link": "https://www.bilibili.com/video/BV1NTsP6HERZ",
       "duoshanScore": 40,
-      "idea": "畅聊晚自习发起「当女V跟男V约会 【AI全民制作人】 A vs B 哪个更值得」话题讨论",
+      "idea": "用仔仔搭科技发布会场景，仔仔介绍当女V跟男V约会 【AI全民制作人】相关内容",
       "brief": {
         "zaiZaiPlay": "用仔仔世界展演「当女V跟男V约会 【AI全民制作人】」相关内容，仔仔做科技解说",
         "skillBind": "技能：取名大师（【文字】小火人玩文字梗，）",
         "circle": "圈层：科技圈、数码圈",
         "event": "KOC通用",
-        "script": "取名大师给当女V跟男V约会 【AI全民制作人】相关产品起搞笑昵称",
+        "script": "用仔仔搭科技发布会场景，仔仔介绍当女V跟男V约会 【AI全民制作人】相关内容",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
-      "globalRank": 190
+      "globalRank": 189
     },
     {
       "id": "f89334be1f54",
@@ -4398,16 +4375,16 @@ const TREND_DATA = {
       "category": "其他热点",
       "link": "https://www.bilibili.com/video/BV1Aqsz6mEX6",
       "duoshanScore": 25,
-      "idea": "仔仔世界搭场景讨论闯入《寻梦环游记》的世界，墓地蹦迪，亡灵大游行，跨越生死的重逢…，让仔仔们各抒己见",
+      "idea": "用Open仔仔替你发起闯入《寻梦环游记》的世界，墓地蹦迪，亡灵大游行，跨越生死的重逢…相关话题，精准匹配同好交流",
       "brief": {
         "zaiZaiPlay": "在仔仔世界发起「闯入《寻梦环游记》的世界，墓地蹦迪，亡灵大游行，跨越生死的重逢…」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "TA啥意思：把闯入《寻梦环游记》的世界，墓地蹦迪，亡灵大游行，跨越生死的重逢…相关迷惑发言发给小火人解读",
+        "script": "用Open仔仔替你发起闯入《寻梦环游记》的世界，墓地蹦迪，亡灵大游行，跨越生死的重逢…相关话题，精准匹配同好交流",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
-      "globalRank": 191
+      "globalRank": 190
     },
     {
       "id": "9a18b4b0b984",
@@ -4421,7 +4398,7 @@ const TREND_DATA = {
       "category": "科技数码",
       "link": "https://www.bilibili.com/video/BV1g4sr6AEU5",
       "duoshanScore": 40,
-      "idea": "取名大师给「第一人称」真实的《西游记》有多恐怖？你一觉醒来变成了唐僧，你还敢继续取经吗？【AI全民制作人】相关产品起搞笑...",
+      "idea": "用仔仔搭科技发布会场景，仔仔介绍「第一人称」真实的《西游记》有多恐怖？你一觉醒来变成了唐僧，你还敢继续取经吗？【AI全民...",
       "brief": {
         "zaiZaiPlay": "用仔仔世界展演「「第一人称」真实的《西游记》有多恐怖？你一觉醒来变成了唐僧，你还敢继续取经吗？【AI全民制作人】」相关内容，仔仔做科技解说",
         "skillBind": "技能：取名大师（【文字】小火人玩文字梗，）",
@@ -4430,7 +4407,7 @@ const TREND_DATA = {
         "script": "取名大师给「第一人称」真实的《西游记》有多恐怖？你一觉醒来变成了唐僧，你还敢继续取经吗？【AI全民制作人】相关产品起搞笑昵称",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
-      "globalRank": 192
+      "globalRank": 191
     },
     {
       "id": "4ccc2b8797cf",
@@ -4444,7 +4421,7 @@ const TREND_DATA = {
       "category": "其他热点",
       "link": "https://www.bilibili.com/video/BV1jUsU6wEHa",
       "duoshanScore": 25,
-      "idea": "仔仔世界搭场景讨论困难靶27/30 donk首次打瓦试玩狐狸套，让仔仔们各抒己见",
+      "idea": "用Open仔仔替你发起困难靶27/30 donk首次打瓦试玩狐狸套相关话题，精准匹配同好交流",
       "brief": {
         "zaiZaiPlay": "在仔仔世界发起「困难靶27/30 donk首次打瓦试玩狐狸套」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
@@ -4453,7 +4430,7 @@ const TREND_DATA = {
         "script": "TA啥意思：把困难靶27/30 donk首次打瓦试玩狐狸套相关迷惑发言发给小火人解读",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
-      "globalRank": 193
+      "globalRank": 192
     },
     {
       "id": "70d743e09d5e",
@@ -4467,16 +4444,16 @@ const TREND_DATA = {
       "category": "其他热点",
       "link": "https://www.bilibili.com/video/BV1wasc6qEjc",
       "duoshanScore": 25,
-      "idea": "仔仔世界搭场景讨论GTA6真人版！欢迎来到真正的罪恶都市-迈阿密！！，让仔仔们各抒己见",
+      "idea": "TA啥意思：把GTA6真人版！欢迎来到真正的罪恶都市-迈阿密！！相关迷惑发言发给小火人解读",
       "brief": {
         "zaiZaiPlay": "在仔仔世界发起「GTA6真人版！欢迎来到真正的罪恶都市-迈阿密！！」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "用Open仔仔替你发起GTA6真人版！欢迎来到真正的罪恶都市-迈阿密！！相关话题，精准匹配同好交流",
+        "script": "TA啥意思：把GTA6真人版！欢迎来到真正的罪恶都市-迈阿密！！相关迷惑发言发给小火人解读",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
-      "globalRank": 194
+      "globalRank": 193
     },
     {
       "id": "e1863ea93ea3",
@@ -4490,16 +4467,16 @@ const TREND_DATA = {
       "category": "游戏电竞",
       "link": "https://www.bilibili.com/video/BV1d4sm64Etk",
       "duoshanScore": 55,
-      "idea": "用做个表情包把南方人做末日游戏belike：游戏梗图做成仔仔表情包",
+      "idea": "用仔仔搭游戏场景，仔仔还原南方人做末日游戏belike：高光操作",
       "brief": {
         "zaiZaiPlay": "在仔仔世界搭游戏场景，仔仔还原「南方人做末日游戏belike：」游戏高光",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：游戏圈、二次元",
         "event": "七夕/KOC通用",
-        "script": "用仔仔搭游戏场景，仔仔还原南方人做末日游戏belike：高光操作",
+        "script": "用做个表情包把南方人做末日游戏belike：游戏梗图做成仔仔表情包",
         "tags": "#多闪仔仔 #全员多闪qq人 #在多闪跨次元相遇 #多闪二次元相亲角"
       },
-      "globalRank": 195
+      "globalRank": 194
     },
     {
       "id": "af04ddedb39d",
@@ -4513,16 +4490,16 @@ const TREND_DATA = {
       "category": "其他热点",
       "link": "https://www.bilibili.com/video/BV1kYsW6NE6E",
       "duoshanScore": 25,
-      "idea": "用Open仔仔替你发起EUV光刻机 | \"上帝的手术刀\"相关话题，精准匹配同好交流",
+      "idea": "TA啥意思：把EUV光刻机 | \"上帝的手术刀\"相关迷惑发言发给小火人解读",
       "brief": {
         "zaiZaiPlay": "在仔仔世界发起「EUV光刻机 | \"上帝的手术刀\"」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "TA啥意思：把EUV光刻机 | \"上帝的手术刀\"相关迷惑发言发给小火人解读",
+        "script": "仔仔世界搭场景讨论EUV光刻机 | \"上帝的手术刀\"，让仔仔们各抒己见",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
-      "globalRank": 196
+      "globalRank": 195
     },
     {
       "id": "d926f95305a0",
@@ -4536,7 +4513,7 @@ const TREND_DATA = {
       "category": "其他热点",
       "link": "https://www.bilibili.com/video/BV15osT6yEgQ",
       "duoshanScore": 25,
-      "idea": "用Open仔仔替你发起打工人开豪车上班，老板娘要来家访…相关话题，精准匹配同好交流",
+      "idea": "TA啥意思：把打工人开豪车上班，老板娘要来家访…相关迷惑发言发给小火人解读",
       "brief": {
         "zaiZaiPlay": "在仔仔世界发起「打工人开豪车上班，老板娘要来家访…」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
@@ -4545,7 +4522,7 @@ const TREND_DATA = {
         "script": "用Open仔仔替你发起打工人开豪车上班，老板娘要来家访…相关话题，精准匹配同好交流",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
-      "globalRank": 197
+      "globalRank": 196
     },
     {
       "id": "b93f9902cf18",
@@ -4565,10 +4542,10 @@ const TREND_DATA = {
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "TA啥意思：把阉割太子，画地为牢，文化人的含金量还在上升！后会友期 | 兰香如故 | 嫁金钗相关迷惑发言发给小火人解读",
+        "script": "用Open仔仔替你发起阉割太子，画地为牢，文化人的含金量还在上升！后会友期 | 兰香如故 | 嫁金钗相关话题，精准匹配同好交流",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
-      "globalRank": 198
+      "globalRank": 197
     },
     {
       "id": "5963afa4c156",
@@ -4582,16 +4559,16 @@ const TREND_DATA = {
       "category": "其他热点",
       "link": "https://www.bilibili.com/video/BV1Mtsz69ETg",
       "duoshanScore": 25,
-      "idea": "仔仔世界搭场景讨论芜湖一小区工人高空作业时，安全绳被住户割断，物业：监控拍到系5楼住户所为，内嵌的钢丝都断了，警方已介入...",
+      "idea": "TA啥意思：把芜湖一小区工人高空作业时，安全绳被住户割断，物业：监控拍到系5楼住户所为，内嵌的钢丝都断了，警方已介入相关...",
       "brief": {
         "zaiZaiPlay": "在仔仔世界发起「芜湖一小区工人高空作业时，安全绳被住户割断，物业：监控拍到系5楼住户所为，内嵌的钢丝都断了，警方已介入」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "仔仔世界搭场景讨论芜湖一小区工人高空作业时，安全绳被住户割断，物业：监控拍到系5楼住户所为，内嵌的钢丝都断了，警方已介入，让仔仔们各抒己见",
+        "script": "TA啥意思：把芜湖一小区工人高空作业时，安全绳被住户割断，物业：监控拍到系5楼住户所为，内嵌的钢丝都断了，警方已介入相关迷惑发言发给小火人解读",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
-      "globalRank": 199
+      "globalRank": 198
     },
     {
       "id": "3c2531a96e10",
@@ -4605,16 +4582,16 @@ const TREND_DATA = {
       "category": "其他热点",
       "link": "https://www.bilibili.com/video/BV1RNs26QEsC",
       "duoshanScore": 25,
-      "idea": "仔仔世界搭场景讨论大肥鱼：你看我像串子吗？，让仔仔们各抒己见",
+      "idea": "用Open仔仔替你发起大肥鱼：你看我像串子吗？相关话题，精准匹配同好交流",
       "brief": {
         "zaiZaiPlay": "在仔仔世界发起「大肥鱼：你看我像串子吗？」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "TA啥意思：把大肥鱼：你看我像串子吗？相关迷惑发言发给小火人解读",
+        "script": "仔仔世界搭场景讨论大肥鱼：你看我像串子吗？，让仔仔们各抒己见",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
-      "globalRank": 200
+      "globalRank": 199
     },
     {
       "id": "e9f310689b74",
@@ -4634,10 +4611,10 @@ const TREND_DATA = {
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "用Open仔仔替你发起俄宇航院士锐评：再不出铁拳太空垃圾要无法无天了相关话题，精准匹配同好交流",
+        "script": "仔仔世界搭场景讨论俄宇航院士锐评：再不出铁拳太空垃圾要无法无天了，让仔仔们各抒己见",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
-      "globalRank": 201
+      "globalRank": 200
     },
     {
       "id": "0ce8dbc5987b",
@@ -4651,7 +4628,7 @@ const TREND_DATA = {
       "category": "其他热点",
       "link": "https://www.bilibili.com/video/BV1JNsr67EbT",
       "duoshanScore": 25,
-      "idea": "TA啥意思：把【BLG冠军麦克风】这一刻，我们是世界冠军！相关迷惑发言发给小火人解读",
+      "idea": "仔仔世界搭场景讨论【BLG冠军麦克风】这一刻，我们是世界冠军！，让仔仔们各抒己见",
       "brief": {
         "zaiZaiPlay": "在仔仔世界发起「【BLG冠军麦克风】这一刻，我们是世界冠军！」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
@@ -4660,7 +4637,7 @@ const TREND_DATA = {
         "script": "仔仔世界搭场景讨论【BLG冠军麦克风】这一刻，我们是世界冠军！，让仔仔们各抒己见",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
-      "globalRank": 202
+      "globalRank": 201
     },
     {
       "id": "b7f372e88d3f",
@@ -4674,7 +4651,7 @@ const TREND_DATA = {
       "category": "其他热点",
       "link": "https://www.bilibili.com/video/BV1VBs76qE16",
       "duoshanScore": 25,
-      "idea": "用Open仔仔替你发起“46块3，问清一条规则。”相关话题，精准匹配同好交流",
+      "idea": "仔仔世界搭场景讨论“46块3，问清一条规则。”，让仔仔们各抒己见",
       "brief": {
         "zaiZaiPlay": "在仔仔世界发起「“46块3，问清一条规则。”」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
@@ -4683,7 +4660,7 @@ const TREND_DATA = {
         "script": "用Open仔仔替你发起“46块3，问清一条规则。”相关话题，精准匹配同好交流",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
-      "globalRank": 203
+      "globalRank": 202
     },
     {
       "id": "8b8cc0ab84fe",
@@ -4697,7 +4674,7 @@ const TREND_DATA = {
       "category": "其他热点",
       "link": "https://www.bilibili.com/video/BV1FmsD66EVJ",
       "duoshanScore": 25,
-      "idea": "用Open仔仔替你发起雌雄大盗横空出世！GTA6到底讲了啥？？全网最快剧情解说！【一】相关话题，精准匹配同好交流",
+      "idea": "仔仔世界搭场景讨论雌雄大盗横空出世！GTA6到底讲了啥？？全网最快剧情解说！【一】，让仔仔们各抒己见",
       "brief": {
         "zaiZaiPlay": "在仔仔世界发起「雌雄大盗横空出世！GTA6到底讲了啥？？全网最快剧情解说！【一】」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
@@ -4706,7 +4683,7 @@ const TREND_DATA = {
         "script": "用Open仔仔替你发起雌雄大盗横空出世！GTA6到底讲了啥？？全网最快剧情解说！【一】相关话题，精准匹配同好交流",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
-      "globalRank": 204
+      "globalRank": 203
     },
     {
       "id": "268685de0047",
@@ -4726,10 +4703,10 @@ const TREND_DATA = {
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "仔仔世界搭场景讨论🧠最强健三角洲玩家大脑的一集🧠，让仔仔们各抒己见",
+        "script": "用Open仔仔替你发起🧠最强健三角洲玩家大脑的一集🧠相关话题，精准匹配同好交流",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
-      "globalRank": 205
+      "globalRank": 204
     },
     {
       "id": "8c9c7c0bba54",
@@ -4743,16 +4720,16 @@ const TREND_DATA = {
       "category": "生活日常",
       "link": "https://www.bilibili.com/video/BV1KSsS6JEkr",
       "duoshanScore": 70,
-      "idea": "用仔仔还原当美院人玩涂鸦躲猫猫真人版 2.0日常场景，仔仔陪你打卡生活仪式感",
+      "idea": "今日塔罗：出门前让小火人抽牌看当美院人玩涂鸦躲猫猫真人版 2.0是否适合今天尝试",
       "brief": {
         "zaiZaiPlay": "在仔仔世界复刻「当美院人玩涂鸦躲猫猫真人版 2.0」生活场景，仔仔替你记录日常",
         "skillBind": "技能：今日塔罗（【文字+生图】小火人抽塔） + 做个表情包（【生图】小火人识别图片+）",
         "circle": "圈层：生活圈、校园圈",
         "event": "七夕/精灵学院/KOC通用",
-        "script": "用做个表情包把当美院人玩涂鸦躲猫猫真人版 2.0相关日常做成仔仔版表情包发动态",
+        "script": "用仔仔还原当美院人玩涂鸦躲猫猫真人版 2.0日常场景，仔仔陪你打卡生活仪式感",
         "tags": "#多闪仔仔 #有多闪不孤单 #多闪二次元相亲角 #在多闪遇到正缘了"
       },
-      "globalRank": 206
+      "globalRank": 205
     },
     {
       "id": "5bbdba9b404f",
@@ -4766,16 +4743,16 @@ const TREND_DATA = {
       "category": "其他热点",
       "link": "https://www.bilibili.com/video/BV1TmsS6DE7X",
       "duoshanScore": 25,
-      "idea": "TA啥意思：把和表情包恋爱的条件是……相关迷惑发言发给小火人解读",
+      "idea": "仔仔世界搭场景讨论和表情包恋爱的条件是……，让仔仔们各抒己见",
       "brief": {
         "zaiZaiPlay": "在仔仔世界发起「和表情包恋爱的条件是……」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "七夕",
-        "script": "仔仔世界搭场景讨论和表情包恋爱的条件是……，让仔仔们各抒己见",
+        "script": "用Open仔仔替你发起和表情包恋爱的条件是……相关话题，精准匹配同好交流",
         "tags": "#多闪仔仔 #有多闪不孤单 #多闪二次元相亲角 #在多闪遇到正缘了"
       },
-      "globalRank": 207
+      "globalRank": 206
     },
     {
       "id": "0bc969931a7e",
@@ -4795,10 +4772,10 @@ const TREND_DATA = {
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "七夕",
-        "script": "TA啥意思：把这个恋爱非谈不可吗 3.0相关迷惑发言发给小火人解读",
+        "script": "仔仔世界搭场景讨论这个恋爱非谈不可吗 3.0，让仔仔们各抒己见",
         "tags": "#多闪仔仔 #有多闪不孤单 #多闪二次元相亲角 #在多闪遇到正缘了"
       },
-      "globalRank": 208
+      "globalRank": 207
     },
     {
       "id": "fefbdadcced7",
@@ -4821,7 +4798,7 @@ const TREND_DATA = {
         "script": "TA啥意思：把✂️BLG vs GEN🪶（S16决赛篇）相关迷惑发言发给小火人解读",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
-      "globalRank": 209
+      "globalRank": 208
     },
     {
       "id": "2d8e87f9b22f",
@@ -4835,16 +4812,16 @@ const TREND_DATA = {
       "category": "科技数码",
       "link": "https://www.bilibili.com/video/BV1PCsC6FEeD",
       "duoshanScore": 40,
-      "idea": "畅聊晚自习发起「家养ai太花token了（1-5合集） A vs B 哪个更值得」话题讨论",
+      "idea": "用仔仔搭科技发布会场景，仔仔介绍家养ai太花token了（1-5合集）相关内容",
       "brief": {
         "zaiZaiPlay": "用仔仔世界展演「家养ai太花token了（1-5合集）」相关内容，仔仔做科技解说",
         "skillBind": "技能：取名大师（【文字】小火人玩文字梗，）",
         "circle": "圈层：科技圈、数码圈",
         "event": "KOC通用",
-        "script": "用仔仔搭科技发布会场景，仔仔介绍家养ai太花token了（1-5合集）相关内容",
+        "script": "畅聊晚自习发起「家养ai太花token了（1-5合集） A vs B 哪个更值得」话题讨论",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
-      "globalRank": 210
+      "globalRank": 209
     },
     {
       "id": "1fbed14acd9f",
@@ -4858,16 +4835,16 @@ const TREND_DATA = {
       "category": "游戏电竞",
       "link": "https://www.bilibili.com/video/BV1Kys16TEs5",
       "duoshanScore": 55,
-      "idea": "用仔仔搭游戏场景，仔仔还原【3万字GTA5终极拆解】13年前的游戏史奇迹，凭什么狂卖2.3亿份？万字拆解《GTA》全系列...",
+      "idea": "畅聊晚自习发起游戏圈争议话题，让小火人加入抬杠",
       "brief": {
         "zaiZaiPlay": "在仔仔世界搭游戏场景，仔仔还原「【3万字GTA5终极拆解】13年前的游戏史奇迹，凭什么狂卖2.3亿份？万字拆解《GTA》全系列【第四期】」游戏高光",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：游戏圈、二次元",
         "event": "七夕/KOC通用",
-        "script": "用做个表情包把【3万字GTA5终极拆解】13年前的游戏史奇迹，凭什么狂卖2.3亿份？万字拆解《GTA》全系列【第四期】游戏梗图做成仔仔表情包",
+        "script": "用仔仔搭游戏场景，仔仔还原【3万字GTA5终极拆解】13年前的游戏史奇迹，凭什么狂卖2.3亿份？万字拆解《GTA》全系列【第四期】高光操作",
         "tags": "#多闪仔仔 #全员多闪qq人 #在多闪跨次元相遇 #多闪二次元相亲角"
       },
-      "globalRank": 211
+      "globalRank": 210
     },
     {
       "id": "750512f49717",
@@ -4887,10 +4864,10 @@ const TREND_DATA = {
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "用Open仔仔替你发起黑白大战，彻底疯狂！骗了五个亿，注定失败的终极豪赌！万字细嗦《谷雨》第十三期 包含；剧情、细节、镜头语言、人性解析等相关话题，精准匹配同好交流",
+        "script": "TA啥意思：把黑白大战，彻底疯狂！骗了五个亿，注定失败的终极豪赌！万字细嗦《谷雨》第十三期 包含；剧情、细节、镜头语言、人性解析等相关迷惑发言发给小火人解读",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
-      "globalRank": 212
+      "globalRank": 211
     },
     {
       "id": "64fb6e83865d",
@@ -4913,7 +4890,7 @@ const TREND_DATA = {
         "script": "TA啥意思：把高风险，风险高。相关迷惑发言发给小火人解读",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
-      "globalRank": 213
+      "globalRank": 212
     },
     {
       "id": "e8f4d7f11537",
@@ -4927,16 +4904,16 @@ const TREND_DATA = {
       "category": "游戏电竞",
       "link": "https://www.bilibili.com/video/BV1KgsP6JEKn",
       "duoshanScore": 55,
-      "idea": "用做个表情包把Bin：格温，到底我的冠军皮肤选不选你啊！游戏梗图做成仔仔表情包",
+      "idea": "畅聊晚自习发起游戏圈争议话题，让小火人加入抬杠",
       "brief": {
         "zaiZaiPlay": "在仔仔世界搭游戏场景，仔仔还原「Bin：格温，到底我的冠军皮肤选不选你啊！」游戏高光",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：游戏圈、二次元",
         "event": "七夕/KOC通用",
-        "script": "用仔仔搭游戏场景，仔仔还原Bin：格温，到底我的冠军皮肤选不选你啊！高光操作",
+        "script": "畅聊晚自习发起游戏圈争议话题，让小火人加入抬杠",
         "tags": "#多闪仔仔 #全员多闪qq人 #在多闪跨次元相遇 #多闪二次元相亲角"
       },
-      "globalRank": 214
+      "globalRank": 213
     },
     {
       "id": "663b5f50a6c5",
@@ -4956,10 +4933,10 @@ const TREND_DATA = {
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "TA啥意思：把【邓肯】恐怖的恶魔杨树彬事件！相关迷惑发言发给小火人解读",
+        "script": "仔仔世界搭场景讨论【邓肯】恐怖的恶魔杨树彬事件！，让仔仔们各抒己见",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
-      "globalRank": 215
+      "globalRank": 214
     },
     {
       "id": "b88a6a71e017",
@@ -4973,16 +4950,16 @@ const TREND_DATA = {
       "category": "音乐热歌",
       "link": "https://www.bilibili.com/video/BV1N1s16iEry",
       "duoshanScore": 80,
-      "idea": "畅聊晚自习发起「《遗忘之海》第三赛季更新前瞻PV「旧日序曲」 vs XX 哪首更上头」话题，让小火人抬杠",
+      "idea": "用仔仔搭音乐会场景，仔仔翻唱《遗忘之海》第三赛季更新前瞻PV「旧日序曲」并@好友仔仔来听",
       "brief": {
         "zaiZaiPlay": "在仔仔世界搭舞台场景，仔仔翻唱「《遗忘之海》第三赛季更新前瞻PV「旧日序曲」」，邀请同好仔仔合唱",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争） + 取名大师（【文字】小火人玩文字梗，）",
         "circle": "圈层：音乐圈、追星圈",
         "event": "七夕/KOC通用",
-        "script": "用取名大师给粉丝起《遗忘之海》第三赛季更新前瞻PV「旧日序曲」相关的专属昵称",
+        "script": "用仔仔搭音乐会场景，仔仔翻唱《遗忘之海》第三赛季更新前瞻PV「旧日序曲」并@好友仔仔来听",
         "tags": "#多闪仔仔 #有多闪不孤单 #在多闪跨次元相遇 #多闪二次元相亲角"
       },
-      "globalRank": 216
+      "globalRank": 215
     },
     {
       "id": "271481dc5818",
@@ -4996,16 +4973,16 @@ const TREND_DATA = {
       "category": "其他热点",
       "link": "https://www.bilibili.com/video/BV1CYsA6yEWF",
       "duoshanScore": 25,
-      "idea": "仔仔世界搭场景讨论被控一下就死了，把我一个射手逼的都买炽热支配者了，让仔仔们各抒己见",
+      "idea": "TA啥意思：把被控一下就死了，把我一个射手逼的都买炽热支配者了相关迷惑发言发给小火人解读",
       "brief": {
         "zaiZaiPlay": "在仔仔世界发起「被控一下就死了，把我一个射手逼的都买炽热支配者了」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "TA啥意思：把被控一下就死了，把我一个射手逼的都买炽热支配者了相关迷惑发言发给小火人解读",
+        "script": "仔仔世界搭场景讨论被控一下就死了，把我一个射手逼的都买炽热支配者了，让仔仔们各抒己见",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
-      "globalRank": 217
+      "globalRank": 216
     },
     {
       "id": "a562ad70785a",
@@ -5019,7 +4996,7 @@ const TREND_DATA = {
       "category": "其他热点",
       "link": "https://www.bilibili.com/video/BV1sSsm6rExY",
       "duoshanScore": 25,
-      "idea": "TA啥意思：把MUST STOP 【手搓动画大赛】相关迷惑发言发给小火人解读",
+      "idea": "用Open仔仔替你发起MUST STOP 【手搓动画大赛】相关话题，精准匹配同好交流",
       "brief": {
         "zaiZaiPlay": "在仔仔世界发起「MUST STOP 【手搓动画大赛】」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
@@ -5028,7 +5005,7 @@ const TREND_DATA = {
         "script": "用Open仔仔替你发起MUST STOP 【手搓动画大赛】相关话题，精准匹配同好交流",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
-      "globalRank": 218
+      "globalRank": 217
     },
     {
       "id": "6ae436acc82a",
@@ -5042,16 +5019,16 @@ const TREND_DATA = {
       "category": "科技数码",
       "link": "https://www.bilibili.com/video/BV1Gysk66Emf",
       "duoshanScore": 40,
-      "idea": "取名大师给超越i18！恐惧博士对阵100T成功研发i20芯片！来自fnatic的研发新星!相关产品起搞笑昵称",
+      "idea": "畅聊晚自习发起「超越i18！恐惧博士对阵100T成功研发i20芯片！来自fnatic的研发新星! A vs B 哪个更值...",
       "brief": {
         "zaiZaiPlay": "用仔仔世界展演「超越i18！恐惧博士对阵100T成功研发i20芯片！来自fnatic的研发新星!」相关内容，仔仔做科技解说",
         "skillBind": "技能：取名大师（【文字】小火人玩文字梗，）",
         "circle": "圈层：科技圈、数码圈",
         "event": "KOC通用",
-        "script": "畅聊晚自习发起「超越i18！恐惧博士对阵100T成功研发i20芯片！来自fnatic的研发新星! A vs B 哪个更值得」话题讨论",
+        "script": "取名大师给超越i18！恐惧博士对阵100T成功研发i20芯片！来自fnatic的研发新星!相关产品起搞笑昵称",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
-      "globalRank": 219
+      "globalRank": 218
     },
     {
       "id": "5161b271ccd1",
@@ -5065,16 +5042,16 @@ const TREND_DATA = {
       "category": "其他热点",
       "link": "https://www.bilibili.com/video/BV1rksz65ERk",
       "duoshanScore": 30,
-      "idea": "用Open仔仔替你发起鬼畜区天下第一好相关话题，精准匹配同好交流",
+      "idea": "仔仔世界搭场景讨论鬼畜区天下第一好，让仔仔们各抒己见",
       "brief": {
         "zaiZaiPlay": "在仔仔世界发起「鬼畜区天下第一好」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "TA啥意思：把鬼畜区天下第一好相关迷惑发言发给小火人解读",
+        "script": "仔仔世界搭场景讨论鬼畜区天下第一好，让仔仔们各抒己见",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
-      "globalRank": 220
+      "globalRank": 219
     },
     {
       "id": "d9168c5d931c",
@@ -5094,10 +5071,10 @@ const TREND_DATA = {
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "仔仔世界搭场景讨论中俄美三国元首历史上首次面对面会晤，有哪些意义？为何会选在这个时间点？，让仔仔们各抒己见",
+        "script": "用Open仔仔替你发起中俄美三国元首历史上首次面对面会晤，有哪些意义？为何会选在这个时间点？相关话题，精准匹配同好交流",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
-      "globalRank": 221
+      "globalRank": 220
     },
     {
       "id": "ebfa8803811b",
@@ -5111,7 +5088,7 @@ const TREND_DATA = {
       "category": "其他热点",
       "link": "https://www.zhihu.com/question/2106047811234030236",
       "duoshanScore": 25,
-      "idea": "用Open仔仔替你发起女子在盒马下单四百多次全部申请仅退款，称「刺激解压」，明知不光彩还是忍不住下单，如何从心理学角度解...",
+      "idea": "TA啥意思：把女子在盒马下单四百多次全部申请仅退款，称「刺激解压」，明知不光彩还是忍不住下单，如何从心理学角度解读？相关...",
       "brief": {
         "zaiZaiPlay": "在仔仔世界发起「女子在盒马下单四百多次全部申请仅退款，称「刺激解压」，明知不光彩还是忍不住下单，如何从心理学角度解读？」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
@@ -5120,7 +5097,7 @@ const TREND_DATA = {
         "script": "仔仔世界搭场景讨论女子在盒马下单四百多次全部申请仅退款，称「刺激解压」，明知不光彩还是忍不住下单，如何从心理学角度解读？，让仔仔们各抒己见",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
-      "globalRank": 222
+      "globalRank": 221
     },
     {
       "id": "a811a3389381",
@@ -5140,10 +5117,10 @@ const TREND_DATA = {
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "TA啥意思：把APEC工商领导人峰会开始，曾毓群、李彦宏、王兴兴、王传福、雷军、董明珠等参会，有哪些看点值得关注？相关迷惑发言发给小火人解读",
+        "script": "用Open仔仔替你发起APEC工商领导人峰会开始，曾毓群、李彦宏、王兴兴、王传福、雷军、董明珠等参会，有哪些看点值得关注？相关话题，精准匹配同好交流",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
-      "globalRank": 223
+      "globalRank": 222
     },
     {
       "id": "60c29567294e",
@@ -5166,7 +5143,7 @@ const TREND_DATA = {
         "script": "TA啥意思：把十斤木头只能烧出一斤炭，古人为什么还要把柴烧成炭再卖？相关迷惑发言发给小火人解读",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
-      "globalRank": 224
+      "globalRank": 223
     },
     {
       "id": "5278452647e3",
@@ -5186,10 +5163,10 @@ const TREND_DATA = {
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "用Open仔仔替你发起江苏教育厅统一规范中小学上学时间，多地高中严格执行周末双休，这次「反恶性内卷行动」能持续多久？相关话题，精准匹配同好交流",
+        "script": "仔仔世界搭场景讨论江苏教育厅统一规范中小学上学时间，多地高中严格执行周末双休，这次「反恶性内卷行动」能持续多久？，让仔仔们各抒己见",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
-      "globalRank": 225
+      "globalRank": 224
     },
     {
       "id": "05d7454de826",
@@ -5203,16 +5180,16 @@ const TREND_DATA = {
       "category": "其他热点",
       "link": "https://www.zhihu.com/question/2104616712494761329",
       "duoshanScore": 25,
-      "idea": "用Open仔仔替你发起《后会友期》最火的为什么是白小纯？相关话题，精准匹配同好交流",
+      "idea": "TA啥意思：把《后会友期》最火的为什么是白小纯？相关迷惑发言发给小火人解读",
       "brief": {
         "zaiZaiPlay": "在仔仔世界发起「《后会友期》最火的为什么是白小纯？」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "用Open仔仔替你发起《后会友期》最火的为什么是白小纯？相关话题，精准匹配同好交流",
+        "script": "TA啥意思：把《后会友期》最火的为什么是白小纯？相关迷惑发言发给小火人解读",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
-      "globalRank": 226
+      "globalRank": 225
     },
     {
       "id": "9958b8314fc5",
@@ -5226,7 +5203,7 @@ const TREND_DATA = {
       "category": "其他热点",
       "link": "https://www.zhihu.com/question/11113487761",
       "duoshanScore": 25,
-      "idea": "TA啥意思：把为什么鲁智深要在圆寂时说：钱塘江上潮信来，今日方知我是我？相关迷惑发言发给小火人解读",
+      "idea": "用Open仔仔替你发起为什么鲁智深要在圆寂时说：钱塘江上潮信来，今日方知我是我？相关话题，精准匹配同好交流",
       "brief": {
         "zaiZaiPlay": "在仔仔世界发起「为什么鲁智深要在圆寂时说：钱塘江上潮信来，今日方知我是我？」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
@@ -5235,7 +5212,7 @@ const TREND_DATA = {
         "script": "用Open仔仔替你发起为什么鲁智深要在圆寂时说：钱塘江上潮信来，今日方知我是我？相关话题，精准匹配同好交流",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
-      "globalRank": 227
+      "globalRank": 226
     },
     {
       "id": "1d6b72b01910",
@@ -5258,7 +5235,7 @@ const TREND_DATA = {
         "script": "用仔仔世界搭讨论场景，仔仔们围绕「如何看待管泽元全程无缘 2026 全球总决赛官方解说席？」展开辩论",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
-      "globalRank": 228
+      "globalRank": 227
     },
     {
       "id": "9cd3aed0192d",
@@ -5281,7 +5258,7 @@ const TREND_DATA = {
         "script": "用仔仔搭游戏场景，仔仔还原为什么近期国产3A动作游戏（《黑神话：悟空》《明末：渊虚之羽》《影之刃零》）普遍走暗黑压抑风格？高光操作",
         "tags": "#多闪仔仔 #全员多闪qq人 #在多闪跨次元相遇 #多闪二次元相亲角"
       },
-      "globalRank": 229
+      "globalRank": 228
     },
     {
       "id": "84122827c6a9",
@@ -5301,10 +5278,10 @@ const TREND_DATA = {
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：游戏圈、二次元",
         "event": "七夕/KOC通用",
-        "script": "用仔仔搭游戏场景，仔仔还原如何评价2026 TGA电竞类奖项提名，Chovy提名最佳选手，GEN提名最佳电竞战队，BLG掉提？高光操作",
+        "script": "用做个表情包把如何评价2026 TGA电竞类奖项提名，Chovy提名最佳选手，GEN提名最佳电竞战队，BLG掉提？游戏梗图做成仔仔表情包",
         "tags": "#多闪仔仔 #全员多闪qq人 #在多闪跨次元相遇 #多闪二次元相亲角"
       },
-      "globalRank": 230
+      "globalRank": 229
     },
     {
       "id": "73b4e9bb7972",
@@ -5327,7 +5304,7 @@ const TREND_DATA = {
         "script": "仔仔世界搭场景讨论网传生菜「塌房」了，看似健康其实膳食纤维的含量很低，是真的吗？，让仔仔们各抒己见",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
-      "globalRank": 231
+      "globalRank": 230
     },
     {
       "id": "25b975771f23",
@@ -5341,16 +5318,16 @@ const TREND_DATA = {
       "category": "其他热点",
       "link": "https://www.zhihu.com/question/2106401577850200853",
       "duoshanScore": 25,
-      "idea": "仔仔世界搭场景讨论美国总统特朗普抵达深圳，出席 APEC 深圳峰会，本次迎接仪式有哪些亮点？还有哪些信息值得关注？，让仔...",
+      "idea": "TA啥意思：把美国总统特朗普抵达深圳，出席 APEC 深圳峰会，本次迎接仪式有哪些亮点？还有哪些信息值得关注？相关迷惑发...",
       "brief": {
         "zaiZaiPlay": "在仔仔世界发起「美国总统特朗普抵达深圳，出席 APEC 深圳峰会，本次迎接仪式有哪些亮点？还有哪些信息值得关注？」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "用Open仔仔替你发起美国总统特朗普抵达深圳，出席 APEC 深圳峰会，本次迎接仪式有哪些亮点？还有哪些信息值得关注？相关话题，精准匹配同好交流",
+        "script": "仔仔世界搭场景讨论美国总统特朗普抵达深圳，出席 APEC 深圳峰会，本次迎接仪式有哪些亮点？还有哪些信息值得关注？，让仔仔们各抒己见",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
-      "globalRank": 232
+      "globalRank": 231
     },
     {
       "id": "c608b04f3639",
@@ -5364,16 +5341,16 @@ const TREND_DATA = {
       "category": "其他热点",
       "link": "https://www.zhihu.com/question/2106058517216024001",
       "duoshanScore": 25,
-      "idea": "仔仔世界搭场景讨论48 岁律师与法援对象沟通时突发脑溢血去世，交五险却无法享受工亡待遇，为啥会出现这种情况？，让仔仔们各...",
+      "idea": "TA啥意思：把48 岁律师与法援对象沟通时突发脑溢血去世，交五险却无法享受工亡待遇，为啥会出现这种情况？相关迷惑发言发给...",
       "brief": {
         "zaiZaiPlay": "在仔仔世界发起「48 岁律师与法援对象沟通时突发脑溢血去世，交五险却无法享受工亡待遇，为啥会出现这种情况？」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "仔仔世界搭场景讨论48 岁律师与法援对象沟通时突发脑溢血去世，交五险却无法享受工亡待遇，为啥会出现这种情况？，让仔仔们各抒己见",
+        "script": "TA啥意思：把48 岁律师与法援对象沟通时突发脑溢血去世，交五险却无法享受工亡待遇，为啥会出现这种情况？相关迷惑发言发给小火人解读",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
-      "globalRank": 233
+      "globalRank": 232
     },
     {
       "id": "b674e1ef1c40",
@@ -5396,7 +5373,7 @@ const TREND_DATA = {
         "script": "仔仔世界搭场景讨论如何看待雷军 APEC 发言紧张，网友称「好像略微有点社恐」？，让仔仔们各抒己见",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
-      "globalRank": 234
+      "globalRank": 233
     },
     {
       "id": "d2fef461a417",
@@ -5410,16 +5387,16 @@ const TREND_DATA = {
       "category": "科技数码",
       "link": "https://www.zhihu.com/question/2106286526703166917",
       "duoshanScore": 40,
-      "idea": "畅聊晚自习发起「英伟达史上首次单季营收突破千亿美元，数据中心收入占比约九成，AI 算力需求还能支撑英伟达增长多久？ A ...",
+      "idea": "用仔仔搭科技发布会场景，仔仔介绍英伟达史上首次单季营收突破千亿美元，数据中心收入占比约九成，AI 算力需求还能支撑英伟达...",
       "brief": {
         "zaiZaiPlay": "用仔仔世界展演「英伟达史上首次单季营收突破千亿美元，数据中心收入占比约九成，AI 算力需求还能支撑英伟达增长多久？」相关内容，仔仔做科技解说",
         "skillBind": "技能：取名大师（【文字】小火人玩文字梗，）",
         "circle": "圈层：科技圈、数码圈",
         "event": "KOC通用",
-        "script": "畅聊晚自习发起「英伟达史上首次单季营收突破千亿美元，数据中心收入占比约九成，AI 算力需求还能支撑英伟达增长多久？ A vs B 哪个更值得」话题讨论",
+        "script": "用仔仔搭科技发布会场景，仔仔介绍英伟达史上首次单季营收突破千亿美元，数据中心收入占比约九成，AI 算力需求还能支撑英伟达增长多久？相关内容",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
-      "globalRank": 235
+      "globalRank": 234
     },
     {
       "id": "2d2a4ea23332",
@@ -5442,7 +5419,7 @@ const TREND_DATA = {
         "script": "用Open仔仔替你发起如何评价王楚钦/孙颖莎获得 2026 年 WTT 香港总决赛混双外卡？你有哪些期待？相关话题，精准匹配同好交流",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
-      "globalRank": 236
+      "globalRank": 235
     },
     {
       "id": "34a35f8ff882",
@@ -5456,16 +5433,16 @@ const TREND_DATA = {
       "category": "其他热点",
       "link": "https://www.zhihu.com/question/26776677",
       "duoshanScore": 25,
-      "idea": "用Open仔仔替你发起某些动物灭绝一定要怪人类吗？相关话题，精准匹配同好交流",
+      "idea": "仔仔世界搭场景讨论某些动物灭绝一定要怪人类吗？，让仔仔们各抒己见",
       "brief": {
         "zaiZaiPlay": "在仔仔世界发起「某些动物灭绝一定要怪人类吗？」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "用Open仔仔替你发起某些动物灭绝一定要怪人类吗？相关话题，精准匹配同好交流",
+        "script": "仔仔世界搭场景讨论某些动物灭绝一定要怪人类吗？，让仔仔们各抒己见",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
-      "globalRank": 237
+      "globalRank": 236
     },
     {
       "id": "9eca754d6bc5",
@@ -5479,16 +5456,16 @@ const TREND_DATA = {
       "category": "其他热点",
       "link": "https://www.zhihu.com/question/2105307883109929432",
       "duoshanScore": 25,
-      "idea": "用Open仔仔替你发起业内人士称不建议买500元以下羽绒服，基本不合格，500元真是羽绒服的分水岭吗？选购时应留心哪些标...",
+      "idea": "仔仔世界搭场景讨论业内人士称不建议买500元以下羽绒服，基本不合格，500元真是羽绒服的分水岭吗？选购时应留心哪些标准？...",
       "brief": {
         "zaiZaiPlay": "在仔仔世界发起「业内人士称不建议买500元以下羽绒服，基本不合格，500元真是羽绒服的分水岭吗？选购时应留心哪些标准？」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "用Open仔仔替你发起业内人士称不建议买500元以下羽绒服，基本不合格，500元真是羽绒服的分水岭吗？选购时应留心哪些标准？相关话题，精准匹配同好交流",
+        "script": "仔仔世界搭场景讨论业内人士称不建议买500元以下羽绒服，基本不合格，500元真是羽绒服的分水岭吗？选购时应留心哪些标准？，让仔仔们各抒己见",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
-      "globalRank": 238
+      "globalRank": 237
     },
     {
       "id": "134209889ddd",
@@ -5511,7 +5488,7 @@ const TREND_DATA = {
         "script": "仔仔世界搭场景讨论工信部严抓 60 天账期落地，17 家车企被要求定期报送数据，该举措对保障供应链回款作用有多大？，让仔仔们各抒己见",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
-      "globalRank": 239
+      "globalRank": 238
     },
     {
       "id": "fd9e82d8b205",
@@ -5525,7 +5502,7 @@ const TREND_DATA = {
       "category": "其他热点",
       "link": "https://www.zhihu.com/question/1910660324329239782",
       "duoshanScore": 25,
-      "idea": "TA啥意思：把医学生就业工作真的很难吗？相关迷惑发言发给小火人解读",
+      "idea": "仔仔世界搭场景讨论医学生就业工作真的很难吗？，让仔仔们各抒己见",
       "brief": {
         "zaiZaiPlay": "在仔仔世界发起「医学生就业工作真的很难吗？」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
@@ -5534,7 +5511,7 @@ const TREND_DATA = {
         "script": "TA啥意思：把医学生就业工作真的很难吗？相关迷惑发言发给小火人解读",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
-      "globalRank": 240
+      "globalRank": 239
     },
     {
       "id": "9f961144e15a",
@@ -5548,7 +5525,7 @@ const TREND_DATA = {
       "category": "其他热点",
       "link": "https://www.toutiao.com/trending/7709413556537593363/",
       "duoshanScore": 25,
-      "idea": "TA啥意思：把习近平迎接特朗普相关迷惑发言发给小火人解读",
+      "idea": "用Open仔仔替你发起习近平迎接特朗普相关话题，精准匹配同好交流",
       "brief": {
         "zaiZaiPlay": "在仔仔世界发起「习近平迎接特朗普」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
@@ -5557,7 +5534,7 @@ const TREND_DATA = {
         "script": "仔仔世界搭场景讨论习近平迎接特朗普，让仔仔们各抒己见",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
-      "globalRank": 241
+      "globalRank": 240
     },
     {
       "id": "2d006511d29f",
@@ -5571,16 +5548,16 @@ const TREND_DATA = {
       "category": "其他热点",
       "link": "https://www.toutiao.com/trending/7708919984080420902/",
       "duoshanScore": 25,
-      "idea": "用Open仔仔替你发起特朗普抵达深圳相关话题，精准匹配同好交流",
+      "idea": "仔仔世界搭场景讨论特朗普抵达深圳，让仔仔们各抒己见",
       "brief": {
         "zaiZaiPlay": "在仔仔世界发起「特朗普抵达深圳」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "TA啥意思：把特朗普抵达深圳相关迷惑发言发给小火人解读",
+        "script": "用Open仔仔替你发起特朗普抵达深圳相关话题，精准匹配同好交流",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
-      "globalRank": 242
+      "globalRank": 241
     },
     {
       "id": "6e6a0632938c",
@@ -5594,7 +5571,7 @@ const TREND_DATA = {
       "category": "其他热点",
       "link": "https://www.toutiao.com/trending/7709410110090530342/",
       "duoshanScore": 25,
-      "idea": "用Open仔仔替你发起中国与亚太经济体合作故事相关话题，精准匹配同好交流",
+      "idea": "仔仔世界搭场景讨论中国与亚太经济体合作故事，让仔仔们各抒己见",
       "brief": {
         "zaiZaiPlay": "在仔仔世界发起「中国与亚太经济体合作故事」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
@@ -5603,7 +5580,7 @@ const TREND_DATA = {
         "script": "TA啥意思：把中国与亚太经济体合作故事相关迷惑发言发给小火人解读",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
-      "globalRank": 243
+      "globalRank": 242
     },
     {
       "id": "af433ae618bf",
@@ -5617,16 +5594,16 @@ const TREND_DATA = {
       "category": "其他热点",
       "link": "https://www.toutiao.com/trending/7709090624632327721/",
       "duoshanScore": 25,
-      "idea": "仔仔世界搭场景讨论深圳机场停满各国领导人专机，让仔仔们各抒己见",
+      "idea": "TA啥意思：把深圳机场停满各国领导人专机相关迷惑发言发给小火人解读",
       "brief": {
         "zaiZaiPlay": "在仔仔世界发起「深圳机场停满各国领导人专机」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "用Open仔仔替你发起深圳机场停满各国领导人专机相关话题，精准匹配同好交流",
+        "script": "仔仔世界搭场景讨论深圳机场停满各国领导人专机，让仔仔们各抒己见",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
-      "globalRank": 244
+      "globalRank": 243
     },
     {
       "id": "04fb35306cb0",
@@ -5640,7 +5617,7 @@ const TREND_DATA = {
       "category": "其他热点",
       "link": "https://www.toutiao.com/trending/7709418503715094571/",
       "duoshanScore": 25,
-      "idea": "TA啥意思：把台湾岛内震撼：全世界焦点都在深圳相关迷惑发言发给小火人解读",
+      "idea": "仔仔世界搭场景讨论台湾岛内震撼：全世界焦点都在深圳，让仔仔们各抒己见",
       "brief": {
         "zaiZaiPlay": "在仔仔世界发起「台湾岛内震撼：全世界焦点都在深圳」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
@@ -5649,7 +5626,7 @@ const TREND_DATA = {
         "script": "用Open仔仔替你发起台湾岛内震撼：全世界焦点都在深圳相关话题，精准匹配同好交流",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
-      "globalRank": 245
+      "globalRank": 244
     },
     {
       "id": "38075c1a119f",
@@ -5663,16 +5640,16 @@ const TREND_DATA = {
       "category": "社会热点",
       "link": "https://www.toutiao.com/trending/7709409012864781866/",
       "duoshanScore": 15,
-      "idea": "Open仔仔替你发表对中方回应英伟达停止向华供应H200芯片的看法，吸引同观点的好友来交流",
+      "idea": "精灵法庭：围绕中方回应英伟达停止向华供应H200芯片中的争议人物/事件发起审判",
       "brief": {
         "zaiZaiPlay": "在仔仔世界发起「中方回应英伟达停止向华供应H200芯片」话题讨论，仔仔替你表达观点",
         "skillBind": "技能：TA啥意思（【文字】小火人做阅读理解）",
         "circle": "圈层：生活圈、校园圈",
         "event": "KOC通用",
-        "script": "精灵法庭：围绕中方回应英伟达停止向华供应H200芯片中的争议人物/事件发起审判",
+        "script": "Open仔仔替你发表对中方回应英伟达停止向华供应H200芯片的看法，吸引同观点的好友来交流",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
-      "globalRank": 246
+      "globalRank": 245
     },
     {
       "id": "587db5140517",
@@ -5692,10 +5669,10 @@ const TREND_DATA = {
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "仔仔世界搭场景讨论泰国总理回到老家广东大飙粤语，让仔仔们各抒己见",
+        "script": "用Open仔仔替你发起泰国总理回到老家广东大飙粤语相关话题，精准匹配同好交流",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
-      "globalRank": 247
+      "globalRank": 246
     },
     {
       "id": "3ec80be7746f",
@@ -5709,16 +5686,16 @@ const TREND_DATA = {
       "category": "其他热点",
       "link": "https://www.toutiao.com/trending/7709128443384021042/",
       "duoshanScore": 25,
-      "idea": "用Open仔仔替你发起美学者开中国电动车走马可·波罗之路相关话题，精准匹配同好交流",
+      "idea": "TA啥意思：把美学者开中国电动车走马可·波罗之路相关迷惑发言发给小火人解读",
       "brief": {
         "zaiZaiPlay": "在仔仔世界发起「美学者开中国电动车走马可·波罗之路」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "用Open仔仔替你发起美学者开中国电动车走马可·波罗之路相关话题，精准匹配同好交流",
+        "script": "仔仔世界搭场景讨论美学者开中国电动车走马可·波罗之路，让仔仔们各抒己见",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
-      "globalRank": 248
+      "globalRank": 247
     },
     {
       "id": "b589e29d2dee",
@@ -5732,7 +5709,7 @@ const TREND_DATA = {
       "category": "其他热点",
       "link": "https://www.toutiao.com/trending/7709410127664811547/",
       "duoshanScore": 25,
-      "idea": "仔仔世界搭场景讨论外国人士热议APEC 共话新期待，让仔仔们各抒己见",
+      "idea": "用Open仔仔替你发起外国人士热议APEC 共话新期待相关话题，精准匹配同好交流",
       "brief": {
         "zaiZaiPlay": "在仔仔世界发起「外国人士热议APEC 共话新期待」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
@@ -5741,7 +5718,7 @@ const TREND_DATA = {
         "script": "仔仔世界搭场景讨论外国人士热议APEC 共话新期待，让仔仔们各抒己见",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
-      "globalRank": 249
+      "globalRank": 248
     },
     {
       "id": "d66fd79397a7",
@@ -5755,7 +5732,7 @@ const TREND_DATA = {
       "category": "其他热点",
       "link": "https://www.toutiao.com/trending/7709440097833238547/",
       "duoshanScore": 25,
-      "idea": "用Open仔仔替你发起空军表演队拉彩烟欢迎特朗普相关话题，精准匹配同好交流",
+      "idea": "TA啥意思：把空军表演队拉彩烟欢迎特朗普相关迷惑发言发给小火人解读",
       "brief": {
         "zaiZaiPlay": "在仔仔世界发起「空军表演队拉彩烟欢迎特朗普」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
@@ -5764,7 +5741,7 @@ const TREND_DATA = {
         "script": "TA啥意思：把空军表演队拉彩烟欢迎特朗普相关迷惑发言发给小火人解读",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
-      "globalRank": 250
+      "globalRank": 249
     },
     {
       "id": "76cc68a30cc7",
@@ -5787,7 +5764,7 @@ const TREND_DATA = {
         "script": "用Open仔仔替你发起小獬豸捉“妖”记相关话题，精准匹配同好交流",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
-      "globalRank": 251
+      "globalRank": 250
     },
     {
       "id": "d329cda20afd",
@@ -5810,7 +5787,7 @@ const TREND_DATA = {
         "script": "用Open仔仔替你发起新西兰代表大赞中国汽车相关话题，精准匹配同好交流",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
-      "globalRank": 252
+      "globalRank": 251
     },
     {
       "id": "2b4cb52987f1",
@@ -5824,16 +5801,16 @@ const TREND_DATA = {
       "category": "其他热点",
       "link": "https://www.toutiao.com/trending/7709438962238230042/",
       "duoshanScore": 25,
-      "idea": "TA啥意思：把特朗普成首位踏足深圳的在任美总统相关迷惑发言发给小火人解读",
+      "idea": "用Open仔仔替你发起特朗普成首位踏足深圳的在任美总统相关话题，精准匹配同好交流",
       "brief": {
         "zaiZaiPlay": "在仔仔世界发起「特朗普成首位踏足深圳的在任美总统」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "TA啥意思：把特朗普成首位踏足深圳的在任美总统相关迷惑发言发给小火人解读",
+        "script": "用Open仔仔替你发起特朗普成首位踏足深圳的在任美总统相关话题，精准匹配同好交流",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
-      "globalRank": 253
+      "globalRank": 252
     },
     {
       "id": "55ebcdc32e26",
@@ -5847,16 +5824,16 @@ const TREND_DATA = {
       "category": "其他热点",
       "link": "https://www.toutiao.com/trending/7709215063806050843/",
       "duoshanScore": 25,
-      "idea": "仔仔世界搭场景讨论台青：两岸统一台胞才有更广阔未来，让仔仔们各抒己见",
+      "idea": "用Open仔仔替你发起台青：两岸统一台胞才有更广阔未来相关话题，精准匹配同好交流",
       "brief": {
         "zaiZaiPlay": "在仔仔世界发起「台青：两岸统一台胞才有更广阔未来」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "仔仔世界搭场景讨论台青：两岸统一台胞才有更广阔未来，让仔仔们各抒己见",
+        "script": "用Open仔仔替你发起台青：两岸统一台胞才有更广阔未来相关话题，精准匹配同好交流",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
-      "globalRank": 254
+      "globalRank": 253
     },
     {
       "id": "981c90d87773",
@@ -5870,7 +5847,7 @@ const TREND_DATA = {
       "category": "其他热点",
       "link": "https://www.toutiao.com/trending/7709072187161707058/",
       "duoshanScore": 25,
-      "idea": "仔仔世界搭场景讨论胖东来羽绒服区太火爆，让仔仔们各抒己见",
+      "idea": "TA啥意思：把胖东来羽绒服区太火爆相关迷惑发言发给小火人解读",
       "brief": {
         "zaiZaiPlay": "在仔仔世界发起「胖东来羽绒服区太火爆」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
@@ -5879,7 +5856,7 @@ const TREND_DATA = {
         "script": "TA啥意思：把胖东来羽绒服区太火爆相关迷惑发言发给小火人解读",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
-      "globalRank": 255
+      "globalRank": 254
     },
     {
       "id": "65ff0812b554",
@@ -5902,7 +5879,7 @@ const TREND_DATA = {
         "script": "仔仔世界搭场景讨论普京说感谢中国，让仔仔们各抒己见",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
-      "globalRank": 256
+      "globalRank": 255
     },
     {
       "id": "a743794c9784",
@@ -5916,7 +5893,7 @@ const TREND_DATA = {
       "category": "其他热点",
       "link": "https://www.toutiao.com/trending/7709425263817264659/",
       "duoshanScore": 25,
-      "idea": "用Open仔仔替你发起邵永灵：日本想打造亚洲能源枢纽相关话题，精准匹配同好交流",
+      "idea": "仔仔世界搭场景讨论邵永灵：日本想打造亚洲能源枢纽，让仔仔们各抒己见",
       "brief": {
         "zaiZaiPlay": "在仔仔世界发起「邵永灵：日本想打造亚洲能源枢纽」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
@@ -5925,7 +5902,7 @@ const TREND_DATA = {
         "script": "仔仔世界搭场景讨论邵永灵：日本想打造亚洲能源枢纽，让仔仔们各抒己见",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
-      "globalRank": 257
+      "globalRank": 256
     },
     {
       "id": "3bc86c5f89ea",
@@ -5939,16 +5916,16 @@ const TREND_DATA = {
       "category": "科技数码",
       "link": "https://www.toutiao.com/trending/7709416879655226899/",
       "duoshanScore": 40,
-      "idea": "取名大师给英伟达拿走数据中心芯片市场76%营收相关产品起搞笑昵称",
+      "idea": "畅聊晚自习发起「英伟达拿走数据中心芯片市场76%营收 A vs B 哪个更值得」话题讨论",
       "brief": {
         "zaiZaiPlay": "用仔仔世界展演「英伟达拿走数据中心芯片市场76%营收」相关内容，仔仔做科技解说",
         "skillBind": "技能：取名大师（【文字】小火人玩文字梗，）",
         "circle": "圈层：科技圈、数码圈",
         "event": "KOC通用",
-        "script": "畅聊晚自习发起「英伟达拿走数据中心芯片市场76%营收 A vs B 哪个更值得」话题讨论",
+        "script": "用仔仔搭科技发布会场景，仔仔介绍英伟达拿走数据中心芯片市场76%营收相关内容",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
-      "globalRank": 258
+      "globalRank": 257
     },
     {
       "id": "38931d80c369",
@@ -5962,7 +5939,7 @@ const TREND_DATA = {
       "category": "其他热点",
       "link": "https://www.toutiao.com/trending/7709399994213633545/",
       "duoshanScore": 25,
-      "idea": "TA啥意思：把普京盛赞深圳相关迷惑发言发给小火人解读",
+      "idea": "用Open仔仔替你发起普京盛赞深圳相关话题，精准匹配同好交流",
       "brief": {
         "zaiZaiPlay": "在仔仔世界发起「普京盛赞深圳」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
@@ -5971,7 +5948,7 @@ const TREND_DATA = {
         "script": "仔仔世界搭场景讨论普京盛赞深圳，让仔仔们各抒己见",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
-      "globalRank": 259
+      "globalRank": 258
     },
     {
       "id": "54ef3b0bc839",
@@ -5985,16 +5962,16 @@ const TREND_DATA = {
       "category": "其他热点",
       "link": "https://www.toutiao.com/trending/7709308906278797834/",
       "duoshanScore": 25,
-      "idea": "TA啥意思：把郑恺当年高考分数超复旦录取线31分相关迷惑发言发给小火人解读",
+      "idea": "仔仔世界搭场景讨论郑恺当年高考分数超复旦录取线31分，让仔仔们各抒己见",
       "brief": {
         "zaiZaiPlay": "在仔仔世界发起「郑恺当年高考分数超复旦录取线31分」话题活动，仔仔替你找到同好",
         "skillBind": "技能：畅聊晚自习（【文字】小火人出二选一争）",
         "circle": "圈层：综合圈",
         "event": "KOC通用",
-        "script": "仔仔世界搭场景讨论郑恺当年高考分数超复旦录取线31分，让仔仔们各抒己见",
+        "script": "用Open仔仔替你发起郑恺当年高考分数超复旦录取线31分相关话题，精准匹配同好交流",
         "tags": "#多闪仔仔 #有多闪不孤单"
       },
-      "globalRank": 260
+      "globalRank": 259
     }
   ],
   "isFallback": false
